@@ -1,0 +1,48 @@
+Algebra:
+  name: Algebra
+  parent-category: mathematical-olympiads
+  color: 1
+Combinatorics:
+  name: Combinatorics
+  parent-category: mathematical-olympiads
+  color: 3
+Geometry:
+  name: Geometry
+  parent-category: mathematical-olympiads
+  color: 4
+Number-Theory:
+  name: Number Theory
+  parent-category: mathematical-olympiads
+  color: 6
+Contests:
+  name: Contests
+  parent-category: mathematical-olympiads
+  color: 5
+Physics:
+  name: Physics
+  parent-category: science-olympiads
+  color: 6
+Chemistry:
+  name: Chemistry
+  parent-category: science-olympiads
+  color: 5
+Biology:
+  name: Biology
+  parent-category: science-olympiads
+  color: 1
+Earth-Science:
+  name: Earth Science
+  parent-category: science-olympiads
+  color: 3
+Lecture-Notes:
+  name: Lecture Notes
+  parent-category: science-olympiads
+  color: 4
+LaTeX:
+  name: LaTeX
+  parent-category: computer-and-coding
+  color: 3
+Github:
+  name: Github
+  parent-category: computer-and-coding
+  color: 4

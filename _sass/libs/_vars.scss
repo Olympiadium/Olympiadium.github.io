@@ -1,0 +1,126 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000
+	);
+
+// Duration.
+	$duration: (
+		menu:				0.45s,
+		transition:			0.2s
+	);
+
+// Size.
+	$size: (
+		border-radius:		4px,
+		border-width:		1px,
+		element-height:		3em,
+		element-margin:		2em,
+		gutter:				2.5em,
+		field-gutter:		2em,
+		inner:				68em,
+		menu:				22em
+	);
+
+// Font.
+	$font: (
+		family:                 ('Lora', 'Noto Serif KR', serif),
+		family-sans:		('Source Sans Pro', Helvetica, sans-serif),
+		family-fixed:		('Courier New', monospace),
+		weight:			400,
+		weight-bold:		900,
+		weight-bold-alt:	700,
+		letter-spacing:		0.1em,
+		letter-spacing-alt:	-0.035em
+	);
+
+// Palette.
+	$palette: (
+		bg:				#ffffff,
+		bg-accent:			#333333,
+		bg-alt:				#f6f6f6, 
+		fg:				#585858, //회색
+		fg-accent:			#ffffff, //흰색
+		dark:                             #252525, //어두운 회색
+		black:                             #000000, //검정색
+		border:				#c9c9c9,
+		border-bg:			rgba(144,144,144,0.075),
+		red:                            #ff0000,
+		accent1:			#f2849e,
+		accent2:			#7ecaf6,
+		accent3:			#7bd0c1,
+		accent4:			#c75b9b,
+		accent5:			#ae85ca,
+		accent6:			#8499e7,
+	);
+$base: (
+  //font-family:            (-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif),
+  //font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
+
+  font-size-root:         16px,
+  font-size-root-sm:      14px,
+
+  font-size-xl:           1.5rem,
+  font-size-lg:           1.25rem,
+  font-size:              1rem,
+  font-size-sm:           .85rem,
+  font-size-xs:           .7rem,
+
+  font-size-h1-xl:        3.5rem,
+  font-size-h2-xl:        2.5rem,
+  font-size-h3-xl:        2rem,
+  font-size-h4-xl:        1.75rem,
+  font-size-h5-xl:        1.5rem,
+  font-size-h6-xl:        1.5rem,
+
+  font-size-h1-lg:        3rem,
+  font-size-h2-lg:        2rem,
+  font-size-h3-lg:        1.75rem,
+  font-size-h4-lg:        1.5rem,
+  font-size-h5-lg:        1.25rem,
+  font-size-h6-lg:        1.25rem,
+
+  font-size-h1:           2.5rem,
+  font-size-h2:           1.9rem,
+  font-size-h3:           1.5rem,
+  font-size-h4:           1.2rem,
+  font-size-h5:           1rem,
+  font-size-h6:           1rem,
+
+  font-size-h1-sm:        2rem,
+  font-size-h2-sm:        1.5rem,
+  font-size-h3-sm:        1.35rem,
+  font-size-h4-sm:        1.15rem,
+  font-size-h5-sm:        1rem,
+  font-size-h6-sm:        1rem,
+
+  font-size-h1-xs:        1.05rem,
+  font-size-h2-xs:        1rem,
+  font-size-h3-xs:        .95rem,
+  font-size-h4-xs:        .9rem,
+  font-size-h5-xs:        .85rem,
+  font-size-h6-xs:        .85rem,
+
+  font-weight:            400,
+  font-weight-bold:       700,
+
+  line-height-xl:         2,
+  line-height-lg:         1.8,
+  line-height:            1.6,
+  line-height-sm:         1.4,
+  line-height-xs:         1.2,
+
+  spacer:                 1rem,
+
+  border-radius-lg:       .8rem,
+  border-radius:          .4rem,
+  border-radius-sm:       .2rem
+);
+
+$spacers: (
+  0:                      0,
+  1:                      map-get($base, spacer) * .25,
+  2:                      map-get($base, spacer) * .5,
+  3:                      map-get($base, spacer),
+  4:                      map-get($base, spacer) * 1.5,
+  5:                      map-get($base, spacer) * 3
+);

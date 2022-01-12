@@ -1,0 +1,24 @@
+Category 1:
+  name: Mathematical Olympiads
+  description: 수학올림피아드
+  subcategory:
+    - Algebra
+    - Combinatorics
+    - Geometry
+    - Number Theory
+    - Contests
+Category 2:
+  name: Science Olympiads
+  description: 과학올림피아드
+  subcategory:
+    - Physics
+    - Chemistry
+    - Biology
+    - Earth Science
+    - Lecture Notes
+Category 3:
+  name: Computer and Coding
+  description: LaTeX and Github
+  subcategory:
+    - LaTeX
+    - Github
