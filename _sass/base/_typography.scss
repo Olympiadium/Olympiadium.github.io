@@ -1,0 +1,438 @@
+///
+/// Phantom by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Type */
+
+	input, select, textarea {
+		color: _palette(fg);
+		font-family: _font(family);
+		font-size: 16pt;
+		font-weight: _font(weight);
+		line-height: 1.75;
+
+		@include breakpoint(xlarge) {
+			font-size: 14pt;
+		}
+
+		@include breakpoint(large) {
+			font-size: 12pt;
+		}
+	}
+	body {
+		color: _palette(dark);
+		font-family: _font(family);
+		font-size: 16pt;
+		font-weight: _font(weight);
+		line-height: 1.75;
+
+		@include breakpoint(xlarge) {
+			font-size: 14pt;
+		}
+
+		@include breakpoint(large) {
+			font-size: 12pt;
+		}
+	
+	}
+
+// link color
+	a {
+		@include vendor('transition', (
+			'border-bottom-color #{_duration(transition)} ease',
+			'color #{_duration(transition)} ease'
+		));
+		text-decoration: none;
+		color: _palette(accent1) !important;
+
+		&:hover {
+			color: _palette(fg);
+			border-bottom: dotted 2px transparentize(_palette(accent1), 0.1);
+		}
+	}
+
+	strong, b {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+	}
+	em, i {
+		font-style: italic;
+	}
+
+	p {
+		margin: _size(element-margin)*0.5 0 0 0;
+	}
+
+	bbr {
+   		display: block;
+   		margin: _size(element-margin)*1.5 0 0 0;
+		content: " ";
+	}
+
+	/*br {
+   		display: block;
+   		margin: _size(element-margin) 0 0 0;
+		content: " ";
+	}*/
+
+	sbr {
+   		display: block;
+   		margin: _size(element-margin)*0.7 0 0 0;
+		content: " ";
+	}
+
+	ssbr {
+   		display: block;
+   		margin: _size(element-margin)*0.5 0 0 0;
+		content: " ";
+	}
+
+	h1 {
+		font-size: 2.75em;
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold-alt);
+		line-height: 1.3;
+		margin: 0 0 (_size(element-margin) * 0.3) 0;
+		letter-spacing: _font(letter-spacing-alt);
+
+		a {
+			color: inherit;
+		}
+
+		@include breakpoint(small) {
+			font-size: 2em;
+			margin: (_size(element-margin) * 0.5) 0 (_size(element-margin) * 0.5) 0;
+		}
+
+		@include breakpoint(xxsmall) {
+			font-size: 1.75em;
+		}
+	}
+	h0 {
+		font-size: 1.5em;
+		font-family: _font(family);
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+		line-height: 1.5;
+		margin: (_size(element-margin) * 0.5) 0 (_size(element-margin) * 0.5) 0;
+		text-transform: uppercase;
+		letter-spacing: _font(letter-spacing);
+	}
+
+
+//header style
+	h2, h3, h4, h5, h6 {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+		line-height: 1.5;
+		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.25) 0;
+
+		a {
+			color: inherit;
+		}
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	h3 {
+		font-size: 1.5em;
+	}
+
+	h4 {
+		font-size: 1.2em;
+	}
+
+	h5 {
+		font-size: 1em;
+	}
+
+	h6 {
+		font-size: 0.8em;
+	}
+
+	@include breakpoint(medium) {
+		h1, h2, h3, h4, h5, h6 {
+			br {
+				display: none;
+			}
+		}
+	}
+
+	@include breakpoint(small) {
+		h2 {
+			font-size: 1.5em;
+		}
+
+		h3 {
+			font-size: 1.2em;
+		}
+	}
+	l { //검정 -> 색만 바꾸기
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom: none;
+			color: _palette(dark) !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+	}
+	lw { //하양 -> 색만 바꾸기
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom-color: transparent;
+			color: #ffffff !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+	}
+	ll { //검정 -> 색 바꾸고 밑줄
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom-color: transparent;
+			color: _palette(dark) !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
+			}
+		}
+	}
+	sub {
+		font-size: 0.8em;
+		position: relative;
+		top: 0.5em;
+	}
+	ssub {
+		font-size: 0.7em;
+		position: relative;
+		top: 0.5em;
+	}
+
+	sup {
+		font-size: 0.8em;
+		position: relative;
+		top: -0.5em;
+	}
+	ssup {
+		font-size: 0.7em;
+		position: relative;
+		top: -0.5em;
+	}
+
+	blockquote {
+		border-left: solid (_size(border-width) * 4) _palette(border);
+		font-style: italic;
+		margin: 0 0 _size(element-margin) 0;
+		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+	}
+
+	code {
+		background: _palette(border-bg);
+		border-radius: _size(border-radius);
+		border: solid _size(border-width) _palette(border);
+		font-family: _font(family-fixed);
+		font-size: 0.9em;
+		margin: 0 0.25em;
+		padding: 0.25em 0.65em;
+	}
+
+	pre {
+		-webkit-overflow-scrolling: touch;
+		font-family: _font(family-fixed);
+		font-size: 0.9em;
+		margin: 0 0 _size(element-margin) 0;
+
+		code {
+			display: block;
+			line-height: 1.75;
+			padding: 1em 1.5em;
+			overflow-x: auto;
+		}
+	}
+
+	hr {
+		border: 0;
+		border-bottom: solid _size(border-width) _palette(border);
+		margin: _size(element-margin) 0;
+
+		&.major {
+			margin: (_size(element-margin) * 1.5) 0;
+		}
+	}
+
+	.align-left {
+		text-align: left;
+	}
+
+	.align-center {
+		text-align: center;
+	}
+
+	.align-right {
+		text-align: right;
+	}
+//highlight
+	mark.red {
+		background-color: #fba8a8;
+	}
+	mark.orange {
+		background-color: ##ffe8ac; //
+	}
+	mark.yellow {
+		background-color: #f9f812; //#f5f5ab
+	}
+	mark.green {
+		background-color: #befba7;
+	}
+	mark.skyblue {
+		background-color: #8bf5f3;
+	}
+	mark.blue {
+		background-color: #98b3f7;
+	}
+	mark.purple {
+		background-color: #d9b7fb; //
+	}
+	mark.pink {
+		background-color: #fbb7fa;
+	}
+
+//box
+        redbox, orangebox, yellowbox, greenbox, skybluebox, bluebox, purplebox, pinkbox, blackbox {
+		padding: map-get($spacers, 2) map-get($spacers, 3);
+                border-radius: map-get($base, border-radius);
+		display: block;
+		line-height: 1.75;
+		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
+		overflow-x: auto;
+	}
+        redbox {
+                background-color: rgba(#ff0000, .1);
+                border: 1px solid #ff0000;
+        }
+        orangebox {
+                background-color: rgba(#ffa500, .1);
+                border: 1px solid #ffa500;
+
+        }
+        yellowbox {
+                background-color: rgba(#ffff00, .1);
+                border: 1px solid #ffff00;
+        }
+        greenbox {
+                background-color: rgba(#00ff00, .1);
+                border: 1px solid #00ff00;
+        }
+        skybluebox {
+                background-color: rgba(#00fff2, .1);
+                border: 1px solid #00fff2;
+        }
+        bluebox {
+                background-color: rgba(#0088ff, .1);
+                border: 1px solid #0088ff;
+        }
+        purplebox {
+                background-color: rgba(#ae00ff, .1);
+                border: 1px solid #ae00ff;
+        }
+        pinkbox {
+                background-color: rgba(#ff00bf, .1);
+                border: 1px solid #ff00bf;
+        }
+        blackbox {
+                background-color: rgba(#000000, .1);
+                border: 1px solid #000000;
+        }
+	redbaord, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
+		padding: map-get($spacers, 2) map-get($spacers, 3);
+		border-radius: map-get($base, border-radius);
+		display: block;
+		line-height: 1.75;
+		margin: (_size(element-margin)*0.4) 0 (_size(element-margin)*0.4) 0;
+		overflow-x: auto;
+	}
+        redboard {
+                background-color: rgba(#ff0000, .1);
+        }
+        orangeboard {
+        	background-color: rgba(#ffa500, .1);
+        }
+        yellowboard {
+        	background-color: rgba(#ffff00, .1);
+        }
+        greenboard {
+        	background-color: rgba(#00ff00, .1);
+        }
+        skyblueboard {
+        	background-color: rgba(#00fff2, .1);
+        }
+        blueboard {
+        	background-color: rgba(#0088ff, .1);
+        }
+        purpleboard {
+        	background-color: rgba(#ae00ff, .1);
+       	}
+        pinkboard {
+        	background-color: rgba(#ff00bf, .1);
+        }
+        blackboard {
+        	background-color: rgba(#000000, .1);
+        }
+        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder {
+        	padding: map-get($spacers, 2) map-get($spacers, 3);
+                border: 1px solid #ff0000;
+                border-radius: map-get($base, border-radius);
+		display: block;
+		line-height: 1.75;
+		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
+		overflow-x: auto;
+        }
+        redborder {
+                border: 1px solid #ff0000;
+        }
+        orangeborder {
+                border: 1px solid #ffa500;
+        }
+        yellowborder {
+                border: 1px solid #ffff00;
+        }
+        greenborder {
+                border: 1px solid #00ff00;
+        }
+        skyblueborder {
+                border: 1px solid #00fff2;
+        }
+        blueborder {
+                border: 1px solid #0088ff;
+        }
+        purpleborder {
+                border: 1px solid #ae00ff;
+        }
+        pinkborder {
+                border: 1px solid #ff00bf;
+        }
+        blackborder {
+                border: 1px solid #000000;
+        }
+//margin: 박스 바깥 여백
+//padding: 박스 안쪽 여백

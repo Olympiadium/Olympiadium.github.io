@@ -1,0 +1,28 @@
+---
+layout: default
+title: Olym 5A | Olympiadium
+date: 2022-01-01
+mathjax: true
+lang: ko
+permalink: /mathematical-olympiads/algebra/olym-5a/
+---
+<h1>Olym 5A. 평균 부등식과 코시 부등식</h1>
+<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a><br><br>
+<div class="row">
+<div class="6u 12u$(medium)">
+<ul>
+  <li><h4>산술-기하 평균 부등식(AM-GM)</h4></li>
+  <li><h4>AM-GM의 확장과 일반화</h4></li>
+  <li><h4>코시-슈바르츠 부등식과 응용</h4></li>
+  <li><h4>Reverse-코시 부등식</h4></li>
+</ul>
+</div>
+<div class="6u$ 12u$(medium)">
+<ul class="actions vertical">
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}theorems-and-techniques" class="button fit mid">이론 및 기술</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}exercise-problems" class="button fit mid">연습문제</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}practice-problems" class="button fit mid">실전문제</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}olym-handouts" class="button fit mid">Olym 통신강좌</a></li>
+</ul>
+</div>
+</div>

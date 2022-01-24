@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+#  ___  _                       _           _ _
+# / _ \| |_   _ _ __ ___  _ __ (_) __ _  __| (_)_   _ _ __ ___
+#| | | | | | | | '_ ` _ \| '_ \| |/ _` |/ _` | | | | | '_ ` _ \
+#| |_| | | |_| | | | | | | |_) | | (_| | (_| | | |_| | | | | | |
+# \___/|_|\__, |_| |_| |_| .__/|_|\__,_|\__,_|_|\__,_|_| |_| |_|
+#         |___/          |_|
+
+# Site settings
+title: Olympiadium
+email: lysnaya1@gmail.com
+description: This is a test version.
+baseurl: " " # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+homeurl: "https://olympiadium.github.io/"
+
+# Logo settings
+logo-image-url: images/logo.svg
+font-awesome-icon-logo:
+
+# Social settings
+github_username: Olympiadium
+twitter_username: 
+facebook_URL: 
+instagram_username: 
+dribbble_username: 
+500px_username: 
+phone: 
+
+# Build settings
+markdown: kramdown
+
+# Layout settings
+home-link-in-menu: yes
+
+#Table of Contents
+toc:
+  selectors: # "h1,h2,h3" (default)
+
+# Mathjax
+mathjax: true
+#mathjax_autoNumber: true
+
+#languages
+languages: ["en", "ko"]
+default_lang: "en"
+##parallel_localizaion: false
