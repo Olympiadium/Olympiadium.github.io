@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PN Chemistry | Olympiadium
-date: 2021-12-25
+date: 2022-01-01
 mathjax: true
 lang: ko
 permalink: /science-olympiads/lecture-notes/private-note-chemistry/

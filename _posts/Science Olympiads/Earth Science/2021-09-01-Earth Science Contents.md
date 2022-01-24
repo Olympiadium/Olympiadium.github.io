@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Earth Science | Olymplex
-date: 2021-09-01
+title: Earth Science | Olympiadium
+date: 2022-01-01
 mathjax: true
 permalink: /science-olympiads/earth-science/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chemistry | Olymplex
-date: 2021-09-01
+date: 2022-01-01
 mathjax: true
 permalink: /science-olympiads/chemistry/
 ---
