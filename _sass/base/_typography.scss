@@ -54,15 +54,27 @@
 
 		&.black {
 			color: _palette(link-black);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-black), 0.2);
+			}
 		}
 		&.red {
 			color: _palette(link-red);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
+			}
 		}
-		&.black.underlined {
-			border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
+		&.blue {
+			color: _palette(link-blue);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-blue), 0.2);
+			}
 		}
-		&.red.underlined {
-			border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
+		&.purple {
+			color: _palette(link-purple);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-purple), 0.2);
+			}
 		}
 		&.to-black{
 			&:hover {
@@ -86,7 +98,28 @@
 				}
 			}
 		}
-		
+		&.to-blue {
+			&:hover {
+				color: _palette(link-blue);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-blue), 0.2);
+				}
+			}
+		}
+		&.to-purple {
+			&:hover {
+				color: _palette(link-purple);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-purple), 0.2);
+				}
+			}
+		}
 
 		&.btor { /* black to red */
 			color: _palette(link-black);
