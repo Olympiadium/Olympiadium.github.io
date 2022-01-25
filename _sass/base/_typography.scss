@@ -56,13 +56,13 @@
 			color: _palette(dark);
 		}
 		&.red {
-			color: _palette(accent1);
+			color: _palette(pastel-pink);
 		}
 		&.black.underlined {
-			border-bottom: dotted 1px transparentize(_palette(dark), 0.2);
+			border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
 		}
 		&.red.underlined {
-			border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
+			border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
 		}
 		&.to-black{
 			&:hover {
@@ -77,39 +77,36 @@
 		}
 		&.to-red {
 			&:hover {
-				color: _palette(accent1);
+				color: _palette(pastel-pink);
 				border-bottom: none;
 			}
 			&.to-underlined {
 				&:hover {
-					border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
+					border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
 				}
 			}
 		}
 		
 
 		&.btor { /* black to red */
-			border-bottom: none;
 			color: _palette(dark);
 			&:hover {
-				color: _palette(accent1);
+				color: _palette(pastel-pink);
 			}
 		}
 
 		&.wtor { /* white to red */
-			border-bottom: none;
 			color: #ffffff;
 			&:hover {
-				color: _palette(accent1);
+				color: _palette(pastel-pink);
 			}
 		}
 
 		&.btoru { /* black to red underline */
-			border-bottom: none;
 			color: _palette(dark);
 			&:hover {
-				color: _palette(accent1);
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
+				color: _palette(pastel-pink);
+				border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
 			}
 		}
 	}
