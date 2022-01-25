@@ -23,9 +23,11 @@ This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Final
 
 These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, and <mark class="pink">pink</mark>.</p>
 
-There are links with various styles:
-Link
-<a href="#" class="black to-red to-underlined">with class="black to-red to-underlined"</a>,  <a href="#" class="red underlined to-red">with class="red underlined to-red"</a>.
+There are links with various styles:<br>
+<a href="#" class="black to-red to-underlined">with class="black to-red to-underlined"</a><br>
+<a href="#" class="red underlined to-red">with class="red underlined to-red"</a><br>
+<a href="#" class="blue underlined to-purple to-underlined">with class="blue underlined to-purple to-underlined"</a><br>
+
 
 <hr />
 
