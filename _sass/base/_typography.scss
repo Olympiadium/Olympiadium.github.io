@@ -45,51 +45,51 @@
 		));
 		text-decoration: none;
 		border-bottom: none;
-		color: _palette(accent1);
+		color: _palette(link-red);
 
 		&:hover {
 			color: _palette(fg);
-			border-bottom: dotted 2px transparentize(_palette(accent1), 0.1);
+			border-bottom: dotted 2px transparentize(_palette(link-red), 0.1);
 		}
 
 		&.black {
-			color: _palette(dark);
+			color: _palette(link-black);
 		}
 		&.red {
-			color: _palette(pastel-pink);
+			color: _palette(link-red);
 		}
 		&.black.underlined {
-			border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
+			border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
 		}
 		&.red.underlined {
-			border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
+			border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
 		}
 		&.to-black{
 			&:hover {
-				color: _palette(dark);
+				color: _palette(link-black);
 				border-bottom: none;
 			}
 			&.to-underlined {
 				&:hover {
-					border-bottom: dotted 1px transparentize(_palette(dark), 0.2);
+					border-bottom: dotted 1px transparentize(_palette(link-black), 0.2);
 				}
 			}
 		}
 		&.to-red {
 			&:hover {
-				color: _palette(pastel-pink);
+				color: _palette(link-red);
 				border-bottom: none;
 			}
 			&.to-underlined {
 				&:hover {
-					border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
+					border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
 				}
 			}
 		}
 		
 
 		&.btor { /* black to red */
-			color: _palette(dark);
+			color: _palette(link-black);
 			&:hover {
 				color: _palette(pastel-pink);
 			}
@@ -103,7 +103,7 @@
 		}
 
 		&.btoru { /* black to red underline */
-			color: _palette(dark);
+			color: _palette(link-black);
 			&:hover {
 				color: _palette(pastel-pink);
 				border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
