@@ -171,6 +171,7 @@
 			font-size: 1.2em;
 		}
 	}
+	/*
 	l { //검정 -> 색만 바꾸기
 		a {
 			@include vendor('transition', (
@@ -217,6 +218,7 @@
 			}
 		}
 	}
+	*/
 	sub {
 		font-size: 0.8em;
 		position: relative;
