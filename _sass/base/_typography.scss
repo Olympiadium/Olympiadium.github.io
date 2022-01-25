@@ -38,7 +38,6 @@
 	
 	}
 
-// link color
 	a {
 		@include vendor('transition', (
 			'border-bottom-color #{_duration(transition)} ease',
@@ -51,8 +50,82 @@
 			color: _palette(fg);
 			border-bottom: dotted 2px transparentize(_palette(accent1), 0.1);
 		}
+
+		.btor { /* black to red */
+			border-bottom: none;
+			color: _palette(dark) !important;
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+
+		.wtor { /* white to red */
+			border-bottom: none;
+			color: #ffffff !important;
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+
+		.btoru { /* black to red underline */
+			border-bottom: none;
+			color: _palette(dark) !important;
+			&:hover {
+				color: _palette(accent1) !important;
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
+			}
+		}
 	}
 
+	l { /* 검정 -> 색만 바꾸기 */
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom: none;
+			color: _palette(dark) !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+	}
+
+	lw { /* 하양 -> 색만 바꾸기 */
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom-color: transparent;
+			color: #ffffff !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+			}
+		}
+	}
+
+	ll { /* 검정 -> 색 바꾸고 밑줄 */
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom-color: transparent;
+			color: _palette(dark) !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
+			}
+		}
+	}
+	
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
@@ -63,6 +136,22 @@
 
 	p {
 		margin: _size(element-margin)*0.5 0 0 0;
+	}
+
+	br {
+		display: block;
+		.big {
+			margin: _size(element-margin)*1.5 0 0 0;
+			content: " ";
+		}
+		.small {
+			margin: _size(element-margin)*0.7 0 0 0;
+			content: " ";
+		}
+		.tiny {
+			margin: _size(element-margin)*0.5 0 0 0;
+			content: " ";
+		}
 	}
 
 	bbr {
@@ -171,54 +260,7 @@
 			font-size: 1.2em;
 		}
 	}
-	
-	l { //검정 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom: none;
-			color: _palette(dark) !important;
 
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	lw { //하양 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: #ffffff !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	ll { //검정 -> 색 바꾸고 밑줄
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
-			}
-		}
-	}
-	
 	sub {
 		font-size: 0.8em;
 		position: relative;
