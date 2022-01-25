@@ -336,6 +336,7 @@
 		text-align: right;
 	}
 //highlight
+
 	mark.red {
 		background-color: #fba8a8;
 	}
@@ -407,7 +408,7 @@
                 background-color: rgba(#000000, .1);
                 border: 1px solid #000000;
         }
-	redbaord, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
+	redboard, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
 		padding: map-get($spacers, 2) map-get($spacers, 3);
 		border-radius: map-get($base, border-radius);
 		display: block;
@@ -442,7 +443,7 @@
         blackboard {
         	background-color: rgba(#000000, .1);
         }
-        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder {
+        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder, blackborder {
         	padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ff0000;
                 border-radius: map-get($base, border-radius);
