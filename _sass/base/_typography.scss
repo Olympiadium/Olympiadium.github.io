@@ -53,7 +53,7 @@
 		}
 
 		.black {
-			color: _palette(dark);
+			color: _palette(dark) !important;
 		}
 		.red {
 			color: palette(accent1);
