@@ -25,7 +25,7 @@ These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">
 
 There are links with various styles:
 Link
-<a href="#" class="black to-red to-underlined">with <code>class="black to-red to-underlined"</code></a>,  <a href="#" class="red underlined to-red">with <code>class="red underlined to-red"</code></a>.
+<a href="#" class="black to-red to-underlined">with class="black to-red to-underlined"</a>,  <a href="#" class="red underlined to-red">with class="red underlined to-red"</a>.
 
 <hr />
 
