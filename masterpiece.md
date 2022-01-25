@@ -401,7 +401,7 @@ text here. text here. text here. text here.
 <h2>Multi Columns</h2>
 <div class="row">
 <div class="6u 12u$(medium)">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/example.png">
+<img style="display: block;" src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/example.png">
 </div>
 <div class="6u$ 12u$(medium)">
 Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.
