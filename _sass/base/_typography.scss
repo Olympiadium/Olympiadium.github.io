@@ -44,11 +44,42 @@
 			'color #{_duration(transition)} ease'
 		));
 		text-decoration: none;
+		border-bottom: none;
 		color: _palette(accent1) !important;
 
 		&:hover {
 			color: _palette(fg);
 			border-bottom: dotted 2px transparentize(_palette(accent1), 0.1);
+		}
+
+		.black {
+			color: _palette(dark);
+		}
+		.red {
+			color: palette(accent1);
+		}
+		.black.underlined {
+			border-bottom: dotted 1px transparentize(_palette(dark), 0.2);
+		}
+		.red.underlined {
+			border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
+		}
+		.to-black{
+			&:hover {
+				color: _palette(dark);
+				border-bottom: none;
+			}
+		}
+		.to-red {
+			&:hover {
+				color: _pallette(accent1);
+				border-bottom: none;
+			}
+		}
+		.to-underlined {
+			&:hover {
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
+			}
 		}
 
 		.btor { /* black to red */
@@ -86,22 +117,6 @@
 			text-decoration: none;
 			border-bottom: none;
 			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-
-	lw { /* 하양 -> 색만 바꾸기 */
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: #ffffff !important;
 
 			&:hover {
 				color: _palette(accent1) !important;

@@ -20,7 +20,12 @@ permalink: /masterpiece/
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.<br>
+
 These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, and <mark class="pink">pink</mark>.</p>
+
+There are links with various styles:
+Link
+<a href="#" class="black to-red to-underlined">with <code>class="black to-red to-underlined"</code></a>,  <a href="#" class="red underlined to-red">with <code>class="red underlined to-red"</code></a>.
 
 <hr />
 
