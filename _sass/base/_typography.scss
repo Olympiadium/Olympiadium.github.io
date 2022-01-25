@@ -144,22 +144,6 @@
 		}
 	}
 
-	l { /* 검정 -> 색만 바꾸기 */
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom: none;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-
 	ll { /* 검정 -> 색 바꾸고 밑줄 */
 		a {
 			@include vendor('transition', (

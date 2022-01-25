@@ -14,7 +14,7 @@
 				max-width: _size(inner);
 				margin: 0 auto;
 				padding: 0 300px 0 $gutter*1.2;
-				@media (max-width: 64.5em){
+				@media (max-width: 64.9em){
     				$gutter: _size(gutter) * 0.5;
     				padding: 0 $gutter;
   				}
