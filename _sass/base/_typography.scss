@@ -304,7 +304,7 @@
 	blockquote {
 		border-left: solid (_size(border-width) * 4) _palette(border);
 		font-style: italic;
-		margin: 0 0 _size(element-margin) 0;
+		margin: _size(element-margin) 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
 
