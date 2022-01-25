@@ -45,7 +45,7 @@
 		));
 		text-decoration: none;
 		border-bottom: none;
-		color: _palette(accent1) !important;
+		color: _palette(accent1);
 
 		&:hover {
 			color: _palette(fg);
@@ -84,26 +84,26 @@
 
 		.btor { /* black to red */
 			border-bottom: none;
-			color: _palette(dark) !important;
+			color: _palette(dark);
 			&:hover {
-				color: _palette(accent1) !important;
+				color: _palette(accent1);
 			}
 		}
 
 		.wtor { /* white to red */
 			border-bottom: none;
-			color: #ffffff !important;
+			color: #ffffff;
 			&:hover {
-				color: _palette(accent1) !important;
+				color: _palette(accent1);
 			}
 		}
 
 		.btoru { /* black to red underline */
 			border-bottom: none;
-			color: _palette(dark) !important;
+			color: _palette(dark);
 			&:hover {
-				color: _palette(accent1) !important;
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
+				color: _palette(accent1);
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2);
 			}
 		}
 	}
