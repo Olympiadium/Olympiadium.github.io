@@ -171,54 +171,7 @@
 			font-size: 1.2em;
 		}
 	}
-	/*
-	l { //검정 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom: none;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	lw { //하양 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: #ffffff !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	ll { //검정 -> 색 바꾸고 밑줄
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
-			}
-		}
-	}
-	*/
+	
 	sub {
 		font-size: 0.8em;
 		position: relative;
