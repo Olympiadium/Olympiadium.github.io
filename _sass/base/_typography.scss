@@ -48,7 +48,7 @@
 		color: _palette(link-red);
 
 		&:hover {
-			color: _palette(fg);
+			color: _palette(link-red);
 			border-bottom: dotted 2px transparentize(_palette(link-red), 0.1);
 		}
 
@@ -140,23 +140,6 @@
 			&:hover {
 				color: _palette(pastel-pink);
 				border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
-			}
-		}
-	}
-
-	ll { /* 검정 -> 색 바꾸고 밑줄 */
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
 			}
 		}
 	}
@@ -371,31 +354,33 @@
 		text-align: right;
 	}
 //highlight
-
-	mark.red {
-		background-color: #fba8a8;
+	mark {
+		&.red {
+			background-color: #fba8a8;
+		}
+		&.orange {
+			background-color: #ffe8ac;
+		}
+		&.yellow {
+			background-color: #f9f812;
+		}
+		&.green {
+			background-color: #befba7;
+		}
+		&.skyblue {
+			background-color: #8bf5f3;
+		}
+		&.blue {
+			background-color: #98b3f7;
+		}
+		&.purple {
+			background-color: #d9b7fb;
+		}
+		&.pink {
+			background-color: #fbb7fa;
+		}
 	}
-	mark.orange {
-		background-color: #ffe8ac;
-	}
-	mark.yellow {
-		background-color: #f9f812;
-	}
-	mark.green {
-		background-color: #befba7;
-	}
-	mark.skyblue {
-		background-color: #8bf5f3;
-	}
-	mark.blue {
-		background-color: #98b3f7;
-	}
-	mark.purple {
-		background-color: #d9b7fb;
-	}
-	mark.pink {
-		background-color: #fbb7fa;
-	}
+	
 
 //box
         redbox, orangebox, yellowbox, greenbox, skybluebox, bluebox, purplebox, pinkbox, blackbox {
@@ -443,7 +428,7 @@
                 background-color: rgba(#000000, .1);
                 border: 1px solid #000000;
         }
-	redboard, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
+	redboard, orangeboard, yellowboard, greenboard, skyblueboard, blueboard, purpleboard, pinkboard, blackboard {
 		padding: map-get($spacers, 2) map-get($spacers, 3);
 		border-radius: map-get($base, border-radius);
 		display: block;
