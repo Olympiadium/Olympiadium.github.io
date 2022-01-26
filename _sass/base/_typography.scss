@@ -318,181 +318,88 @@
 	}
 
 //box
-        redbox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ff0000, .1);
-                border: 1px solid #ff0000;
+        redbox, orangebox, yellowbox, greenbox, skybluebox, bluebox, purplebox, pinkbox, blackbox {
+		padding: map-get($spacers, 2) map-get($spacers, 3);
                 border-radius: map-get($base, border-radius);
 		display: block;
 		line-height: 1.75;
 		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
 		overflow-x: auto;
+	}
+        redbox {
+                background-color: rgba(#ff0000, .1);
+                border: 1px solid #ff0000;
         }
         orangebox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#ffa500, .1);
                 border: 1px solid #ffa500;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
+
         }
         yellowbox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#ffff00, .1);
                 border: 1px solid #ffff00;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         greenbox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#00ff00, .1);
                 border: 1px solid #00ff00;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         skybluebox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#00fff2, .1);
                 border: 1px solid #00fff2;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         bluebox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#0088ff, .1);
                 border: 1px solid #0088ff;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         purplebox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#ae00ff, .1);
                 border: 1px solid #ae00ff;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-	}
+        }
         pinkbox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#ff00bf, .1);
                 border: 1px solid #ff00bf;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         blackbox {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 background-color: rgba(#000000, .1);
                 border: 1px solid #000000;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
-		
-        redboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ff0000, .1);
-                border-radius: map-get($base, border-radius);
+	redbaord, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
+		padding: map-get($spacers, 2) map-get($spacers, 3);
+		border-radius: map-get($base, border-radius);
 		display: block;
 		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        orangeboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ffa500, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        yellowboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ffff00, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        greenboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#00ff00, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        skyblueboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#00fff2, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        blueboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#0088ff, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }
-        purpleboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ae00ff, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
+		margin: (_size(element-margin)*0.4) 0 (_size(element-margin)*0.4) 0;
 		overflow-x: auto;
 	}
+        redboard {
+                background-color: rgba(#ff0000, .1);
+        }
+        orangeboard {
+        	background-color: rgba(#ffa500, .1);
+        }
+        yellowboard {
+        	background-color: rgba(#ffff00, .1);
+        }
+        greenboard {
+        	background-color: rgba(#00ff00, .1);
+        }
+        skyblueboard {
+        	background-color: rgba(#00fff2, .1);
+        }
+        blueboard {
+        	background-color: rgba(#0088ff, .1);
+        }
+        purpleboard {
+        	background-color: rgba(#ae00ff, .1);
+       	}
         pinkboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#ff00bf, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
+        	background-color: rgba(#ff00bf, .1);
         }
         blackboard {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
-                background-color: rgba(#000000, .1);
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-        }	
-	
-        redborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
+        	background-color: rgba(#000000, .1);
+        }
+        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder {
+        	padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ff0000;
                 border-radius: map-get($base, border-radius);
 		display: block;
@@ -500,77 +407,32 @@
 		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
 		overflow-x: auto;
         }
+        redborder {
+                border: 1px solid #ff0000;
+        }
         orangeborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ffa500;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         yellowborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ffff00;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         greenborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #00ff00;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         skyblueborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #00fff2;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         blueborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #0088ff;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         purpleborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ae00ff;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
-	}
+        }
         pinkborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ff00bf;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
         blackborder {
-                padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #000000;
-                border-radius: map-get($base, border-radius);
-		display: block;
-		line-height: 1.75;
-		margin: (_size(element-margin) * 0.4) 0 (_size(element-margin) * 0.4) 0;
-		overflow-x: auto;
         }
 //margin: 박스 바깥 여백
 //padding: 박스 안쪽 여백

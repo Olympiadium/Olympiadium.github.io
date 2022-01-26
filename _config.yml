@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+#  ___  _                       _           _ _
+# / _ \| |_   _ _ __ ___  _ __ (_) __ _  __| (_)_   _ _ __ ___
+#| | | | | | | | '_ ` _ \| '_ \| |/ _` |/ _` | | | | | '_ ` _ \
+#| |_| | | |_| | | | | | | |_) | | (_| | (_| | | |_| | | | | | |
+# \___/|_|\__, |_| |_| |_| .__/|_|\__,_|\__,_|_|\__,_|_| |_| |_|
+#         |___/          |_|
+
 # Site settings
 title: Olympiadium
 email: lysnaya1@gmail.com
