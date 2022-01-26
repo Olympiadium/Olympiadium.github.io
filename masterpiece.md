@@ -20,7 +20,14 @@ permalink: /masterpiece/
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.<br>
+
 These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, and <mark class="pink">pink</mark>.</p>
+
+There are links with various styles:<br>
+<a href="#" class="black to-red to-underlined">with class="black to-red to-underlined"</a><br>
+<a href="#" class="red underlined to-red">with class="red underlined to-red"</a><br>
+<a href="#" class="blue underlined to-purple to-underlined">with class="blue underlined to-purple to-underlined"</a><br>
+
 
 <hr />
 
@@ -401,7 +408,7 @@ text here. text here. text here. text here.
 <h2>Multi Columns</h2>
 <div class="row">
 <div class="6u 12u$(medium)">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/example.png">
+<img style="display: block;" width="100%" src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/example.png">
 </div>
 <div class="6u$ 12u$(medium)">
 Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.

@@ -38,21 +38,129 @@
 	
 	}
 
-// link color
 	a {
 		@include vendor('transition', (
 			'border-bottom-color #{_duration(transition)} ease',
 			'color #{_duration(transition)} ease'
 		));
 		text-decoration: none;
-		color: _palette(accent1) !important;
+		border-bottom: none;
+		color: _palette(link-red);
 
 		&:hover {
 			color: _palette(fg);
-			border-bottom: dotted 2px transparentize(_palette(accent1), 0.1);
+			border-bottom: dotted 2px transparentize(_palette(link-red), 0.1);
+		}
+
+		&.black {
+			color: _palette(link-black);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-black), 0.2);
+			}
+		}
+		&.red {
+			color: _palette(link-red);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
+			}
+		}
+		&.blue {
+			color: _palette(link-blue);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-blue), 0.2);
+			}
+		}
+		&.purple {
+			color: _palette(link-purple);
+			&.underlined {
+				border-bottom: dotted 1px transparentize(_palette(link-purple), 0.2);
+			}
+		}
+		&.to-black{
+			&:hover {
+				color: _palette(link-black);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-black), 0.2);
+				}
+			}
+		}
+		&.to-red {
+			&:hover {
+				color: _palette(link-red);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-red), 0.2);
+				}
+			}
+		}
+		&.to-blue {
+			&:hover {
+				color: _palette(link-blue);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-blue), 0.2);
+				}
+			}
+		}
+		&.to-purple {
+			&:hover {
+				color: _palette(link-purple);
+				border-bottom: none;
+			}
+			&.to-underlined {
+				&:hover {
+					border-bottom: dotted 1px transparentize(_palette(link-purple), 0.2);
+				}
+			}
+		}
+
+		&.btor { /* black to red */
+			color: _palette(link-black);
+			&:hover {
+				color: _palette(pastel-pink);
+			}
+		}
+
+		&.wtor { /* white to red */
+			color: #ffffff;
+			&:hover {
+				color: _palette(pastel-pink);
+			}
+		}
+
+		&.btoru { /* black to red underline */
+			color: _palette(link-black);
+			&:hover {
+				color: _palette(pastel-pink);
+				border-bottom: dotted 1px transparentize(_palette(pastel-pink), 0.2);
+			}
 		}
 	}
 
+	ll { /* 검정 -> 색 바꾸고 밑줄 */
+		a {
+			@include vendor('transition', (
+				'border-bottom-color #{_duration(transition)} ease',
+				'color #{_duration(transition)} ease'
+			));
+			text-decoration: none;
+			border-bottom-color: transparent;
+			color: _palette(dark) !important;
+
+			&:hover {
+				color: _palette(accent1) !important;
+				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
+			}
+		}
+	}
+	
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
@@ -63,6 +171,22 @@
 
 	p {
 		margin: _size(element-margin)*0.5 0 0 0;
+	}
+
+	br {
+		display: block;
+		.big {
+			margin: _size(element-margin)*1.5 0 0 0;
+			content: " ";
+		}
+		.small {
+			margin: _size(element-margin)*0.7 0 0 0;
+			content: " ";
+		}
+		.tiny {
+			margin: _size(element-margin)*0.5 0 0 0;
+			content: " ";
+		}
 	}
 
 	bbr {
@@ -171,52 +295,7 @@
 			font-size: 1.2em;
 		}
 	}
-	l { //검정 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom: none;
-			color: _palette(dark) !important;
 
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	lw { //하양 -> 색만 바꾸기
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: #ffffff !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-			}
-		}
-	}
-	ll { //검정 -> 색 바꾸고 밑줄
-		a {
-			@include vendor('transition', (
-				'border-bottom-color #{_duration(transition)} ease',
-				'color #{_duration(transition)} ease'
-			));
-			text-decoration: none;
-			border-bottom-color: transparent;
-			color: _palette(dark) !important;
-
-			&:hover {
-				color: _palette(accent1) !important;
-				border-bottom: dotted 1px transparentize(_palette(accent1), 0.2) !important;
-			}
-		}
-	}
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -242,7 +321,7 @@
 	blockquote {
 		border-left: solid (_size(border-width) * 4) _palette(border);
 		font-style: italic;
-		margin: 0 0 _size(element-margin) 0;
+		margin: _size(element-margin) 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
 
@@ -292,14 +371,15 @@
 		text-align: right;
 	}
 //highlight
+
 	mark.red {
 		background-color: #fba8a8;
 	}
 	mark.orange {
-		background-color: ##ffe8ac; //
+		background-color: #ffe8ac;
 	}
 	mark.yellow {
-		background-color: #f9f812; //#f5f5ab
+		background-color: #f9f812;
 	}
 	mark.green {
 		background-color: #befba7;
@@ -311,7 +391,7 @@
 		background-color: #98b3f7;
 	}
 	mark.purple {
-		background-color: #d9b7fb; //
+		background-color: #d9b7fb;
 	}
 	mark.pink {
 		background-color: #fbb7fa;
@@ -363,7 +443,7 @@
                 background-color: rgba(#000000, .1);
                 border: 1px solid #000000;
         }
-	redbaord, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
+	redboard, orangeboard, yellowboard, greenboard, blueboard, purpleboard, pinkboard, blackboard{
 		padding: map-get($spacers, 2) map-get($spacers, 3);
 		border-radius: map-get($base, border-radius);
 		display: block;
@@ -398,7 +478,7 @@
         blackboard {
         	background-color: rgba(#000000, .1);
         }
-        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder {
+        redborder, orangeborder, yellowborder, greenborder, skyblueborder, blueborder, purpleborder, pinkborder, blackborder {
         	padding: map-get($spacers, 2) map-get($spacers, 3);
                 border: 1px solid #ff0000;
                 border-radius: map-get($base, border-radius);

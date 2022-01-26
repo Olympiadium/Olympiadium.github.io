@@ -12,13 +12,16 @@
 		.logo {
 			display: block;
 			border-bottom: 0;
-			color: inherit;
+			color: _palette(dark);
 			font-weight: _font(weight-bold);
 			letter-spacing: _font(letter-spacing);
 			margin: 0 0 (_size(element-margin) * 1.25) 0;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
+			&:hover {
+				color: _palette(accent1);
+			}
 
 			> * {
 				display: inline-block;
