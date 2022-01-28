@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PN Chemistry | Olympiadium
+title: MS Biology | Olympiadium
 date: 2022-01-01
 mathjax: true
 lang: ko

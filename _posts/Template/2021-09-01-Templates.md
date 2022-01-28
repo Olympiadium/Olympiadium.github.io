@@ -93,3 +93,6 @@ Solution Here.
 <span style="color:red"><b>Text Here</b></span>
 <span style="color:green"><b>Text Here</b></span>
 <span style="color:blue"><b>Text Here</b></span>
+
+#### Mark
+<mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, and <mark class="pink">pink</mark>.</p>
