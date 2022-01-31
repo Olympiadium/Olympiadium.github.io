@@ -31,11 +31,11 @@ There are links with various styles:<br>
 <hr />
 <h3>Line Break</h3>
 Line break size can be changed with class attribute.<br class="small">
-Line break with no class(default)<br>
+Line break with no class(<mark>default</mark>)<br>
 Line break with class = "<mark>tiny</mark>"<br class="tiny">
 Line break with class = "<mark>small</mark>"<br class="small">
 Line break with class = "<mark>medium</mark>"<br class="medium">
-Line break with class = "<mark>large</mark>" or "big"<br class="large">
+Line break with class = "<mark>large</mark>" or "<mark>big</mark>"<br class="large">
 Line break with class = "<mark>huge</mark>"<br class="huge">
 Finish.
 
