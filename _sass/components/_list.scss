@@ -7,11 +7,14 @@
 /* List */
 
 	ol {
+		counter-reset: item;
 		list-style: decimal;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
 
 		li {
+			content: "$(" counter(item) ")$ ";
+			counter-increment: item;
 			padding-left: 0.25em;
 		}
 	}
