@@ -76,7 +76,7 @@
 				border-bottom: dotted 1px transparentize(_palette(link-purple), 0.2);
 			}
 		}
-		&.to-black{
+		&.to-black {
 			&:hover {
 				color: _palette(link-black);
 				border-bottom: none;
@@ -162,7 +162,7 @@
 		&.huge {
 			margin: _size(element-margin) 0 0 0;
 		}
-		&.large &.big {
+		&.large, &.big {
 			margin: _size(element-margin)*0.8 0 0 0;
 		}
 		&.medium {
