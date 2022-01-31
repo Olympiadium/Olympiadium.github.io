@@ -32,11 +32,11 @@ There are links with various styles:<br>
 <h3>Line Break</h3>
 Line break size can be changed with class attribute.<br class="small">
 Line break with no class(default)<br>
-Line break with class="tiny"<br class="tiny">
-Line break with class="small"<br class="small">
-Line break with class="medium"<br class="medium">
-Line break with class="large" or "big"<br class="large">
-Line break with class="huge"<br class="huge">
+Line break with class = "<mark>tiny</mark>"<br class="tiny">
+Line break with class = "<mark>small</mark>"<br class="small">
+Line break with class = "<mark>medium</mark>"<br class="medium">
+Line break with class = "<mark>large</mark>" or "big"<br class="large">
+Line break with class = "<mark>huge</mark>"<br class="huge">
 Finish.
 
 <h3>Blockquote</h3>
