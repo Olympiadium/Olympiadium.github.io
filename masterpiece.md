@@ -28,8 +28,15 @@ There are links with various styles:<br>
 <a href="#" class="red underlined to-red">with class="red underlined to-red"</a><br>
 <a href="#" class="blue underlined to-purple to-underlined">with class="blue underlined to-purple to-underlined"</a><br>
 
-
 <hr />
+<h3>Line Break</h3>
+Line break size can be changed with class attribute.<br class="huge">
+Line break with <code>class="tiny"</code><br class="tiny">
+Line break with <code>class="small"</code><br class="small">
+Line break with no class(default)<br>
+Line break with <code>class="big"</code><br class="big">
+Line break with <code>class="huge"</code><br class="huge">
+Finish.
 
 <h3>Blockquote</h3>
 Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod.
