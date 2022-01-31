@@ -6,7 +6,7 @@
 
 /* Menu */
 
-	#wrapper {
+	#wrapper, #artiwapper {
 		@include vendor('transition', 'opacity #{_duration(menu)} ease');
 		opacity: 1;
 	}
