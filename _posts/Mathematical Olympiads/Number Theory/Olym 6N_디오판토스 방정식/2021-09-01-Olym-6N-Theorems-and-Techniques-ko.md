@@ -10,6 +10,8 @@ permalink: /mathematical-olympiads/number-theory/olym-6n/theorems-and-techniques
 
 <a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-6n/">Olym 6N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-6n/theorems-and-techniques/">이론 및 기술</a>
 
+## 일차 디오판토스 방정식의 해법
+
 ## 부정방정식 기본 기술
 - 대칭성 WLOG
 

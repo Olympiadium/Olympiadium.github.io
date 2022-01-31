@@ -10,4 +10,4 @@ permalink: /mathematical-olympiads/combinatorics/olym-4c/theorems-and-techniques
 
 <a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-4c/">Olym 4C</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-4c/theorems-and-techniques/">이론 및 기술</a>
 
-Comming Soon!
+## 점화식의 해법
