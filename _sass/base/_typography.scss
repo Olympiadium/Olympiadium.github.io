@@ -159,6 +159,9 @@
 	br {
 		display: block;
 		content: " ";
+		&.huge {
+			margin: _size(element-margin)*1.5 0 0 0;
+		}
 		&.big {
 			margin: _size(element-margin)*1.5 0 0 0;
 		}
