@@ -29,3 +29,30 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <greenboard>
 방사성 동위원소의 붕괴열과 고온의 핵에서 전달되는 열로 인해 맨틀 상하부에 온도 차가 생기고, 그 결과 맨틀 내부에서 매우 느리게 열대류가 발생한다. 
 </greenboard>
+<orangeborder>한계: 당시 탐사 기술로는 맨틀 대류를 확인할 수 없었다. </orangeborder>
+
+## 해양저 확장설
+1962년 헤스와 디츠가 주장
+
+#### 해저 지형 탐사
+##### 음향 측심법
+<greenborder>
+(초)음파를 이용하여 수심을 측정하는 방법. $$d=\frac{1}{2}vt$$ $d$는 수심, $v$는 (초)음파의 속력, $t$는 왕복시간 <br>
+일반적으로 물 속에서 초음파의 속력은 약 $1500m/s$이다. </greenborder>
+
+#### 해양저 확장설의 증거
+<yellowboard>
+<ul class="inbox">
+<li>고지자기 줄무늬 대칭</li>
+<li>해령에서 멀어질수록 <mark class="orange">old thick deep</mark></li>
+<li>섭입대에서 대륙쪽으로 갈수록 진원 깊이 ↑</li>
+</ul>
+</yellowboard>
+
+## 판 구조론
+지구의 표면이 크고 작은 여러 개의 판으로 이루어져 있으며, 이들의 상대적인 운동에 의해 지각 변동이 일어난다는 이론
+#### 판의 구조
+<ul>
+<li>암석권(=판): 지각 + 상부 맨틀, 두께 약 100km</li>
+<li>연약권: 맨틀 대류가 일어나는 곳, (100~400km)</li>
+</ul>
