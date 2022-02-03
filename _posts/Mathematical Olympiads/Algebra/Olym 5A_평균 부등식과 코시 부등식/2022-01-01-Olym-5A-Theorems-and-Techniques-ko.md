@@ -45,7 +45,7 @@ $P(1) \ge P(0)$는 가중 산술 기하 평균 부등식과 일치하고, $P(1) 
 </details></blueborder>
 
 ### 코시 부등식의 응용
-<orangeboard><b>Proposition 5.5(Engel Form). 임의의 실수 $a_1, a_2, \ldots, a_n$과 양의 실수 $b_1, b_2, \ldots, b_n$에 대하여 다음 부등식이 성립한다. $$\frac{a_1^2}{b_1}+\frac{a_2^2}{b_2}+ \cdots +\frac{a_n^2}{b_n}$$</b> </orangeboard>
+<orangeboard><b>Proposition 5.5(Engel Form).</b> 임의의 실수 $a_1, a_2, \ldots, a_n$과 양의 실수 $b_1, b_2, \ldots, b_n$에 대하여 다음 부등식이 성립한다. $$\frac{a_1^2}{b_1}+\frac{a_2^2}{b_2}+ \cdots +\frac{a_n^2}{b_n}$$ </orangeboard>
 <orangeboard><b>Proposition 5.6(Nesbitt's Inequality). </b> </orangeboard>
 <blueborder><details>
 <summary><b><i>Proof</i></b></summary>
