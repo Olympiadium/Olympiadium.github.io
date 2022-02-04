@@ -70,6 +70,28 @@
 				}
 			}
 
+			&.inbox {
+				margin: 0;
+			}
+
+			&.red {
+				&:nth-child(2n + 1) {
+					background-color: #ffd0d0;
+				}
+			}
+
+			&.orange {
+				&:nth-child(2n + 1) {
+					background-color: #ffebb8;
+				}
+			}
+
+			&.yellow {
+				&:nth-child(2n + 1) {
+					background-color: #fffe72;
+				}
+			}
+
 			thead {
 				border-bottom: 0;
 			}
