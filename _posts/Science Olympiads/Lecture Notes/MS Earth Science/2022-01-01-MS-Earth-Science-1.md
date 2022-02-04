@@ -40,12 +40,13 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <greenborder>
 (초)음파를 이용하여 수심을 측정하는 방법. $$d=\frac{1}{2}vt$$ $d$는 수심, $v$는 (초)음파의 속력, $t$는 왕복시간 <br>
 일반적으로 물 속에서 초음파의 속력은 약 $1500m/s$이다. </greenborder>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/해저지형.png" width="80%" class="center">
 
 #### 해양저 확장설의 증거
 <yellowboard>
 <ul class="inbox">
 <li>고지자기 줄무늬 대칭</li>
-<li>해령에서 멀어질수록 <mark class="orange">old thick deep</mark></li>
+<li>해령에서 멀어질수록 <mark class="white">old thick deep</mark></li>
 <li>섭입대에서 대륙쪽으로 갈수록 진원 깊이 ↑</li>
 </ul>
 </yellowboard>
