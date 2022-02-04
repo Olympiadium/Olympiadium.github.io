@@ -87,12 +87,11 @@
   }
 
   a {
-      color: _palette(fg) !important;
+      color: _palette(fg);
       text-decoration: none;
   }
  
   a:hover {
-     color: _palette(accent1) !important;
-     border-bottom-color: transparent !important;
+     color: _palette(link-red);
   }
 }
