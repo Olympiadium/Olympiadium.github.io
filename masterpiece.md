@@ -21,7 +21,7 @@ permalink: /masterpiece/
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.<br>
 
-These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, and <mark class="pink">pink</mark>.</p>
+These are highlighted texts, <mark class="red">red</mark>, <mark class="orange">orange</mark>, <mark class="yellow">yellow</mark>, <mark class="green">green</mark>, <mark class="skyblue">skyblue</mark>, <mark class="blue">blue</mark>, <mark class="purple">purple</mark>, <mark class="white">white</mark> and <mark class="pink">pink</mark>.</p>
 
 There are links with various styles:<br>
 <a href="#" class="black to-red to-underlined">with class="black to-red to-underlined"</a><br>
