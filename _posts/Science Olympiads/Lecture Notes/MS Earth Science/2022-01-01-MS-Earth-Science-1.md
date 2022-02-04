@@ -14,6 +14,7 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 1912년 베게너가 주장
 #### 증거
 <yellowboard>
+<span class="image right"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/evidence.svg"></span>
 <ul class="inbox">
 <li>해안선 모양의 유사성</li>
 <li>지질 구조의 연속성</li>
