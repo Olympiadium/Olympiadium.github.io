@@ -46,6 +46,10 @@
 			margin: 0;
 		}
 
+		&.disc {
+			list-style-type: circle;
+		}
+
 		&.icons {
 			cursor: default;
 			list-style: none;
