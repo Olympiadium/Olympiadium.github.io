@@ -45,7 +45,7 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <yellowboard>
 <ul class="inbox">
 <li>고지자기 줄무늬 대칭</li>
-<li>해령에서 멀어질수록 <mark class="orange">old thick deep</mark></li>
+<li>해령에서 멀어질수록 <mark class="white">old thick deep</mark></li>
 <li>섭입대에서 대륙쪽으로 갈수록 진원 깊이 ↑</li>
 </ul>
 </yellowboard>
