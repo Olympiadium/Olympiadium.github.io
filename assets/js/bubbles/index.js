@@ -7,13 +7,13 @@ purple = [280, 50, 60];
 letterColors = [red, orange, green, blue, purple];
 
 // This variable controls the smallest distance at which a mouse will make the dots react
-mouseResponseThreshold = 100;
+mouseResponseThreshold = 130;
 
 // This variable controls how strongly the dots will try to return to their starting position
 friction = 0.9;
 
 // This variable controls how much the dots will rotate when interacting
-rotationForce = 0.006;
+rotationForce = 0.003;
 
 message = 'Olympiadium';
 
