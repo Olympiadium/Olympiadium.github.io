@@ -58,3 +58,5 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <li>암석권(=판): 지각 + 상부 맨틀, 두께 약 100km</li>
 <li>연약권: 맨틀 대류가 일어나는 곳, (100~400km)</li>
 </ul>
+
+###
