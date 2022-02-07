@@ -1,0 +1,2 @@
+drawName('Olympiadium');
+bounceBubbles();
