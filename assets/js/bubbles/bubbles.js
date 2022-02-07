@@ -72,7 +72,7 @@ function Point(x, y, z, size, color) {
 
   this.friction = document.Friction;
   this.rotationForce = document.rotationForce;
-  this.springStrength = 0.05;
+  this.springStrength = 0.1;
 
   this.originalPos = new Vector(x, y, z);
   this.radius = size;
