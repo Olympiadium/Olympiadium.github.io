@@ -24,8 +24,8 @@ function PointCollection() {
       var dd = (dx * dx) + (dy * dy);
       var d = Math.sqrt(dd);
 
-      point.targetPos.x = d < document.mouseResponseThreshold ? point.curPos.x - dx : point.originalPos.x;
-      point.targetPos.y = d < document.mouseResponseThreshold ? point.curPos.y - dy : point.originalPos.y;
+      point.targetPos.x = d < mouseResponseThreshold ? point.curPos.x - dx : point.originalPos.x;
+      point.targetPos.y = d < mouseResponseThreshold ? point.curPos.y - dy : point.originalPos.y;
 
       point.update();
     }
@@ -70,9 +70,9 @@ function Point(x, y, z, size, color) {
   this.curPos = new Vector(x, y, z);
   this.color = color;
 
-  this.friction = document.Friction;
-  this.rotationForce = document.rotationForce;
-  this.springStrength = 0.1;
+  this.friction = friction;
+  this.rotationForce = rotationForce;
+  this.springStrength = 0.05;
 
   this.originalPos = new Vector(x, y, z);
   this.radius = size;
@@ -299,12 +299,12 @@ var canvasWidth;
 var ctx;
 var pointCollection;
 
-document.rotationForce = 0.0;
-document.Friction = 0.95;
+rotationForce = 0.0;
+friction = 0.95;
 // Size the text
 document.sizeRatio = window.innerWidth / 1500;
 // Global mouse-to-point interaction threshold (px)
-document.mouseResponseThreshold = 50;
+mouseResponseThreshold = 50;
 
 var white = [0, 0, 100];
 var black = [0, 0, 27];
