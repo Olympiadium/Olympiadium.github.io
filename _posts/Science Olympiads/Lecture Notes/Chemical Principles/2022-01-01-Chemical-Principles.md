@@ -13,6 +13,6 @@ permalink: /science-olympiads/lecture-notes/chemical-principles/
 {% capture topic_name %}{{ topic | first }}{% endcapture %}
 {% assign page_topic = site.data.chemical_principles_topic_list[topic_name] %}
   <ul class="actions fit big">
-  <li><a href="{{ site.baseurl }}{{ page.permalink}}chapter-{{ forloop.index | plus:0 }}" class="button fit big">{{ forloop.index | plus:-1 }}강. {{ page_topic.name }}</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink}}chapter-{{ forloop.index | plus:-1 }}" class="button fit big">{{ forloop.index | plus:-1 }}강. {{ page_topic.name }}</a></li>
   </ul>
 {% endfor %}

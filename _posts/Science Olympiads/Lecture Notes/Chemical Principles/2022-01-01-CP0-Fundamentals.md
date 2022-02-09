@@ -10,4 +10,10 @@ permalink: /science-olympiads/lecture-notes/chemical-principles/chapter-0/
 
 <a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/chapter-0/">0강</a><br>
 
-## 
+### Matter and Energy
+
+#### 유효숫자 계산법
+#### 에너지 보존
+
+### Elements and Atoms
+
