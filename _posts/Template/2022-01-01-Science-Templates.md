@@ -18,7 +18,7 @@ permalink: /templates/
 예시
 </details></pinkborder>
 
-<orangeborder>용어 정의<orangeborder>
+<orangeborder>용어 정의</orangeborder>
 <greenborder>추가설명</greenborder>
 <orangeboard>의의</orangeboard>
 

@@ -59,4 +59,19 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <li>연약권: 맨틀 대류가 일어나는 곳, (100~400km)</li>
 </ul>
 
-###
+### 복각
+<orangeborder>복각: 나침반의 자침이 수평면과 이루는 각<br>
+편각: 진북과 자북이 이루는 각도</orangeborder>
+<greenborder>진북극과 자북극은 현재 약 11° 정도 차이가 난다.</greenborder>
+<orangeboard><ul class="inbox">
+	<li>위도가 클수록 복각의 크기가 커진다. </li>
+	<li>북반구에서 복각은 양수, 남반구에서 복각은 음수</li>
+</ul></orangeboard>
+마그마가 식어서 굳어질 때, 자성 광물(자철석, 적철석 등)이 지구 자기장 방향으로 자화된다. 
+
+#### 대륙 분포의 변화
+<yellowboard><ul class="inbox">
+	<li>선캄브리아시대: 로디니아</li>
+	<li>고생대 말기: 판게아 + 애팔래치아 산맥 & 칼레도니아 산맥 형성</li>
+	<li>신생대: 인도대륙 북상 → 히말라야 산맥</li>
+</ul></yellowboard>
