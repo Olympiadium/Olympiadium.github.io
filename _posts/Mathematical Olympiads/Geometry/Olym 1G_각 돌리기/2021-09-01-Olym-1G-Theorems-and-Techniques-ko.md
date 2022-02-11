@@ -11,8 +11,8 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-1g/">Olym 1G</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/">이론 및 기술</a>
 
 ## 각의 표현
-<yellowboard><b>Definition 1.1 (각의 정의). </b> </yellowboard>
-### 방향각 Directed Angle
+### 방향각(Directed Angle)
+<yellowboard><b>Definition 1.1 (방향각). </b> 평행하지 않은 두 직선 $l, m$에 대해서 방향각 $\measuredangle(l, m)$은 $l$에서 $m$까지 <span style="color:green"><b>Text Here</b></span>반시계방향으로 측정된 각도를 의미한다. </yellowboard>
 
 #### 엇각, 동위각
 #### 각의 이등분선 정리
