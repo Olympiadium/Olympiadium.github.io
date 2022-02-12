@@ -40,9 +40,9 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ## 원에서 각 돌리기
 #### 원주각, 내대각
-<greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 $A, B, X, Y$가 공원점일 필요충분조건은 다음과 같다. $$\measuredangle XAY = \measuredangle XBY.$$</center></greenboard>
+<greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 $A, B, X, Y$가 공원점일 필요충분조건은 다음과 같다. $$\measuredangle XAY = \measuredangle XBY$$</greenboard>
 #### 중심각, 접현각
-<greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 $$\measuredangle AOB = \measuredangle ACB$$가 성립한다. </greenboard>
+<greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 다음이 성립한다. $$\measuredangle AOB = \measuredangle ACB$$ </greenboard>
 <greenboard><b>Theorem 1.7.</b> 삼각형 $ABC$의 외심이 $O$일 때, 임의의 점 $P$에 대하여 다음 명제들이 서로 동치이다. <ul class="inbox">
 	<li>$\overline{PA}$가 $(ABC)$에 접한다. </li>
 	<li>$\overline{OA} \perp \overline{AP}$.</li>
@@ -64,6 +64,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ### 직선이 이루는 각
 
 ### Reim's Theorem
+<greenboard><b>Theorem 1.n.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. 
 ### 심슨 정리
 
 ## 대표 Configurations
