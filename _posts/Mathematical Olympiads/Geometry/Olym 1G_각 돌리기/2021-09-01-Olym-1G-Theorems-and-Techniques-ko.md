@@ -51,6 +51,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ### 오심에서 각 돌리기
 #### 내심에서 각 돌리기
+
 #### 외심에서 각 돌리기
 #### 수심에서 각 돌리기
 수심 공원점

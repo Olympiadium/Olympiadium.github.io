@@ -18,10 +18,6 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/방멱정리1.png"  width="30%">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/방멱정리2.png"  width="40%">
 </p>
-<blueborder><details>
-<summary><b><i>Proof</i></b></summary>
-$\qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad A, B, C, D$가 공원점<br> $\qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad \iff \angle PAC = \angle PDB$<br> $\qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad \iff \triangle PAC \sim \triangle PDB$<br> $\qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad \iff PA \cdot PB = PC \cdot PD$
-</details></blueborder>
 
 <yellowboard>중심이 $O$, 반지름이 $R$인 원 $\omega$에 대한 점 $P$의 방멱값은 $$\operatorname{Pow}_\omega(P)=OP^2-R^2$$으로 정의한다. </yellowboard>
 여기서 방멱값은 점 $P$가 원 외부에 있을 때는 양수, 점 $P$가 원주 위에 있을 때는 $0$, 점 $P$가 원 내부에 있을 때는 음수로 정의된다. 
@@ -37,8 +33,6 @@ $\qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad A, B, C, D$가 공원점
 ## 구점원
 
 ## 오일러 직선
-
-## Mixtilinear Circles
 
 ## 아폴로니우스의 원
 

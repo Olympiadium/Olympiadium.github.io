@@ -14,6 +14,7 @@ permalink: /mathematical-olympiads/geometry/olym-3g/theorems-and-techniques/
 
 ## Homothety와 닮음의 중심
 
+## Mixtilinear Circles
 
 ## 대표 Configurations
 ### 수심과 방심의 Duality
