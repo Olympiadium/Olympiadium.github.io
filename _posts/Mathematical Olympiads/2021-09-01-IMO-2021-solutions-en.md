@@ -64,7 +64,7 @@ Note that equality holds iff the $x_i$s are symmetric with respect to the origin
 <i>Proof.</i>
     
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/imo3fig.jpg"  width="80%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/imo3fig.jpg"  width="80%">
 </p>
     
 <i>Step 1.</i> Let $D'$ denote the isogonal conjugate of $D$ with respect to $\triangle ABC.$ Then the given angle condition implies

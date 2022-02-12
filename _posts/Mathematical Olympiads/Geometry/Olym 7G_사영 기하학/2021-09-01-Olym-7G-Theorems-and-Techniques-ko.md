@@ -17,7 +17,7 @@ permalink: /mathematical-olympiads/geometry/olym-7g/theorems-and-techniques/
 한 직선 위의 점 $A, B, X, Y$가 각각 한 점 $P$에서 만나는 네 직선 $a, b, x, y$ 위에 있을 때, $$P(A, B; X, Y)=(a, b; x, y)$$</yellowboard>
 <i>Diagram.</i>
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/비조화비.png"  width="60%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geometry/Olym 7G/비조화비.png"  width="60%">
 </p>
 여기서 $P(A, B; X, Y)$를 <span style="color:blue"><b>선다발(pencil of lines)</b></span>이라고 한다. 
 <redborder> <b>비조화비의 부호</b> <br> $(A, B; X, Y)>0 \iff \overline{AB}, \overline{XY}$가 만나지 않거나 한 선분이 다른 선분을 포함함. <br>
@@ -32,8 +32,8 @@ permalink: /mathematical-olympiads/geometry/olym-7g/theorems-and-techniques/
 <redborder> 위 Lemma는 $A, B, X, Y, P$가 한 원 위에 있을 때에도 적용할 수 있다. </redborder>
 <yellowboard> <b>Proposition 10.3. </b> 아래 두 그림에서
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/비조화비2.png"  width="49%">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/비조화비3.png"  width="49%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geometry/Olym 7G/비조화비2.png"  width="49%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geometry/Olym 7G/비조화비3.png"  width="49%">
 </p>
 $(A, B; X, Y) = P(A, B; X, Y)=P(A', B'; X', Y')=(A', B'; X', Y')$가 성립하는데, 이를 <span style="color:blue">taking perspectivity at $P$</span>라고 부르며, $$(A, B; X, Y) \overset{P}{=} (A', B'; X', Y')$$로 표기한다. </yellowboard>
 <orangeborder><details>
@@ -60,14 +60,14 @@ $P_1$은 직선 $AD$와 $BC$의 교점, $P_2$는 점 $A$와 $B$에서 그은 접
 
 <i>Diagram.</i> 
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/칠점공선.png"  width="80%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geometry/Olym 7G/칠점공선.png"  width="80%">
 </p>
 
 <blueborder><details>
 <summary><b><i>Proof</i></b></summary>
 <i>Diagram.</i> 
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/칠점공선 증명.png"  width="95%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geometry/Olym 7G/칠점공선 증명.png"  width="95%">
 </p>
 <orangeboard><i>Step1.</i> $P_1, P_2, P_4, P_7$가 일직선</orangeboard>
 $AACBBD$에서 파스칼 정리에 의해 $P_1, P_2, P_4$가 일직선, $ACCBDD$에서 파스칼 정리에 의해 $P_1, P_4, P_7$가 일직선.

@@ -66,6 +66,10 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ### Reim's Theorem
 <greenboard><b>Theorem 1.n.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. </greenboard>
+<p align="center">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym Geoemtry/Olym 1G/Reim's Theorem.png"  width="50%">
+</p>
+
 ### 심슨 정리
 
 ## 대표 Configurations
