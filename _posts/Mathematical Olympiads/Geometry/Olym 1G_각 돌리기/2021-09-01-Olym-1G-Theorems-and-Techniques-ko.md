@@ -15,7 +15,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $l, m$에 대해서 방향각 $\measuredangle(l, m)$은 $l$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
 <redborder>방향각 기호는 표준이 아니므로, 서술 시에는 정의를 해주는 것이 좋다. </redborder>
 
-그리고, 방향각에서 한 가지 더 주목해야 할 점은 모든 각에 $\operatorname{mod} 180^\circ$를 취한다는 것이다. 즉, $$-79^\circ=110^\circ=290^\circ=\ldots$$라 할 수 있다. 
+그리고, 방향각에서 한 가지 더 주목해야 할 점은 모든 각에 $\operatorname{mod} 180^\circ$를 취한다는 것이다. 즉, <p>$$-79^\circ=110^\circ=290^\circ=\ldots$$</p>라 할 수 있다. 
 
 <orangeboard><b>Proposition 1.2.</b> 임의의 두 직선 $l, m$에 대하여 $\measuredangle(l, m)=-\measuredangle(m, l)$이다. </orangeboard>
 
