@@ -40,7 +40,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ## 원에서 각 돌리기
 #### 원주각, 내대각
-<greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 <center>$A, B, X, Y$ 공원점 $\iff$ $\measuredangle XAY = \measuredangle XBY$.</center>
+<greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 $A, B, X, Y$가 공원점일 필요충분조건은 다음과 같다. $$\measuredangle XAY = \measuredangle XBY.$$</center></greenboard>
 #### 중심각, 접현각
 <greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 $$\measuredangle AOB = \measuredangle ACB$$가 성립한다. </greenboard>
 <greenboard><b>Theorem 1.7.</b> 삼각형 $ABC$의 외심이 $O$일 때, 임의의 점 $P$에 대하여 다음 명제들이 서로 동치이다. <ul class="inbox">
