@@ -6,4 +6,8 @@ mathjax: true
 permalink: /science-olympiads/chemistry/
 ---
 <h1>Chemistry Contents</h1>
-<a href="{{ site.homeurl }}">Olymplex</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/chemistry/">Chemistry</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olymplex</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/chemistry/">Chemistry</a></li>
+</ul>
