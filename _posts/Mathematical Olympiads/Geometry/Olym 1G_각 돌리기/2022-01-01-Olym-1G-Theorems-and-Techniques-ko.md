@@ -87,7 +87,7 @@ $I_AI_BI_C$의 수심은 $I$, 수심삼각형은 $ABC$이다.
 <greenboard>$\angle A = 60^\circ$인 삼각형 ABC$에서 </greenboard>
 
 ### 세르보어 정리
-<greenboard><b>Theorem 1.n.</b> O에서 BC에 내린 수선의 발을 M이라 하면 AH=2OM</greenboard>
+<greenboard><b>Theorem 1.n.</b> $O$에서 $BC$에 내린 수선의 발을 $M$이라 하면 $AH=2OM$</greenboard>
 
 ### 멘션 정리
 ### 직선이 이루는 각
