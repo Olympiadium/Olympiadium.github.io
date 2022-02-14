@@ -12,7 +12,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ## 각의 표현
 ### 방향각(Directed Angle)
-<yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $l, m$에 대해서 방향각 $\measuredangle(l, m)$은 $l$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
+<yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $\ell, m$에 대해서 방향각 $\measuredangle(\ell, m)$은 $\ell$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
 <p align="center">
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
 </p>
@@ -22,7 +22,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <p>$$-79^\circ=110^\circ=290^\circ=\ldots$$</p>
 라 할 수 있다. 
 
-<orangeboard><b>Proposition 1.2.</b> 임의의 두 직선 $l, m$에 대하여 $\measuredangle(l, m)=-\measuredangle(m, l)$이다. </orangeboard>
+<orangeboard><b>Proposition 1.2.</b> 임의의 두 직선 $\ell, m$에 대하여 $\measuredangle(\ell, m)=-\measuredangle(m, \ell)$이다. </orangeboard>
 
 <yellowboard><b>Definition 1.3.</b> 세 점 $A, O, B$에 대하여 $$\measuredangle AOB \overset{\rm def}= \measuredangle(\overleftrightarrow{AO}, \overleftrightarrow{BO})$$로 정의한다. </yellowboard>
 
@@ -32,7 +32,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <li><i>Triangle Sum.</i> $\measuredangle ABC + \measuredangle BCA + \measuredangle CAB = 0$. </li>
 <li><i>Parallel Lines.</i> $\overline{AB} \parallel \overline{CD}$이면 $\measuredangle ABC + \measuredangle BCD =0$.</li>
 <li><i>Collinearity.</i> $A, B, C$ 일직선 $\iff$ $\measuredangle PBA = \measuredangle PBC$.</li>
-<li><i>Perpendicular Lines.</i> $l \perp m$이면 $\measuredangle (l, m) = \measuredangle (m, l) = 90^\circ$.</li>
+<li><i>Perpendicular Lines.</i> $\ell \perp m$이면 $\measuredangle (\ell, m) = \measuredangle (m, \ell) = 90^\circ$.</li>
 </ul>
 </orangeboard>
 
@@ -76,7 +76,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ### Reim's Theorem
 <greenboard><b>Theorem 1.n.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. </greenboard>
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Reim's Theorem.png"  width="50%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Reim's Theorem.svg"  width="50%">
 </p>
 
 ### 심슨 정리
