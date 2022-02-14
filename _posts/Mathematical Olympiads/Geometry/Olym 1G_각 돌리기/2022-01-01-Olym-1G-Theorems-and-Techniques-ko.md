@@ -19,7 +19,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <redborder>방향각 기호는 표준이 아니므로, 서술 시에는 정의를 해주는 것이 좋다. </redborder>
 
 그리고, 방향각에서 한 가지 더 주목해야 할 점은 모든 각에 $\bmod 180^\circ$를 취한다는 것이다. 즉, 
-<p>$$-79^\circ=110^\circ=290^\circ=\ldots$$</p>
+<p>$$-70^\circ=110^\circ=290^\circ=\ldots$$</p>
 라 할 수 있다. 
 
 <orangeboard><b>Proposition 1.2.</b> 임의의 두 직선 $\ell, m$에 대하여 $\measuredangle(\ell, m)=-\measuredangle(m, \ell)$이다. </orangeboard>
@@ -38,8 +38,10 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 <redborder>방향각은 $\bmod 180^\circ$를 취했으므로, $2\measuredangle ABC = 2\measuredangle XYZ$라고 해서 양변을 2로 나눈 $\measuredangle ABC = \measuredangle XYZ$가 성립하지는 않는다. </redborder>
 
+<!--
 #### 엇각, 동위각
 #### 각의 이등분선 정리
+-->
 
 ## 원에서 각 돌리기
 #### 원주각, 내대각
