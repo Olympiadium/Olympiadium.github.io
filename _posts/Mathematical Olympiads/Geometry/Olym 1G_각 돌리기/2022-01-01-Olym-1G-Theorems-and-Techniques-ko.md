@@ -13,9 +13,9 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ## 각의 표현
 ### 방향각(Directed Angle)
 <yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $\ell, m$에 대해서 방향각 $\measuredangle(\ell, m)$은 $\ell$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
-<p align="center">
+<center>
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
-</p>
+</center>
 <redborder>방향각 기호는 표준이 아니므로, 서술 시에는 정의를 해주는 것이 좋다. </redborder>
 
 그리고, 방향각에서 한 가지 더 주목해야 할 점은 모든 각에 $\bmod 180^\circ$를 취한다는 것이다. 즉, 
@@ -77,9 +77,9 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ### Reim's Theorem
 <greenboard><b>Theorem 1.n.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. </greenboard>
-<p align="center">
+<center>
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Reim's Theorem.svg"  width="50%">
-</p>
+</center>
 
 ### 심슨 정리
 
