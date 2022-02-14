@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/geometry/olym-14g/
 ---
 <h1>Olym 14G. 복소 기하학 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-14g/">Olym 14G</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-14g/">Olym 14G</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

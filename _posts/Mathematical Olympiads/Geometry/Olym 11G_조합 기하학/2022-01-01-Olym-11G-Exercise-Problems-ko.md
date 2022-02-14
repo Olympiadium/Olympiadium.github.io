@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/geometry/olym-11g/exercise-problems/
 ---
 # Olym 11G. 조합 기하학 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-11g/">Olym 11G</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-11g/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-11g/">Olym 11G</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-11g/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem Here </skyblueboard>

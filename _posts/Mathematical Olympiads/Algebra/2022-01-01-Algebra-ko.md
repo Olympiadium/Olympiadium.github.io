@@ -7,7 +7,11 @@ lang: ko
 permalink: /mathematical-olympiads/algebra/
 ---
 <h1>Algebra Content</h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li>
+</ul>
 {% for topic in site.data.algebra_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}
 {% assign page_topic = site.data.algebra_topic_list[topic_name] %}

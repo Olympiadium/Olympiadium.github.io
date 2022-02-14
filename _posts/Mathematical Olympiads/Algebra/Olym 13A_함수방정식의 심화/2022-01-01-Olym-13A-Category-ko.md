@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/algebra/olym-13a/
 ---
 <h1>Olym 13A. 함수방정식의 심화 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-13a/">Olym 13A</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-13a/">Olym 13A</a></li>
+</ul>
 <div class="6u 12u$(medium)">
 <ul>
   <li><h4>Example Lecture 1</h4></li>

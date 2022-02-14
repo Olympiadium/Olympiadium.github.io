@@ -7,7 +7,11 @@ lang: ko
 permalink: /science-olympiads/lecture-notes/
 ---
 <h1>Lecture Notes</h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li>
+</ul>
 
 <ul class="actions fit big">
 <li><a href="{{ site.baseurl }}{{ page.permalink}}private-note-chemistry" class="button fit big center"> Private Note Chemistry </a></li>

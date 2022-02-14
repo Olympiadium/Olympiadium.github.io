@@ -6,7 +6,12 @@ mathjax: true
 permalink: /mathematical-olympiads/contests/international-mathematical-olympiad/
 ---
 # 국제수학올림피아드 <br> International Mathematial Olympiad
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/international-mathematical-olympiad/">IMO</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/international-mathematical-olympiad/">IMO</a></li>
+</ul>
 
 ### IMO
 [IMO 2021]({{ site.homeurl }}mathematical-olympiads/contests/international-mathematical-olympiad/imo-2021)&nbsp;&nbsp;&nbsp;&nbsp;

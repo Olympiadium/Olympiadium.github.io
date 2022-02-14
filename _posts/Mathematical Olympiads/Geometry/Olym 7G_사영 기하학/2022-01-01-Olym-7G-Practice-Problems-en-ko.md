@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/geometry/olym-7g/practice-problems/
 ---
 # Olym 7G. 사영 기하학 <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-7g/">Olym 7G</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-7g/practice-problems/">실전문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-7g/">Olym 7G</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-7g/practice-problems/">실전문제</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> Problem Here </blueboard>

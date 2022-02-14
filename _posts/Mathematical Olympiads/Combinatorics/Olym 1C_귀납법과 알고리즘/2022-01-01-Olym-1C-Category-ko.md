@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/combinatorics/olym-1c/
 ---
 <h1>Olym 1C. 귀납법과 알고리즘 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-1c/">Olym 1C</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-1c/">Olym 1C</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

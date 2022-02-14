@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-6a/theorems-and-techniques/
 ---
 # Olym 6A. 부등식의 정리 <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-6a/">Olym 6A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-6a/theorems-and-techniques/">이론 및 기술</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-6a/">Olym 6A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-6a/theorems-and-techniques/">이론 및 기술</a></li>
+</ul>
 
 ### Majorization
 <yellowboard><b>Definition 6.1.</b> 두 수열 $x_1 \ge x_2 \ge \cdots \ge x_n$와 $y_1 \ge y_2 \ge \cdots \ge y_n$가 $$x_1+x_2+\cdots +x_n=y_1+y_2+\cdots +y_n$$와 $k=1, 2 \ldots, n-1$에 대하여 $$x_1+x_2+\cdots +x_k \ge y_1+y_2+\cdots +y_k$$를 만족할 때, $(x_n)$이 $(y_n)$을 <span style="color:blue"><b>majorize</b></span> 한다고 말하며 $(x_n) \succ (y_n)$으로 표기한다. </yellowboard>

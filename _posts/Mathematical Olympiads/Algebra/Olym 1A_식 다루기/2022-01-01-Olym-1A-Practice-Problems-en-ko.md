@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-1a/practice-problems/
 ---
 # Olym 1A. 식 다루기 <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-1a/">Olym 1A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-1a/practice-problems/">실전문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-1a/">Olym 1A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-1a/practice-problems/">실전문제</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> Problem Here </blueboard>

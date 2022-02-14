@@ -8,7 +8,13 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 ---
 # 1강. 판 구조론의 정립
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a></li>
+</ul>
 
 ## 대륙 이동설
 1912년 베게너가 주장

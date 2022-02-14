@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/number-theory/olym-13n/practice-problems/
 ---
 # Olym 13N. 정수조합 <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/">Olym 13N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/practice-problems/">실전문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/">Olym 13N</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/practice-problems/">실전문제</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> Problem Here </blueboard>

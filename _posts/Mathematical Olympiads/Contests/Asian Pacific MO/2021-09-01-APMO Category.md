@@ -6,7 +6,12 @@ mathjax: true
 permalink: /mathematical-olympiads/contests/asian-pacific-mathematical-olympiad/
 ---
 # 아시아태평양 수학올림피아드 <br> Asian Pacific Mathematial Olympiad
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/asian-pacific-mathematical-olympiad/">APMO</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/asian-pacific-mathematical-olympiad/">APMO</a></li>
+</ul>
 
 ## APMO
 [APMO 2021]({{ site.homeurl }}mathematical-olympiads/contests/asian-pacific-mathematical-olympiad/apmo-2021)&nbsp;&nbsp;&nbsp;&nbsp;

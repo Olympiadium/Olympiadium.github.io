@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-5a/exercise-problems/
 ---
 # Olym 5A. 평균 부등식과 코시 부등식 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem Here </skyblueboard>

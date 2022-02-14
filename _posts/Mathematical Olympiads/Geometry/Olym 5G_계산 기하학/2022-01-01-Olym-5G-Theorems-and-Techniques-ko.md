@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/geometry/olym-5g/theorems-and-techniques/
 ---
 # Olym 5G. 계산 기하학 <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-5g/">Olym 5G</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-5g/theorems-and-techniques/">이론 및 기술</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-5g/">Olym 5G</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-5g/theorems-and-techniques/">이론 및 기술</a></li>
+</ul>
 
 ### 스튜어트
 

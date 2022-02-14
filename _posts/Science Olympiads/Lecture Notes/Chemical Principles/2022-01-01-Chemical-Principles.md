@@ -7,7 +7,12 @@ lang: ko
 permalink: /science-olympiads/lecture-notes/chemical-principles/
 ---
 <h1>Private Note Chemistry</h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a></li>
+</ul>
 
 {% for topic in site.data.chemical_principles_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}

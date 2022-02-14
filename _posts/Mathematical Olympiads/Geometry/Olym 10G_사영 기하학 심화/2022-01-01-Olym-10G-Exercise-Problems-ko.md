@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/geometry/olym-10g/exercise-problems/
 ---
 # Olym 10G. 사영 기하학 심화 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-10g/">Olym 10G</a> > <a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-10g/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-10g/">Olym 10G</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-10g/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem Here </skyblueboard>

@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/combinatorics/olym-5c/exercise-problems/
 ---
 # Olym 5C. 집합과 순열 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/">Olym 5C</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/">Olym 5C</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem Here </skyblueboard>

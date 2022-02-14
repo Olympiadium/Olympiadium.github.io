@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-12a/practice-problems/
 ---
 # Olym 12A. 함수방정식의 기술 <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-12a/">Olym 12A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-12a/practice-problems/">실전문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-12a/">Olym 12A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-12a/practice-problems/">실전문제</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> 모든 실수 $x, y$에 대하여 $$f(yf(x)-x)=f(x)f(y)+2x$$를 만족하는 함수 $f: \mathbb{R} \rightarrow \mathbb{R}$를 모두 구하여라. </blueboard>

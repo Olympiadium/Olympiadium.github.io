@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/combinatorics/olym-5c/
 ---
 <h1>Olym 5C. 집합과 순열 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/">Olym 5C</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-5c/">Olym 5C</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

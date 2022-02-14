@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/number-theory/olym-12n/exercise-problems/
 ---
 # Olym 12N. 정수 수열 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/">Olym 12N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/">Olym 12N</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem Here </skyblueboard>

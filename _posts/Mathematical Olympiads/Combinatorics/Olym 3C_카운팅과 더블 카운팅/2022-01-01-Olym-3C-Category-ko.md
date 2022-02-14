@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/combinatorics/olym-3c/
 ---
 <h1>Olym 3C. 카운팅과 더블 카운팅 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-3c/">Olym 3C</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-3c/">Olym 3C</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-2a/practice-problems/
 ---
 # Olym 2A. 유리수와 무리수 <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-2a/">Olym 2A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-2a/practice-problems/">실전문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-2a/">Olym 2A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-2a/practice-problems/">실전문제</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> Problem Here </blueboard>

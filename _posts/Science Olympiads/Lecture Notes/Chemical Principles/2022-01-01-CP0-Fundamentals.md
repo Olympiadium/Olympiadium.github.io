@@ -8,7 +8,13 @@ permalink: /science-olympiads/lecture-notes/chemical-principles/chapter-0/
 ---
 # 0강. Fundamentals
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a> > <a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/chapter-0/">0강</a><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a></li> 
+	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/chapter-0/">0강</a></li>
+</ul>
 
 ### Matter and Energy
 

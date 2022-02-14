@@ -8,7 +8,10 @@ permalink: /templates/
 ---
 # Olym n. Template <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}templates/">Templates</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+</ul>
 
 ## Section
 ### Subsection
@@ -32,7 +35,10 @@ permalink: /templates/
 
 # Olym n. Template <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}templates/">Templates</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+</ul>
 
 ### Example n. Title Here
 <skyblueboard> Problem here. </skyblueboard>
@@ -63,7 +69,10 @@ Solution Here.
   
 # Olym n. Template <br> <ssup> - 실전문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}templates/">Templates</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+</ul>
 
 ### Problem n. Title Here
 <blueboard> Problem here. </blueboard>

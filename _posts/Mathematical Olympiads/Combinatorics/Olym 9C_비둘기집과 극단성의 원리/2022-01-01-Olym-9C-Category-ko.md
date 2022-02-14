@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/combinatorics/olym-9c/
 ---
 <h1>Olym 9C. 비둘기집과 극단성의 원리 </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a> > <a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-9c/">Olym 9C</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-9c/">Olym 9C</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

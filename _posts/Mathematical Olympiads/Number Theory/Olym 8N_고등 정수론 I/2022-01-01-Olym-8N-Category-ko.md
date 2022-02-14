@@ -7,7 +7,12 @@ lang: ko
 permalink: /mathematical-olympiads/number-theory/olym-8n/
 ---
 <h1>Olym 8N. 고등 정수론 I </h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-8n/">Olym 8N</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-8n/">Olym 8N</a></li>
+</ul>
 <div class="row">
 <div class="6u 12u$(medium)">
 <ul>

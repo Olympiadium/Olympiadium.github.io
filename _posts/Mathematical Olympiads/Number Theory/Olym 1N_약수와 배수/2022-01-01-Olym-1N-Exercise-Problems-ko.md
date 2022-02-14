@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/number-theory/olym-1n/exercise-problems/
 ---
 # Olym 1N. 약수와 배수 <br> <ssup> - 연습문제</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-1n/">Olym 1N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-1n/exercise-problems/">연습문제</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-1n/">Olym 1N</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-1n/exercise-problems/">연습문제</a></li>
+</ul>
 
 ### Example 1. Classical Divisibility
 <skyblueboard> $abc-1$가 $(a-1)(b-1)(c-1)$로 나누어 떨어지는 양의 정수 $1<a<b<c$를 모두 구하여라.  </skyblueboard>

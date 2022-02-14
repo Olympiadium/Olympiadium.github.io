@@ -7,7 +7,11 @@ lang: ko
 permalink: /mathematical-olympiads/number-theory/
 ---
 <h1>Number Theory Content</h1>
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a><br><br>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li>
+</ul>
 {% for topic in site.data.number-theory_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}
 {% assign page_topic = site.data.number-theory_topic_list[topic_name] %}

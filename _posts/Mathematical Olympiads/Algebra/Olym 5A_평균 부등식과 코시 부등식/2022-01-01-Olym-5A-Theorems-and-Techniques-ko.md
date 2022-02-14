@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/algebra/olym-5a/theorems-and-techniques/
 ---
 # Olym 5A. 평균 부등식과 코시 부등식 <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a> > <a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/theorems-and-techniques/">이론 및 기술</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/theorems-and-techniques/">이론 및 기술</a></li>
+</ul>
 
 ## 산술 기하 평균 부등식
 <greenboard><b>Theorem 5.1.</b> 음이 아닌 실수 $a_1, a_2, \ldots, a_n$에 대하여 다음 부등식이 성립한다. $$\frac{a_1+a_2+ \cdots + a_n}{n} \ge \sqrt[n]{a_1a_2 \cdots a_n}$$</greenboard>

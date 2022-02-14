@@ -6,7 +6,12 @@ mathjax: true
 permalink: /mathematical-olympiads/contests/baltic-way/
 ---
 # 발트해 수학올림피아드 <br> Baltic Way
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a> > <a href="{{ site.homeurl }}mathematical-olympiads/contests/baltic-way/">Baltic Way</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/">Contests</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/contests/baltic-way/">Baltic Way</a></li>
+</ul>
 
 ### Source
 [Baltic Way](http://www.math.olympiaadid.ut.ee/eng/html/index.php?id=bw){:target="blank"}

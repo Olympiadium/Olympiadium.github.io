@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/number-theory/olym-10n/theorems-and-technique
 ---
 # Olym 10N. 정수적 함수 <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-10n/">Olym 10N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-10n/theorems-and-techniques/">이론 및 기술</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-10n/">Olym 10N</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-10n/theorems-and-techniques/">이론 및 기술</a></li>
+</ul>
 
 ## 정수계수 다항식
 

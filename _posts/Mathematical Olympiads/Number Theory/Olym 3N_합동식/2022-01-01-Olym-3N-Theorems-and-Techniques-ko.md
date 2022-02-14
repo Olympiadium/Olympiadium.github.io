@@ -8,7 +8,13 @@ permalink: /mathematical-olympiads/number-theory/olym-3n/theorems-and-techniques
 ---
 # Olym 3N. 합동식 <br> <ssup> - 이론 및 기술</ssup>
 
-<a href="{{ site.homeurl }}">Olympiadium</a> > <a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-3n/">Olym 3N</a> > <a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-3n/theorems-and-techniques/">이론 및 기술</a>
+<ul class="breadcrumb">
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-3n/">Olym 3N</a></li> 
+	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-3n/theorems-and-techniques/">이론 및 기술</a></li>
+</ul>
 
 ## 합동식 기본 성질
 
