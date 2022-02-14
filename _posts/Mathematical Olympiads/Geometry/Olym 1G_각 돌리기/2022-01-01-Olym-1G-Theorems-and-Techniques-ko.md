@@ -13,7 +13,9 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ## 각의 표현
 ### 방향각(Directed Angle)
 <yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $l, m$에 대해서 방향각 $\measuredangle(l, m)$은 $l$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
-
+<p align="center">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Asymptote_Creator.svg"  width="50%">
+</p>
 <redborder>방향각 기호는 표준이 아니므로, 서술 시에는 정의를 해주는 것이 좋다. </redborder>
 
 그리고, 방향각에서 한 가지 더 주목해야 할 점은 모든 각에 $\bmod 180^\circ$를 취한다는 것이다. 즉, 
