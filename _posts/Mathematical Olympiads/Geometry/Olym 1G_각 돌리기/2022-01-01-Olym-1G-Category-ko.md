@@ -14,7 +14,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/
   <li><h4>각의 표현</h4></li>
   <li><h4>원에서 각 돌리기</h4></li>
   <li><h4>오심에서 각 돌리기</h4></li>
-  <li><h4>Example Lecture</h4></li>
+  <li><h4>대표 Configurations</h4></li>
 </ul>
 </div>
 <div class="6u$ 12u$(medium)">

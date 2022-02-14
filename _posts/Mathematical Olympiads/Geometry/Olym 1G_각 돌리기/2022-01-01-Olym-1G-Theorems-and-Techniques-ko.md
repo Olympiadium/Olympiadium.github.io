@@ -46,6 +46,8 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ## 원에서 각 돌리기
 #### 원주각, 내대각
 <greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 $A, B, X, Y$가 공원점일 필요충분조건은 다음과 같다. $$\measuredangle XAY = \measuredangle XBY$$</greenboard>
+
+
 #### 중심각, 접현각
 <greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 다음이 성립한다. $$\measuredangle AOB = 2 \measuredangle ACB$$ </greenboard>
 <greenboard><b>Theorem 1.7.</b> 삼각형 $ABC$의 외심이 $O$일 때, 임의의 점 $P$에 대하여 다음 명제들이 서로 동치이다. <ul class="inbox">
@@ -56,21 +58,36 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 ### 오심에서 각 돌리기
 #### 내심에서 각 돌리기
-
+<greenborder>$\angle BIC = 90^\circ + \frac{1}{2}\angle A$가 성립한다. </greenborder>
 
 #### 외심에서 각 돌리기
-
+<greenborder>$\angle BOC = 2 \angle A$가 성립한다. <br> $\angle BOC = 90^\circ - \angle A$가 성립한다. </greenborder>
 
 #### 수심에서 각 돌리기
+<yellowboard><b>Definition 1.n.</b>삼각형 $ABC$의 세 꼭지점에서 마주보는 변에 내린 수선의 발을 각각 $D, E, F$라고 할 때, 삼각형 $DEF$는 삼각형 $ABC$의 수심삼각형(orthic triangle)이다. </yellowboard>
+<greenborder>수심으로부터 우리는 6개의 공원점을 얻을 수 있다. $$(A, F, H, E), (B, D, H, F), (C, E, H, D), (A, B, D, E), (B, C, E, F), (C, A, F, D)$$
+위 공원점들은 수심에서 각을 돌릴 때 매우 유용하게 사용된다. 
+</greenborder>
+<skyblueborder>$H$는 삼각형 $DEF$의 내심이다. </skyblueborder>
 
-수심 공원점
-#### 무게중심에서 각 돌리기
-
+#### 무게중심에서 각 돌리기 같은 건 없다. 
 
 #### 방심에서 각 돌리기
+<greenborder>$(A, B, I_A, I_B)$가 공원점이다. <br>
+$(A, I_C, B, I)$가 공원점이고 $II_C$가 지름이다. <br>
+$I_AI_BI_C$의 수심은 $I$, 수심삼각형은 $ABC$이다. 
+</greenborder>
+
 
 ### 외심과 수심
-### 세르보어 정리와 H-reflections
+<skyblueborder>$\angle BAO = \angle CAH$가 성립한다. </skyblueborder>
+
+4강에서 다시 언급하겠지만, $O$와 $H$는 등각켤레점이다. 
+#### $60^\circ$ 삼각형
+<greenboard>$\angle A = 60^\circ$인 삼각형 ABC$에서 </greenboard>
+
+### 세르보어 정리
+<greenboard><b>Theorem 1.n. O에서 BC에 내린 수선의 발을 M이라 하면 AH=2OM</b> 
 
 ### 멘션 정리
 ### 직선이 이루는 각
@@ -82,6 +99,8 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 </center>
 
 ### 심슨 정리
+
+### Phantom Point
 
 ## 대표 Configurations
 #### Three Tangents
