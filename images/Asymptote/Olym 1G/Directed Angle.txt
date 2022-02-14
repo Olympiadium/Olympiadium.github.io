@@ -1,0 +1,10 @@
+pair A, B, C, D, P;
+A=dir(70); B=dir(260); C=dir(130); D=dir(320);
+P=extension(A,B,C,D);
+
+draw(A--B);
+draw(C--D);
+
+label("$\ell$",A,N);
+label("$m$",C,N);
+markangle("$\measuredangle(\ell, m)$",A,P,C,ArcArrow);

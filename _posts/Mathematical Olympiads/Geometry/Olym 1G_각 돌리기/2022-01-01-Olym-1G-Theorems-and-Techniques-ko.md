@@ -14,7 +14,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ### 방향각(Directed Angle)
 <yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $l, m$에 대해서 방향각 $\measuredangle(l, m)$은 $l$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
 <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Asymptote_Creator.svg"  width="50%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
 </p>
 <redborder>방향각 기호는 표준이 아니므로, 서술 시에는 정의를 해주는 것이 좋다. </redborder>
 
@@ -45,7 +45,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 #### 원주각, 내대각
 <greenboard><b>Theorem 1.5.</b> 어떠한 세 점도 한 직선 위에 놓이지 않는 네 점 $A, B, X, Y$에 대하여 $A, B, X, Y$가 공원점일 필요충분조건은 다음과 같다. $$\measuredangle XAY = \measuredangle XBY$$</greenboard>
 #### 중심각, 접현각
-<greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 다음이 성립한다. $$\measuredangle AOB = \measuredangle ACB$$ </greenboard>
+<greenboard><b>Theorem 1.6.</b> 삼각형 $ABC$와 외심 $O$에 대하여 다음이 성립한다. $$\measuredangle AOB = 2 \measuredangle ACB$$ </greenboard>
 <greenboard><b>Theorem 1.7.</b> 삼각형 $ABC$의 외심이 $O$일 때, 임의의 점 $P$에 대하여 다음 명제들이 서로 동치이다. <ul class="inbox">
 	<li>$\overline{PA}$가 $(ABC)$에 접한다. </li>
 	<li>$\overline{OA} \perp \overline{AP}$.</li>

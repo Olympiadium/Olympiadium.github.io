@@ -1,0 +1,17 @@
+pair A, B, C, D, P, Q;
+A=dir(80); B=dir(150); C=dir(-90); D=dir(0);
+real t=0.35;
+P=B*t+C*(1-t);
+Q=intersectionpoints(line(A,D), circumcircle(A,B,P))[0];
+
+draw(circumcircle(A, B, C));
+draw(circumcircle(A, B, P), dashed);
+draw(A--B--C--D--A);
+draw(P--Q);
+
+dot("$A$",A,N);
+dot("$B$",B,W);
+dot("$C$",C,S);
+dot("$D$",D,E);
+dot("$P$",P,SW);
+dot("$Q$",Q,NE);
