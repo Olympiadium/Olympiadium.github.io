@@ -34,6 +34,8 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 
 ### 내접원
 ### 방접원
+https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%A0%91%EC%9B%90
+
 ### 외접사각형
 
 ## 구점원
