@@ -20,6 +20,8 @@ permalink: /mathematical-olympiads/geometry/olym-3g/theorems-and-techniques/
 
 ## Homothety와 닮음의 중심
 
+### 나선 닮음
+
 ## Mixtilinear Circles
 
 ## 대표 Configurations

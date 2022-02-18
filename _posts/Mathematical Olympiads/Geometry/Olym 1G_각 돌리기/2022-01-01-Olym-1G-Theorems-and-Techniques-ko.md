@@ -71,7 +71,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <ul class="inbox">
 <li>$\angle BIC = 90^\circ + \frac{1}{2}\angle A$</li>
 <li>$\angle BOC = 2 \angle A$</li>
-<li>$\angle OBC = 90^\circ - \angle A</li>
+<li>$\angle OBC = 90^\circ - \angle A$</li>
 <li></li>
 </ul></greenboard>
 <center>
@@ -82,7 +82,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <yellowboard><b>Definition 1.9.</b>삼각형 $ABC$의 세 꼭지점에서 마주보는 변에 내린 수선의 발을 각각 $D, E, F$라고 할 때, 삼각형 $DEF$는 삼각형 $ABC$의 수심삼각형(orthic triangle)이다. </yellowboard>
 <greenborder>삼각형 $ABC$의 수심을 $H$라고 할 때, 다음이 성립한다.
 <ul class="inbox">
-<li>$$(A, F, H, E), (B, D, H, F), (C, E, H, D), (A, B, D, E), (B, C, E, F), (C, A, F, D)$$가 공원점</li>
+<li>$(A, F, H, E), (B, D, H, F), (C, E, H, D), (A, B, D, E), (B, C, E, F), (C, A, F, D)$가 공원점</li>
 <li>$H$는 삼각형 $DEF$의 내심이다. </li></ul>
 </greenborder>
 <center>
@@ -103,14 +103,17 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 
 ### 외심과 수심
-<skyblueborder>$\angle BAO = \angle CAH$가 성립한다. </skyblueborder>
+<skyblueboard>삼각형 $ABC$의 외심을 $O$, 수심을 $H$라고 할 때, 다음을 보여라. $$\angle BAO = \angle CAH$$</skyblueboard>
 
-4강에서 다시 언급하겠지만, $O$와 $H$는 등각켤레점이다. 
+$O$와 $H$는 등각켤레점이다. 
 
 ### 세르보어 정리
 <greenboard><b>Theorem 1.n.</b> $O$에서 $BC$에 내린 수선의 발을 $M$이라 하면 $AH=2OM$</greenboard>
 
+### H-Reflections
+
 ### 멘션 정리
+
 ### 직선이 이루는 각
 
 ### Reim's Theorem

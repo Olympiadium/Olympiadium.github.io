@@ -1,0 +1,14 @@
+pair A, B, X, Y;
+A=dir(100); B=dir(50); X=dir(-30); Y=dir(-150);
+
+draw(circumcircle(A, B, X));
+draw(X--A--Y);
+draw(X--B--Y);
+
+markangle(Y,A,X);
+markangle(Y,B,X);
+
+dot("$A$",A,dir(A));
+dot("$B$",B,dir(B));
+dot("$X$",X,dir(X));
+dot("$Y$",Y,dir(Y));

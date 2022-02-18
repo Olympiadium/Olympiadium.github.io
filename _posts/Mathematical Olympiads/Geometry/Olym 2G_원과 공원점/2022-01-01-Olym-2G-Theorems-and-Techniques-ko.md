@@ -20,25 +20,32 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 ## 방멱 정리(PoP)
 <greenboard> 한 평면 위의 네 점 $A, B, C, D$에 대해 $P=AB \cap CD$이고, 점 $P$는 선분 $AB$와 $CD$에 모두 놓이거나 모두 놓이지 않는다. 이때, 네 점 $A, B, C, D$가 한 원 위에 놓일 필요충분조건은 $$PA \cdot PB = PC \cdot PD$$ 이다. </greenboard>
 <i>Diagram.</i>
-<p align="center">
+<center>
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 2G/방멱정리1.png"  width="30%">
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 2G/방멱정리2.png"  width="40%">
-</p>
+</center>
 
 <yellowboard>중심이 $O$, 반지름이 $R$인 원 $\omega$에 대한 점 $P$의 방멱값은 $$\operatorname{Pow}_\omega(P)=OP^2-R^2$$으로 정의한다. </yellowboard>
 여기서 방멱값은 점 $P$가 원 외부에 있을 때는 양수, 점 $P$가 원주 위에 있을 때는 $0$, 점 $P$가 원 내부에 있을 때는 음수로 정의된다. 
 또한, $\operatorname{Pow}_\omega(P)$를 $\operatorname{Pow}(P, \omega)$로 쓰기도 한다. 
 
 ## 근축과 근심
-<yellowboard> 두 원 $\omega_1$과 $\omega_2$에 대하여 $\operatorname{Pow}_{\omega_1}(P)=\operatorname{Pow}_{\omega_2}(P)$를 만족하는 점 $P$의 집합을 원 $\omega_1, \omega_2$에 대한 <span style="color:blue"><b>근축(radical axis)</b></span>라 정의한다. </yellowboard>
+<yellowboard> 두 원 $\omega_1$과 $\omega_2$에 대하여 $\operatorname{Pow}_{\omega_1}(P)=\operatorname{Pow}_{\omega_2}(P)$를 만족하는 점 $P$의 집합을 원 $\omega_1, \omega_2$에 대한 <span style="color:blue">근축(radical axis)</span>라 정의한다. </yellowboard>
 
 ### 내접원
 ### 방접원
-https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%A0%91%EC%9B%90
 
 ### 외접사각형
 
 ## 구점원
+<greenboard><b>Theorem 2.n. </b>삼각형 $ABC$의 수심을 $H$라 할 때, 다음 9개의 점은 한 원 위에 놓인다. 
+<ul class="inbox">
+	<li>각 변의 중점 $M, N, K$</li>
+	<li>각 꼭짓점에서 내린 수선의 발 $D, E, F$</li>
+	<li>각 꼭짓점과 수심을 이은 선분의 중점 $P, Q, R$</li>
+</ul>
+</greenboard>
+
 
 ## 오일러 직선
 
