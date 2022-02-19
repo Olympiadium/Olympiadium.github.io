@@ -103,12 +103,10 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 
 
 ### 외심과 수심
-<skyblueboard>삼각형 $ABC$의 외심을 $O$, 수심을 $H$라고 할 때, 다음을 보여라. $$\angle BAO = \angle CAH$$</skyblueboard>
-
-$O$와 $H$는 등각켤레점이다. 
+<skyblueboard><b>Example 1.11.</b> 삼각형 $ABC$의 외심을 $O$, 수심을 $H$라고 할 때, 다음을 보여라. $$\angle BAO = \angle CAH$$</skyblueboard>
 
 ### 세르보어 정리
-<greenboard><b>Theorem 1.n.</b> $O$에서 $BC$에 내린 수선의 발을 $M$이라 하면 $AH=2OM$</greenboard>
+<greenboard><b>Theorem 1.12.</b> $O$에서 $BC$에 내린 수선의 발을 $M$이라 하면 $AH=2OM$</greenboard>
 
 ### H-Reflections
 
