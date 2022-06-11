@@ -26,5 +26,5 @@ permalink: /mathematical-olympiads/geometry/olym-3g/theorems-and-techniques/
 
 ## 대표 Configurations
 ### 수심과 방심의 Duality
-### 내접원 방접원
+### 내접원 방접원 Homothety
 ### Incircle Concurrency

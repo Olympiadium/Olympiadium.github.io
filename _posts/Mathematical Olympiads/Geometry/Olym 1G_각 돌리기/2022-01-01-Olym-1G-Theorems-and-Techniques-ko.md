@@ -62,9 +62,6 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 	<li>$\overline{OA} \perp \overline{AP}$.</li>
 	<li>$\measuredangle PAB = \measuredangle ACB$.</li>
 </ul></greenboard>
-<center>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Tangent Line.svg"  width="30%">
-</center>
 
 ### 오심에서 각 돌리기
 <greenboard><b>Theorem 1.8.</b>삼각형 $ABC$의 내심을 $I$, 외심을 $O$라고 할 때, 다음이 성립한다. 
@@ -74,9 +71,6 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <li>$\angle OBC = 90^\circ - \angle A$</li>
 <li></li>
 </ul></greenboard>
-<center>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
-</center>
 
 #### 수심에서 각 돌리기
 <yellowboard><b>Definition 1.9.</b>삼각형 $ABC$의 세 꼭지점에서 마주보는 변에 내린 수선의 발을 각각 $D, E, F$라고 할 때, 삼각형 $DEF$는 삼각형 $ABC$의 수심삼각형(orthic triangle)이다. </yellowboard>
@@ -84,43 +78,42 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <ul class="inbox">
 <li>$(A, F, H, E), (B, D, H, F), (C, E, H, D), (A, B, D, E), (B, C, E, F), (C, A, F, D)$가 공원점</li>
 <li>$H$는 삼각형 $DEF$의 내심이다. </li></ul>
-</greenborder>
-<center>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
-</center>
 
 
 #### 방심에서 각 돌리기
 <greenboard><b>Theorem 1.10.</b> 삼각형 $ABC$에서 방심을 $I_A, I_B, I_C$라고 할 때, 다음이 성립한다. 
 <ul class="inbox"><li>$(A, B, I_A, I_B)$가 공원점이다.</li>
 <li>$(A, I_C, B, I)$가 공원점이고 $II_C$가 지름이다.</li>
-<li>$I_AI_BI_C$의 수심은 $I$, 수심삼각형은 $ABC$이다. </li>
+<li>$I_AI_BI_C$의 수심은 $I$이다. </li>
 </ul>
 </greenboard>
-<center>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Directed Angle.svg"  width="30%">
-</center>
+
+### 멘션 정리
+<greenboard><b>Theorem 1.11.</b> 삼각형 $ABC$의 내심을 $I$, 각 $A$에 대한 방심을 $I_A$라 하자. 호 $BC$의 중점을 $M$이라 할 때, $\overline{MI}=\overline{MB}=\overline{MC}=\overline{MI_A}$가 성립한다. </greenboard>
 
 
 ### 외심과 수심
-<skyblueboard><b>Example 1.11.</b> 삼각형 $ABC$의 외심을 $O$, 수심을 $H$라고 할 때, 다음을 보여라. $$\angle BAO = \angle CAH$$</skyblueboard>
-
-### 세르보어 정리
-<greenboard><b>Theorem 1.12.</b> $O$에서 $BC$에 내린 수선의 발을 $M$이라 하면 $AH=2OM$</greenboard>
+<skyblueboard><b>Example 1.12.</b> 삼각형 $ABC$의 외심을 $O$, 수심을 $H$라고 할 때, 다음을 보여라. $$\angle BAO = \angle CAH$$</skyblueboard>
 
 ### H-Reflections
+<greenboard><b>Theorem 1.13.</b> 삼각형 $ABC$의 수심을 $H$, 외심을 $O$라 하자. 이때, $H$를 변 $BC$에 대해 대칭시킨 점을 $X$, $H$를 변 $BC$의 중점 $M$에 대해 대칭시킨 점을 $Y$라 하면, $X, Y$는 삼각형 $ABC$의 외접원 위에 있고, $A, O, Y$는 일직선이다. </greenboard>
 
-### 멘션 정리
+### 세르보어 정리
+<greenboard><b>Theorem 1.14.</b> 삼각형 $ABC$의 수심을 $H$, 외심을 $H$라 하고, 변 $BC$의 중점을 $M$이라 할 때, $\overline{AH}=\overline{OM}$이 성립한다. </greenboard>
 
 ### 직선이 이루는 각
+<greenboard><b>Theorem 1.15.</b> 평면 위의 임의의 네 직선 $a, b, c, d$에 대하여 다음이 성립한다. $$\measuredangle(a, b)+\measuredangle (c, d)=\measuredangle (a, d) + \measuredangle (c, b)$$</greenboard>
 
 ### Reim's Theorem
-<greenboard><b>Theorem 1.n.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. </greenboard>
+<greenboard><b>Theorem 1.16.</b> 원에 내접하는 사각형 $ABCD$에서 $P$와 $Q$는 각각 직선 $AB, CD$ 위의 점이다. 이때, $A, B, P, Q$가 공원점일 필요충분조건은 $\overline{CD} \parallel \overline{PQ}$이다. </greenboard>
 <center>
     <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 1G/Reim's Theorem.svg"  width="50%">
 </center>
 
 ### 심슨 정리
+<greenboard><b>Theorem 1.17.</b> 삼각형 $ABC$의 외접원 위의 임의의 점 $P$에 대하여 $P$에서 변 $BC, CA, AB$에 내린 수선의 발을 각각 $X, Y, Z$라 하면 세 점 $X, Y, Z$는 한 직선 위에 있다. </greenboard>
+
+#### 심슨 정리의 응용
 
 ### Phantom Point
 

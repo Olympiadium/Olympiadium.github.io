@@ -23,3 +23,12 @@ permalink: /mathematical-olympiads/algebra/olym-10a/practice-problems/
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>

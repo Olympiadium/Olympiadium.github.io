@@ -31,3 +31,12 @@ Solution Here.
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> 다음 식을 만족하는 소수의 순서쌍 $(p, q)$를 모두 구하여라. $$p^3+q^3+1=p^2q^2$$ </blueboard>
+[Cyprus 2022 Junior TST P2](https://artofproblemsolving.com/community/c6h2785526p24481268){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
