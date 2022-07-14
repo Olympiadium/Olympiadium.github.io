@@ -16,8 +16,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 </ul>
 
 ## TeX이란?
-<blueboard> <pre><code class="language-latex">
-\NeedsTeXFormat{LaTeX2e}
+<blueboard> <pre><code class="language-latex">\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{gshstest}[GSHS Test Class]
 \LoadClass[11pt]{article}
 
