@@ -1,4 +1,4 @@
-<!-- language-all:  lang-none -->
+
 ---
 layout: article
 title: LaTeX Chapter 1 Introduction to TeX | Olympiadium
@@ -17,6 +17,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 </ul>
 
 ## TeX이란?
+<!-- language-all:  lang-none -->
 <blueboard> <pre><code class="language-latex">\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{gshstest}[GSHS Test Class]
 \LoadClass[11pt]{article}
