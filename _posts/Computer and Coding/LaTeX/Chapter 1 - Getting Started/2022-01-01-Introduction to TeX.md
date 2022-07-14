@@ -23,5 +23,9 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage[b4paper,left=50pt,right=50pt,top=65pt,bottom=80pt,headsep=10pt]{geometry}
 \usepackage{setspace}
 \usepackage{graphicx}
+
+\begin{minipage}[<i>options</i>]{<i>width</i>}
+	contents here...
+\end{minipage}
 </code></pre>
 </blueboard>
