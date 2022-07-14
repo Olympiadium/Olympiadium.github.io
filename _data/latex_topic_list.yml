@@ -1,28 +1,16 @@
 Topic1:
-  name: 문서 만들기
+  name: Getting Started
 Topic2:
-  name: Figure 배치
+  name: Fonts and Spaces Formatting
 Topic3:
-  name: 수식
+  name: Page Layout
 Topic4:
-  name: Table
+  name: Basic Elements
 Topic5:
-  name: 평균 부등식과 코시 부등식
+  name: Technical Elements
 Topic6:
-  name: 부등식의 정리
+  name: Creating Graphics
 Topic7:
-  name: 부등식의 기술
+  name: Programming
 Topic8:
-  name: 다변수 부등식
-Topic9:
-  name: 집합과 수열
-Topic10:
- name: 다항식 심화
-Topic11:
-  name: 함수방정식의 기초
-Topic12:
-  name: 함수방정식의 기술
-Topic13:
-  name: 함수방정식의 심화
-Topic14:
-  name: 대수 Finals
+  name: About TeX
