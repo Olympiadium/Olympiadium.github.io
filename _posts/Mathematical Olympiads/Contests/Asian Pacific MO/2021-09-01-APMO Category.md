@@ -1,6 +1,6 @@
 ---
 layout: article
-title: APMO Category | Olymplex
+title: APMO Category | Olympiadium
 date: 2021-09-10
 mathjax: true
 permalink: /mathematical-olympiads/contests/asian-pacific-mathematical-olympiad/

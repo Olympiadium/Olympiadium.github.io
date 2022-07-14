@@ -1,6 +1,6 @@
 ---
 layout: article
-title: KMO Category | Olymplex
+title: KMO Category | Olympiadium
 date: 2021-09-10
 mathjax: true
 permalink: /mathematical-olympiads/contests/korean-mathematical-olympiad/

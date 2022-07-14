@@ -1,6 +1,6 @@
 ---
 layout: article
-title: EGMO Category | Olymplex
+title: EGMO Category | Olympiadium
 date: 2021-09-10
 mathjax: true
 permalink: /mathematical-olympiads/contests/european-girls'-mathematical-olympiad/

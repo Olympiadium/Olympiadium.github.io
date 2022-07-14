@@ -1,6 +1,6 @@
 ---
 layout: article
-title: BW Category | Olymplex
+title: BW Category | Olympiadium
 date: 2022-01-01
 mathjax: true
 permalink: /mathematical-olympiads/contests/baltic-way/

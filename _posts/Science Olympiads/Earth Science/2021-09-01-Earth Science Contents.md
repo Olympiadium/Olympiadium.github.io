@@ -7,7 +7,7 @@ permalink: /science-olympiads/earth-science/
 ---
 <h1>지구과학 목차 - Earth Science Contents</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olymplex</a></li> 
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
 	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
 	<li><a href="{{ site.homeurl }}science-olympiads/earth-science/">Earth Science</a></li>
 </ul>
