@@ -1,3 +1,4 @@
+<!-- language-all:  lang-none -->
 ---
 layout: article
 title: LaTeX Chapter 1 Introduction to TeX | Olympiadium
