@@ -1311,6 +1311,7 @@ if (typeof global !== 'undefined') {
 		},
 		'environment': {
 			pattern: /\\(begin|end)/,
+			alias: 'punctuation',
 		},
 		/*
 		 * section or chapter headlines are highlighted as bold so that
@@ -1325,7 +1326,7 @@ if (typeof global !== 'undefined') {
 			pattern: funcPattern,
 			alias: 'selector'
 		},
-		'punctuation': /([[\]{}&]|\\(begin|end))/
+		'punctuation': /[[\]{}&]/
 	};
 
 	Prism.languages.tex = Prism.languages.latex;
@@ -1945,7 +1946,6 @@ if (typeof global !== 'undefined') {
 		'(': ')',
 		'[': ']',
 		'{': '}',
-		'\\begin': '\\end',
 	};
 
 	// The names for brace types.
@@ -1955,13 +1955,14 @@ if (typeof global !== 'undefined') {
 		'(': 'brace-round',
 		'[': 'brace-square',
 		'{': 'brace-curly',
-		'\\begin': 'begin-environment',
 	};
 
 	// A map for brace aliases.
 	// This is useful for when some braces have a prefix/suffix as part of the punctuation token.
 	var BRACE_ALIAS_MAP = {
 		'${': '{', // JS template punctuation (e.g. `foo ${bar + 1}`)
+		'\\begin': '{',
+		'\\end': '{',
 	};
 
 	var LEVEL_WARP = 12;
