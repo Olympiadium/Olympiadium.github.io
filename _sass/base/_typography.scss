@@ -312,7 +312,7 @@
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
 
-	code {
+/*	code {
 		background: _palette(border-bg);
 		border-radius: _size(border-radius);
 		border: solid _size(border-width) _palette(border);
@@ -335,7 +335,7 @@
 			overflow-x: auto;
 		}
 	}
-
+*/
 	hr {
 		border: 0;
 		border-bottom: solid _size(border-width) _palette(border);
