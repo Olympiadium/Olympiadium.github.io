@@ -1311,7 +1311,7 @@ if (typeof global !== 'undefined') {
 		},
 		'environment': {
 			pattern: /\\(begin|end)/,
-		}
+		},
 		/*
 		 * section or chapter headlines are highlighted as bold so that
 		 * they stand out more
