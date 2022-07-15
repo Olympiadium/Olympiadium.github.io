@@ -1309,6 +1309,9 @@ if (typeof global !== 'undefined') {
 			pattern: /(\\url\{)[^}]+(?=\})/,
 			lookbehind: true
 		},
+		'environment': {
+			pattern: /\\(begin|end)/,
+		}
 		/*
 		 * section or chapter headlines are highlighted as bold so that
 		 * they stand out more
