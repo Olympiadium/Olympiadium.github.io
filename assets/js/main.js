@@ -28,6 +28,11 @@
 				}, 100);
 			});
 
+			$('span.hljs-italic').each((i,e) => {
+  				var newHtml = $(e).html().replace(/\^\^i(\w+)\^\^/g, '$1');
+  				$(e).html(newHtml)
+			})
+
 		// Touch?
 			if (skel.vars.touch)
 				$body.addClass('is-touch');
@@ -181,6 +186,7 @@
 						$menu._toggle();
 
 				})
+
 				.on('click', function(event) {
 
 					// Hide.
