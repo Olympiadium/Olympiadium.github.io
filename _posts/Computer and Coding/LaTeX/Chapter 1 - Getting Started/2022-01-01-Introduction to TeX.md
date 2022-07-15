@@ -96,7 +96,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
   		\node [grouping] (block) {\hspace{1ex}\parbox{\groupinglength}{\BODY}};%
   		\node[xshift=-.5\widthof{#1},overlay,fill=white,draw=white,inner sep=1pt] at (block.west) {#1};
   	\end{tikzpicture}
-}
+}*
 
 
 \usepackage{adjustbox}
@@ -114,7 +114,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage[at]{easylist}
 \ListProperties(Hang=true, Margin=5pt, Style1*=\fontspec[Path=./fonts/]{HYWULM.TTF}\selectfont,%
 Style2*={(}, Mark2={)}, Numbers2=a, Hide2=1,%
-Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
+Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)*
 
 \def\(#1\){\addstackgap{$\displaystyle#1$}}
 \usepackage[per-mode=symbol]{siunitx}
@@ -138,7 +138,7 @@ Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
 \newcolumntype{Y}{>{\centering\arraybackslash}X}
 \renewcommand{\arraystretch}{1.5}
 \setlength\tabcolsep{0pt}
-\setlength{\footskip}{60pt}
+\setlength{\footskip}{60pt}*
 
 \usepackage{tabu}
 
@@ -202,7 +202,7 @@ Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
 			\hline[1.2pt]
 		\end{tblr}
 	\end{table}
-	\vspace*{-1.3cm}
+	\vspace*{-1.3cm}*
 }
 
 \usepackage{array}
