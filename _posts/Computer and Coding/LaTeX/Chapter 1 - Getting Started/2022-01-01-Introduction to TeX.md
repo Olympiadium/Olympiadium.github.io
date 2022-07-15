@@ -3,7 +3,7 @@ layout: article
 title: LaTeX Chapter 1 Introduction to TeX | Olympiadium
 date: 2021-09-10
 mathjax: true
-code: true
+latex: true
 permalink: /computer-and-coding/latex/chapter-1/introduction
 ---
 # TeX 소개
