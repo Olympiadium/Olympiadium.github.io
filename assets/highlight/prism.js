@@ -1302,7 +1302,7 @@ if (typeof global !== 'undefined') {
 		 * as keywords
 		 */
 		'keyword': {
-			pattern: /(\\(?:begin|cite|documentclass|end|label|ref|usepackage)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
+			pattern: /(\\(?:begin|cite|documentclass|end|label|ref|usepackage|NeedsTeXFormat|ProvidesClass|LoadClass)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
 			lookbehind: true
 		},
 		'url': {
@@ -1962,7 +1962,7 @@ if (typeof global !== 'undefined') {
 	var BRACE_ALIAS_MAP = {
 		'${': '{', // JS template punctuation (e.g. `foo ${bar + 1}`)
 		'\\begin': '{',
-		'\\end': '{',
+		'\\end': '}',
 	};
 
 	var LEVEL_WARP = 12;
