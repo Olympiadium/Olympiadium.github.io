@@ -46,7 +46,7 @@ var hljs = function() {
             this.buffer = "", this.classPrefix = t.classPrefix, e.walk(this)
         }
         addText(e) {
-            this.buffer += e
+            this.buffer += i(e)
         }
         openNode(e) {
             if (!s(e)) return;
