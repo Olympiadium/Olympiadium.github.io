@@ -25,6 +25,9 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage{graphicx}
 
 \begin{minipage}[<i>options</i>]{<i>width</i>}
+	\begin{center}
+		centered...
+	\end{center}
 	contents here...
 \end{minipage}
 </code></pre>
