@@ -17,35 +17,15 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 
 ## TeX이란?
 <blueboard><pre><code class="language-latex">\NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{gshstest-math}[GSHS Test Class]
+\ProvidesClass{gshstest}[GSHS Test Class]
 \LoadClass[11pt]{article}
+
 \usepackage[b4paper,left=50pt,right=50pt,top=65pt,bottom=80pt,headsep=10pt]{geometry}
 \usepackage{setspace}
 \usepackage{graphicx}
-\graphicspath{ {./figures/} }
-\usepackage{kotex}
-\usepackage{lastpage}
-\usepackage{xcolor}
-\renewcommand\r[1]{\color{red}{#1}}
-\newcommand\bl[1]{\color{blue}{#1}}
-\usepackage{fontspec}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{fp}
-\usepackage{tikz}
-\usetikzlibrary{backgrounds}
-\tikzstyle{background rectangle}=[thin,draw=black]
-\usepackage{environ}
-\NewEnviron{tbox}[1]{%
-	\\
-	\begin{minipage}{\linewidth-6\fboxsep}
-    	\begin{tikzpicture}[show background rectangle]
-    		\node[align=justify, text width=\linewidth, inner sep=0pt]{
-    			\\\BODY
-    		};
-    		\node[yshift=-0.7ex,overlay,fill=white,draw=white,above] at (current bounding box.north){#1};
-    	\end{tikzpicture}
-    \end{minipage}
-}
+
+\begin{minipage}[^^ioptions^^]{^^iwidth^^}
+	contents here...
+\end{minipage}
 </code></pre>
 </blueboard>
