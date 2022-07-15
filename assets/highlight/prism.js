@@ -1325,7 +1325,7 @@ if (typeof global !== 'undefined') {
 			pattern: funcPattern,
 			alias: 'selector'
 		},
-		'punctuation': /[[\]{}&]/
+		'punctuation': /([[\]{}&]|\\(begin|end))/
 	};
 
 	Prism.languages.tex = Prism.languages.latex;

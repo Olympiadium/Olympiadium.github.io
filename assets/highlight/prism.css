@@ -123,6 +123,14 @@ pre[class*="language-"] {
 	color: green;
 }
 
+.language-latex .token.cdata {
+	color: #4ced54;
+}
+
+.language-latex .token.keyword {
+	color: #5f93ff;
+}
+
 pre[class*="language-"].line-numbers {
 	position: relative;
 	padding-left: 3.8em;
