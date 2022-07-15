@@ -16,7 +16,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 </ul>
 
 ## TeX이란?
-<blueboard><code class="language-latex">\NeedsTeXFormat{LaTeX2e}
+<blueboard><pre><code class="language-latex">\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{gshstest}[GSHS Test Class]
 \LoadClass[11pt]{article}
 
@@ -27,5 +27,5 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \begin{minipage}[<i>options</i>]{<i>width</i>}
 	contents here...
 \end{minipage}
-</code>
+</code></pre>
 </blueboard>

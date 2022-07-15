@@ -10,7 +10,7 @@ permalink: /computer-and-coding/latex/chapter-1
 	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
 	<li><a href="{{ site.homeurl }}computer-and-coding/">Computer and Coding</a></li> 
 	<li><a href="{{ site.homeurl }}computer-and-coding/latex/">LaTeX</a></li>
-	<li><a href="{{ site.homeurl }}computer-and-coding/latex/chapter-1/">Chapter 1</a></li>
+	<li><a href="{{ site.homeurl }}computer-and-coding/latex/chapter-1">Chapter 1</a></li>
 </ul>
 
 ### TeX 입문
