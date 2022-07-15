@@ -1759,7 +1759,7 @@ Prism.languages.js = Prism.languages.javascript;
 		 * as keywords
 		 */
 		'keyword': {
-			pattern: /(\\(?:begin|cite|documentclass|end|label|ref|usepackage)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
+			pattern: /(\\(?:begin|cite|documentclass|end|label|ref|usepackage|NeedsTeXFormat|ProvidesClass|LoadClass)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
 			lookbehind: true
 		},
 		'url': {
@@ -1792,4 +1792,3 @@ Prism.languages.js = Prism.languages.javascript;
 	Prism.languages.tex = Prism.languages.latex;
 	Prism.languages.context = Prism.languages.latex;
 }(Prism));
-
