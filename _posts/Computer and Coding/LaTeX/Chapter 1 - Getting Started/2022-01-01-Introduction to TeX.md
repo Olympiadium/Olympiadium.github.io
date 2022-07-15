@@ -24,7 +24,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage{setspace}
 \usepackage{graphicx}
 
-\begin{minipage}[*option*]{**width**}
+\begin{minipage}[^^ioptions^^]{^^iwidth^^}
 	contents here...
 \end{minipage}
 </code></pre>
