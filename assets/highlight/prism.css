@@ -210,7 +210,7 @@ div.code-toolbar > .toolbar > .toolbar-item > a {
 div.code-toolbar > .toolbar > .toolbar-item > button {
 	background: none;
 	border: 0;
-	color: inherit;
+	color: white;
 	font: inherit;
 	line-height: normal;
 	overflow: visible;
