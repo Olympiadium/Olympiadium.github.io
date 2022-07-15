@@ -1019,7 +1019,8 @@ var hljs = function() {
                 }, {
                     className: "italic",
                     relevance: 0,
-                    begin: /\^\^i(\w+)\^\^/
+                    begin: "^^i",
+                    end: "^^"
                 }, e.COMMENT("%", "$", {
                     relevance: 0
                 })],
