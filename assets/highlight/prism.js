@@ -1942,6 +1942,7 @@ if (typeof global !== 'undefined') {
 		'(': ')',
 		'[': ']',
 		'{': '}',
+		'\\begin': '\\end',
 	};
 
 	// The names for brace types.
@@ -1951,6 +1952,7 @@ if (typeof global !== 'undefined') {
 		'(': 'brace-round',
 		'[': 'brace-square',
 		'{': 'brace-curly',
+		'\\begin': 'begin-environment',
 	};
 
 	// A map for brace aliases.
