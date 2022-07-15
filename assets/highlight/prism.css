@@ -223,7 +223,7 @@ div.code-toolbar > .toolbar > .toolbar-item > button {
 div.code-toolbar > .toolbar > .toolbar-item > a,
 div.code-toolbar > .toolbar > .toolbar-item > button,
 div.code-toolbar > .toolbar > .toolbar-item > span {
-	color: #bbb;
+	color: #bbb !improtant;
 	font-size: .8em;
 	padding: 0 .5em;
 	background: #f5f2f0;
