@@ -97,8 +97,6 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
   		\node[xshift=-.5\widthof{#1},overlay,fill=white,draw=white,inner sep=1pt] at (block.west) {#1};
   	\end{tikzpicture}
 }
-
-
 \usepackage{adjustbox}
 \def\|#1\|{\ensuremath{\mathrm{#1}}}
 \newcommand{\vspan}[1][1]{\vspace*{\stretch{\fpeval{10*(#1)}}}}
@@ -110,7 +108,6 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage{multicol}
 \setlength{\columnseprule}{0.4pt}
 \usepackage{wrapfig}
-
 \usepackage[at]{easylist}
 \ListProperties(Hang=true, Margin=5pt, Style1*=\fontspec[Path=./fonts/]{HYWULM.TTF}\selectfont,%
 Style2*={(}, Mark2={)}, Numbers2=a, Hide2=1,%
@@ -139,10 +136,7 @@ Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
 \renewcommand{\arraystretch}{1.5}
 \setlength\tabcolsep{0pt}
 \setlength{\footskip}{60pt}
-
 \usepackage{tabu}
-
-
 \usepackage{fancyhdr}
 \renewcommand\headrulewidth{0.4pt}
 \renewcommand\footrulewidth{0.4pt}
@@ -160,8 +154,6 @@ Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
 		\vskip-\footrulewidth
 }}
 \makeatother
-
-
 \pagestyle{fancy}
 \fancyhf{}
 \fancyheadoffset{0.3cm}
@@ -175,14 +167,11 @@ Space1=1cm, Space2=0.5cm, Space2*=0.3cm, Hide3=3, Space4=0.2cm, Hide4=4)
 \end{center}\end{minipage}}
 \usepackage{dashrule}
 \usepackage{listofitems}
-
 \usepackage{multido}
-
 \newlength\tableheight
 \setlenght{\tableheight}{70pt}
 \newlength\authorheight
 \setlength{\authorheight}{\dimexpr\A/\authorslen\relax}
-
 \renewcommand\maketitle{
 	\begin{table}[]
 		\fontspec[Path=./fonts/]{MalgunGothic-Bold.ttf}\selectfont
