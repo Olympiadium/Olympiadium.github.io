@@ -135,6 +135,10 @@ pre[class*="language-"] {
 	color: #69ff5f;
 }
 
+.language-latex .token.environment .token.environment-name {
+	color: #22ffeb;
+}
+
 pre[class*="language-"].line-numbers {
 	position: relative;
 	padding-left: 3.8em;

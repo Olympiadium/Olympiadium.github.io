@@ -2036,7 +2036,7 @@ if (typeof global !== 'undefined') {
 		/** @type {string[]} */
 		var toMatch = [];
 		if (Prism.util.isActive(code, 'match-braces')) {
-			toMatch.push('(', '[', '{');
+			toMatch.push('(', '[', '{', '\\begin');
 		}
 
 		if (toMatch.length == 0) {
