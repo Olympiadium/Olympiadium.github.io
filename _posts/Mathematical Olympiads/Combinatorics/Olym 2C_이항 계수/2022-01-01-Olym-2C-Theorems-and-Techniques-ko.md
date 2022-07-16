@@ -22,7 +22,7 @@ permalink: /mathematical-olympiads/combinatorics/olym-2c/theorems-and-techniques
 
 ### 파스칼 법칙
 
-### 하키 스틱 공식
+### 크리스마스 양말 정리, 하키스틱 공식
 
 ### 반데르몽 항등식
 <greenboard><b>Lemma 2.3.</b> 보조정리</greenboard>

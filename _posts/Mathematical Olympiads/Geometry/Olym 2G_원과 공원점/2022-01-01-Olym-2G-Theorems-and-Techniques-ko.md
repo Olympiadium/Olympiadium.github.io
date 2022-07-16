@@ -48,6 +48,7 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 
 
 ## 오일러 직선
+<greenboard><b>Theorem 2.n. </b>삼각형 $ABC$의 외심을 $O$, 무게중심을 $G$, 수심을 $H$라고 할 때, $O, G, H$는 한 직선 위에 놓이는데, 이 직선을 <span style="color:blue">오일러 직선</span>이라 한다. </greenboard>
 
 ## 아폴로니우스의 원
 

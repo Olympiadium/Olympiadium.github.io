@@ -49,6 +49,7 @@ $(A, B; X, Y) = P(A, B; X, Y)=P(A', B'; X', Y')=(A', B'; X', Y')$가 성립하�
 <orangeboard><b>Proposition 10.4. </b> 임의의 네 점 $A, B, C, D$에 대하여 $$(A, B; X, Y)=(B, A; X, Y)^{-1}=(A, B; Y, X)^{-1}=(X, Y; A, B)$$ 가 성립한다. <br>
     한 직선 상에 서로 다른 세 점 $A, B, X$와 실수 $k$가 주어졌을 때, $(A, B; X, Y)=k$가 되는 점 $Y$가 유일하게 존재함을 보여라. <br>
     $(A, B; X, Y)=1 \iff$ $A$와 $B$가 일치하거나 $X$와 $Y$가 일치한다. </orangeboard>
+    
 ### 조화점열의 정의와 성질
 <yellowboard><b>Definition 10.5. </b> $(A, B; X, Y)=-1$을 만족할 때, $(A, B; X, Y)$를 <span style="color:blue">조화점열(harmonic bundle)</span>이라고 하며, <br>
     사각형 $AXBY$가 원에 내접하면 이를 <span style="color:blue">조화사각형(harmonic quadrilateral)</span>이라 한다. <br>

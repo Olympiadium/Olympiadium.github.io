@@ -69,7 +69,6 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <li>$\angle BIC = 90^\circ + \frac{1}{2}\angle A$</li>
 <li>$\angle BOC = 2 \angle A$</li>
 <li>$\angle OBC = 90^\circ - \angle A$</li>
-<li></li>
 </ul></greenboard>
 
 #### 수심에서 각 돌리기
@@ -78,6 +77,7 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <ul class="inbox">
 <li>$(A, F, H, E), (B, D, H, F), (C, E, H, D), (A, B, D, E), (B, C, E, F), (C, A, F, D)$가 공원점</li>
 <li>$H$는 삼각형 $DEF$의 내심이다. </li></ul>
+</greenborder>
 
 
 #### 방심에서 각 돌리기

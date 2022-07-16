@@ -14,4 +14,4 @@ permalink: /mathematical-olympiads/contests/kmo-mock/
 </ul>
 
 ### 중등 KMO 2차 모의고사
-[중등 KMO 2차 모의고사 1회]({{ site.homeurl }}/pdf/중등 KMO 2차 모의고사 1회.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+[중등 KMO 2차 모의고사 1회]({{ site.homeurl }}pdf/중등 KMO 2차 모의고사 1회.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
