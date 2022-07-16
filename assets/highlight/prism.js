@@ -1290,7 +1290,7 @@ if (typeof global !== 'undefined') {
 			inside: {
 				'punctuation': /[\(\)\[\]{}&]/,
             	'option-name': {
-            		pattern: /((?:\[|, ))[^\[\],=]+(?=[,\]])/
+            		pattern: /(?<=(?:\[|, ))[^\[\],=]+(?=[,\]])/
             	},
             	'value': {
             	    pattern: /(?<==)[^\[\],]+(?=[,\]])/,
