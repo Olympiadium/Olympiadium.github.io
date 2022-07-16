@@ -1285,7 +1285,7 @@ if (typeof global !== 'undefined') {
 				lookbehind: true
 			}
 		}
-	],
+	];
 
 	Prism.languages.latex = {
 		'comment': /%.*/,
