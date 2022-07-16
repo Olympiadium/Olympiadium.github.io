@@ -131,16 +131,12 @@ pre[class*="language-"] {
 	color: #5f93ff;
 }
 
-.language-latex .token.environment {
-	color: #69ff5f;
-}
-
 .language-latex .token.environment .token.environment-name {
 	color: #22ffeb;
 }
 
-.language-latex .token.environment .token.environment-brace {
-	color: #ccc;
+.language-latex .token.environment .token.begin-end {
+	color: #69ff5f;
 }
 
 pre[class*="language-"].line-numbers {
