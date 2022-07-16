@@ -149,15 +149,15 @@ pre[class*="language-"] {
 	color: #ffe94f;
 }
 
-.language-latex .token.tikz .option.option-name {
+.language-latex .token.tikz .option-name {
 	color: #ff6bed;
 }
 
-.language-latex .token.tikz .option.value {
+.language-latex .token.tikz .value {
 	color: #00ff90;
 }
 
-.language-latex .token.tikz .coordinate.number {
+.language-latex .token.tikz .coordinate .number {
 	color: #5f81ff;
 }
 
