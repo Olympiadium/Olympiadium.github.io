@@ -1272,16 +1272,20 @@ if (typeof global !== 'undefined') {
 			alias: 'regex'
 		}
 	};
-	var insideEnv = {
-		'environment-name': {
-			pattern: /(\\(?:begin|end)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
-			lookbehind: true
-		},
-		'environment-brace': {
-			pattern: /(\{|\})/,
-			lookbehind: true
+	var insideEnv = [
+		{
+			'environment-name': {
+				pattern: /(\\(?:begin|end)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
+				lookbehind: true
+			},
 		}
-	}
+		{
+			'environment-brace': {
+				pattern: /(\{|\})/,
+				lookbehind: true
+			}
+		}
+	],
 
 	Prism.languages.latex = {
 		'comment': /%.*/,
