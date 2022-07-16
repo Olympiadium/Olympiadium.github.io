@@ -1301,6 +1301,10 @@ if (typeof global !== 'undefined') {
 		 * arguments which are keywords or references are highlighted
 		 * as keywords
 		 */
+		'environment': {
+			pattern: /\\(begin|end)\{[^}]+\}/,
+			alias: 'punctuation',
+		},
 		'keyword': {
 			pattern: /(\\(?:begin|cite|documentclass|end|label|ref|usepackage|NeedsTeXFormat|ProvidesClass|LoadClass)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
 			lookbehind: true
@@ -1308,10 +1312,6 @@ if (typeof global !== 'undefined') {
 		'url': {
 			pattern: /(\\url\{)[^}]+(?=\})/,
 			lookbehind: true
-		},
-		'environment': {
-			pattern: /\\(begin|end)\{[^}]+\}/,
-			alias: 'punctuation',
 		},
 		/*
 		 * section or chapter headlines are highlighted as bold so that
