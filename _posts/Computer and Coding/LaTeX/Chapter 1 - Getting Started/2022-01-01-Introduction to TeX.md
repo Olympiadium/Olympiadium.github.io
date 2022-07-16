@@ -16,7 +16,8 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 </ul>
 
 ## TeX이란?
-<blueboard><pre><code class="language-latex line-numbers match-braces">\NeedsTeXFormat{LaTeX2e}
+<blueboard><pre><code class="language-latex">
+\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{gshstest}[GSHS Test Class]
 \LoadClass[11pt]{article}
 
@@ -24,7 +25,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage{setspace}
 \usepackage{graphicx}
 
-\begin{minipage}[<i>options</i>]{<i>width</i>}
+\begin{minipage}[options]{width}
 	\begin{center}
 		centered...
 	\end{center}
