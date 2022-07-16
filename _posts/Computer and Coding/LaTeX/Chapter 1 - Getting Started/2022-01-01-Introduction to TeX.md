@@ -17,24 +17,24 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 
 ## TeX이란?
 <blueboard><pre><code class="language-latex">
-\NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{gshstest}[GSHS Test Class]
-\LoadClass[11pt]{article}
-
-\usepackage[b4paper,left=50pt,right=50pt,top=65pt,bottom=80pt,headsep=10pt]{geometry}
-\usepackage{setspace}
-\usepackage{graphicx}
-
-\begin{minipage}[<i>options</i>]{<b>width</b>}
-	\begin{center}
-		centered...
-	\end{center}
-	contents here...
-\end{minipage}
-
-\begin{tikzpicture}
-	\draw[help, help lines, curve, ->, pos=mid, go=value] (0,0) grid (3,2);
-	\draw (-1,0) parabola[parabola height=2cm] +(3,0);
-\end{tikzpicture}
+	\NeedsTeXFormat{LaTeX2e}
+	\ProvidesClass{gshstest}[GSHS Test Class]
+	\LoadClass[11pt]{article}
+	
+	\usepackage[b4paper,left=50pt,right=50pt,top=65pt,bottom=80pt,headsep=10pt]	{geometry}
+	\usepackage{setspace}
+	\usepackage{graphicx}
+	
+	\begin{minipage}[<i>options</i>]{<b>width</b>}
+		\begin{center}
+			centered...
+		\end{center}
+		contents here...
+	\end{minipage}
+	
+	\begin{tikzpicture}
+		\draw[help, help lines, curve, ->, pos=mid, go=value] (0,0) grid (3,2);
+		\draw (-1,0) parabola[parabola height=2cm] +(3,0);
+	\end{tikzpicture}
 </code></pre>
 </blueboard>
