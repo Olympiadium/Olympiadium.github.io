@@ -1276,6 +1276,10 @@ if (typeof global !== 'undefined') {
 		'environment-name': {
 			pattern: /(\\(?:begin|end)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
 			lookbehind: true
+		},
+		'environment-brace': {
+			pattern: /(\{|\})/,
+			lookbehind: true
 		}
 	}
 
