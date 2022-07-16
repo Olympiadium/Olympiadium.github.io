@@ -1291,10 +1291,10 @@ if (typeof global !== 'undefined') {
             	'option-name': {
             		pattern: /(?:(\[|, ))[^\[\],=]+(?=[,\]])/
             	},
-				'punctuation': /[\(\)\[\]{}&]/,
             	'value': {
             	    pattern: /(?:=)[^\[\],]+(?=[,\]])/,
             	}
+				'punctuation': /[\(\)\[\]{}&]/,
 			}
 		},
 		'coordinate': {
