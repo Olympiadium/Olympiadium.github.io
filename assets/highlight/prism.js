@@ -1282,21 +1282,24 @@ if (typeof global !== 'undefined') {
 		}
 	};
 	var insideTikZ = {
-		'path-operation': {
-			pattern: /(node|coordinate|circle|rectangle|ellipse|edge|angle|grid|--cycle|--plot|--|to|\.\.|-\||\|-|child|bend|parabola|sin|cos|arc|plot)/,
-		},
+		'punctuation': /[\(\)\[\]{}&]/,
+		'tikz-command': {
+			pattern: funcPattern
+		}
 		'option': {
 			pattern: /\[[^\]]+\]/,
 			inside: {
-				'punctuation': /[\[\]]/,
             	'option-name': {
             	    pattern: /[^\[\],=]+(?=[,=\]])/
             	},
             	'value': {
-            	    pattern: /(=)[^\[\],=]+/,
+            	    pattern: /(?:=)[^\[\],=]+(?=[,\]])/,
             	    alias: 'string'
             	}
 			}
+		},
+		'path-operation': {
+			pattern: /(node|coordinate|circle|rectangle|ellipse|edge|angle|grid|--cycle|--plot|--|to|\.\.|-\||\|-|child|bend|parabola|sin|cos|arc|plot)/,
 		}
 	};
 
