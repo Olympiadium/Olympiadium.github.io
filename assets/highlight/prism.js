@@ -1272,6 +1272,12 @@ if (typeof global !== 'undefined') {
 			alias: 'regex'
 		}
 	};
+	var insideEnv = {
+		'environment-name': {
+			pattern: /(\\(?:begin|end)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
+			lookbehind: true
+		}
+	}
 
 	Prism.languages.latex = {
 		'comment': /%.*/,
@@ -1303,6 +1309,7 @@ if (typeof global !== 'undefined') {
 		 */
 		'environment': {
 			pattern: /\\(begin|end)\{[^}]+\}/,
+			inside: insideEnv,
 			alias: 'punctuation',
 		},
 		'keyword': {
@@ -1946,6 +1953,7 @@ if (typeof global !== 'undefined') {
 		'(': ')',
 		'[': ']',
 		'{': '}',
+		'\\begin': '\\end',
 	};
 
 	// The names for brace types.
@@ -1955,6 +1963,7 @@ if (typeof global !== 'undefined') {
 		'(': 'brace-round',
 		'[': 'brace-square',
 		'{': 'brace-curly',
+		'\\begin': 'open-environment',
 	};
 
 	// A map for brace aliases.
@@ -2070,7 +2079,7 @@ if (typeof global !== 'undefined') {
 			for (var i = 0; i < punctuation.length; i++) {
 				var element = punctuation[i];
 				if (element.childElementCount == 0) {
-					var text = element.textContent;
+					var text = element.textContent.replace(/\\begin\{[^}]+\}/,'\\begin').replace(/\\end\{[^}]+\}/,'\\end');
 					text = BRACE_ALIAS_MAP[text] || text;
 					if (text === open) {
 						allBraces.push({ index: i, open: true, element: element });
