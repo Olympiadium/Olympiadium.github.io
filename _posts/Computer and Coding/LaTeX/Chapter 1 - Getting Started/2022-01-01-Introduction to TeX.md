@@ -30,5 +30,10 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 	\end{center}
 	contents here...
 \end{minipage}
+
+\begin{tikzpicture}
+	\draw[help lines, curve, ->, pos=mid] (0,0) grid (3,2);
+	\draw (-1,0) parabola[parabola height=2cm] +(3,0);
+\end{tikzpicture}
 </code></pre>
 </blueboard>
