@@ -25,16 +25,20 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 	\usepackage{setspace}
 	\usepackage{graphicx}
 	
-	\begin{minipage}[<i>options</i>]{<b>width</b>}
-		\begin{center}
-			centered...
-		\end{center}
-		contents here...
-	\end{minipage}
-	
-	\begin{tikzpicture}
-		\draw[help, help lines, curve, ->, pos=mid, go=value] (0,0) grid (3,2);
-		\draw (-1,0) parabola[parabola height=2cm] +(3,0);
-	\end{tikzpicture}
+	\begin{document}
+		\begin{minipage}[<i>options</i>]{<b>width</b>}
+			\begin{center}
+				centered...
+			\end{center}
+			contents here...
+		\end{minipage}
+		
+		\begin{tikzpicture}
+			\draw[help, help lines, curve, ->, pos=mid, go=value] (0,0) grid (3,2);
+			\draw (-1,0) parabola[parabola height=2cm] +(3,0);
+		\end{tikzpicture}
+	\end{document}
 </code></pre>
 </blueboard>
+
+<pre data-src="myfile.tex" data-range="10,16"><code class="language-latex"></code></pre>
