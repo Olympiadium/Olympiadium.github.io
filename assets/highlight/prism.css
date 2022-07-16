@@ -241,11 +241,8 @@ div.code-toolbar > .toolbar > .toolbar-item > span {
 }
 
 div.code-toolbar > .toolbar > .toolbar-item > a:hover,
-div.code-toolbar > .toolbar > .toolbar-item > a:focus,
 div.code-toolbar > .toolbar > .toolbar-item > button:hover,
-div.code-toolbar > .toolbar > .toolbar-item > button:focus,
-div.code-toolbar > .toolbar > .toolbar-item > span:hover,
-div.code-toolbar > .toolbar > .toolbar-item > span:focus {
+div.code-toolbar > .toolbar > .toolbar-item > span:hover {
 	color: #f2849e;
 	box-shadow: inset 0 0 0 2px #f2849e;
 	text-decoration: none;
