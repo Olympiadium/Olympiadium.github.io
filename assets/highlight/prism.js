@@ -1970,8 +1970,6 @@ if (typeof global !== 'undefined') {
 	// This is useful for when some braces have a prefix/suffix as part of the punctuation token.
 	var BRACE_ALIAS_MAP = {
 		'${': '{', // JS template punctuation (e.g. `foo ${bar + 1}`)
-		'\\begin': '{',
-		'\\end': '}',
 	};
 
 	var LEVEL_WARP = 12;
