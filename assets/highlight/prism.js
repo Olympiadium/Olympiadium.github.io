@@ -2076,7 +2076,7 @@ if (typeof global !== 'undefined') {
 
 			for (var i = 0; i < punctuation.length; i++) {
 				var element = punctuation[i];
-				if (element.childElementCount == 0) {
+				// if (element.childElementCount == 0) {
 					var text = element.textContent.replace(/\\begin\{[^}]+\}/,'\\begin').replace(/\\end\{[^}]+\}/,'\\end');
 					text = BRACE_ALIAS_MAP[text] || text;
 					if (text === open) {
@@ -2092,7 +2092,7 @@ if (typeof global !== 'undefined') {
 							pairs.push([i, openStack.pop()]);
 						}
 					}
-				}
+				//}
 			}
 
 			pairs.forEach(function (pair) {
