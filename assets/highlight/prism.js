@@ -1310,7 +1310,7 @@ if (typeof global !== 'undefined') {
 			lookbehind: true
 		},
 		'environment': {
-			pattern: /\\(begin|end)/,
+			pattern: /\\(begin|end)\{[^}]+\}/,
 			alias: 'punctuation',
 		},
 		/*
