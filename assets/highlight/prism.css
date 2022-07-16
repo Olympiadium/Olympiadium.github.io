@@ -143,6 +143,17 @@ pre[class*="language-"] {
 	color: #ccc;
 }
 
+/* TikZ CSS */
+.language-latex .token.tikz .tikz-command,
+.language-latex .token.tikz .path-operation {
+	color: #ffe94f;
+}
+
+.language-latex .token.tikz .option {
+	color: #ff6bed;
+}
+
+
 pre[class*="language-"].line-numbers {
 	position: relative;
 	padding-left: 3.8em;

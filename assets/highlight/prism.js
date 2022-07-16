@@ -1285,7 +1285,7 @@ if (typeof global !== 'undefined') {
 		'punctuation': /[\(\)\[\]{}&]/,
 		'tikz-command': {
 			pattern: funcPattern
-		}
+		},
 		'option': {
 			pattern: /\[[^\]]+\]/,
 			inside: {
@@ -1294,7 +1294,6 @@ if (typeof global !== 'undefined') {
             	},
             	'value': {
             	    pattern: /(?:=)[^\[\],=]+(?=[,\]])/,
-            	    alias: 'string'
             	}
 			}
 		},
@@ -1313,8 +1312,7 @@ if (typeof global !== 'undefined') {
 		'tikz': {
 			pattern: /(\\begin\{tikzpicture\})[\s\S]*?(?=\\end\{tikzpicture\})/,
 			lookbehind: true,
-			inside: insideTikZ,
-			alias: ['environment', 'punctuation']
+			inside: insideTikZ
 		},
 		/*
 		 * equations can be between $$ $$ or $ $ or \( \) or \[ \]
