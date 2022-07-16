@@ -1281,6 +1281,25 @@ if (typeof global !== 'undefined') {
 			pattern: /(\{|\})/
 		}
 	};
+	var insideTikZ = {
+		'path-operation': {
+			pattern: /(node|coordinate|circle|rectangle|ellipse|edge|angle|grid|--cycle|--plot|--|to|..|-\||\|-|child|bend|parabola|sin|cos|arc|plot)/,
+		},
+		'option': {
+			pattern: /\[[^\]]+\]/,
+			inside: {
+				'punctuation': /[\[\]]/,
+            	'option': {
+            	    pattern: /[^\[\],=]+(?=[,=\]])/,
+            	    alias: 'keyword'
+            	},
+            	'value': {
+            	    pattern: /(=)[^\[\],=]+/,
+            	    alias: 'string'
+            	}
+			}
+		}
+	};
 
 	Prism.languages.latex = {
 		'comment': /%.*/,
@@ -1289,6 +1308,12 @@ if (typeof global !== 'undefined') {
 			pattern: /(\\begin\{((?:lstlisting|verbatim)\*?)\})[\s\S]*?(?=\\end\{\2\})/,
 			lookbehind: true
 		},
+		'tikz': {
+			pattern: /(\\begin\{tikzpicture\})[\s\S]*?(?=\\end\{tikzpicture\})/,
+			lookbehind: true,
+			inside: insideTikZ,
+			alias: ['environment', 'punctuation']
+		}
 		/*
 		 * equations can be between $$ $$ or $ $ or \( \) or \[ \]
 		 * (all are multiline)
