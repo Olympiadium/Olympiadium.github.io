@@ -139,6 +139,10 @@ pre[class*="language-"] {
 	color: #22ffeb;
 }
 
+.language-latex .token.environment .token.environment-brace {
+	color: #ccc;
+}
+
 pre[class*="language-"].line-numbers {
 	position: relative;
 	padding-left: 3.8em;
