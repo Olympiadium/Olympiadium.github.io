@@ -1302,7 +1302,7 @@ if (typeof global !== 'undefined') {
 			inside: {
 				'punctuation': /[\(\)]/,
 			}
-		}
+		},
 		'path-operation': {
 			pattern: /(node|coordinate|circle|rectangle|ellipse|edge|angle|grid|--cycle|--plot|--|to|\.\.|-\||\|-|child|bend|parabola|sin|cos|arc|plot)/,
 		}
