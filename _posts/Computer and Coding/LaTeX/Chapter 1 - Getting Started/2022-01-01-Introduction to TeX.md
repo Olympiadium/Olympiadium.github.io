@@ -25,7 +25,7 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 \usepackage{setspace}
 \usepackage{graphicx}
 
-\begin{minipage}[options]{width}
+\begin{minipage}[<i>options</i>]{<b>width</b>}
 	\begin{center}
 		centered...
 	\end{center}
