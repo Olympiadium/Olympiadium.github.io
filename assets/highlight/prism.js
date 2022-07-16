@@ -1289,10 +1289,10 @@ if (typeof global !== 'undefined') {
 			pattern: /\[[^\]]+\]/,
 			inside: {
             	'option-name': {
-            		pattern: /(?:(\[|, ))[^\[\],=]+(?=[,\]])/
+            		pattern: /(?<=(\[|, ))[^\[\],=]+(?=[,\]])/
             	},
             	'value': {
-            	    pattern: /(?:=)[^\[\],]+(?=[,\]])/,
+            	    pattern: /(?<==)[^\[\],]+(?=[,\]])/,
             	},
 				'punctuation': /[\(\)\[\]{}&]/
 			}
