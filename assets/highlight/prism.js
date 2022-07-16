@@ -1290,10 +1290,10 @@ if (typeof global !== 'undefined') {
 			inside: {
 				'punctuation': /[\(\)\[\]{}&]/,
             	'option-name': {
-            	    pattern: /[^\[\],=]+(?=[,=\]])/
+            	    pattern: /[^\s\[\],=]+(?=[,=\]])/
             	},
             	'value': {
-            	    pattern: /(?:=)[^\[\],=]+(?=[,\]])/,
+            	    pattern: /(?<==)[^\[\],=]+(?=[,\]])/,
             	}
 			}
 		},
@@ -1301,6 +1301,7 @@ if (typeof global !== 'undefined') {
 			pattern: /\([^\)]+\)/,
 			inside: {
 				'punctuation': /[\(\)]/,
+				'number': /[\d\.]+/
 			}
 		},
 		'path-operation': {
