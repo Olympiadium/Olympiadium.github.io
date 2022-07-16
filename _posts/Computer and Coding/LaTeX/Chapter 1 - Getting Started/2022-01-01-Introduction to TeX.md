@@ -42,4 +42,3 @@ permalink: /computer-and-coding/latex/chapter-1/introduction
 </blueboard>
 
 <pre data-src="/code/TeX/chapter-1/test.tex" data-range="10,16"></pre>
-<pre data-src="/code/TeX/chapter-1/test.tex" data-range="1,"></pre>

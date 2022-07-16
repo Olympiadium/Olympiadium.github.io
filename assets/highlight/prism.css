@@ -239,7 +239,8 @@ div.code-toolbar > .toolbar > .toolbar-item > button {
 	border: 0;
 	color: white;
 	font: inherit;
-	line-height: normal;
+	line-height: inherit;
+	height: auto;
 	overflow: visible;
 	padding: 0;
 	-webkit-user-select: none; /* for button */
