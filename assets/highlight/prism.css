@@ -153,6 +153,10 @@ pre[class*="language-"] {
 	color: #ff6bed;
 }
 
+.language-latex .token.tikz .coordinate {
+	color: #5f81ff;
+}
+
 
 pre[class*="language-"].line-numbers {
 	position: relative;

@@ -1282,13 +1282,13 @@ if (typeof global !== 'undefined') {
 		}
 	};
 	var insideTikZ = {
-		'punctuation': /[\(\)\[\]{}&]/,
 		'tikz-command': {
 			pattern: funcPattern
 		},
 		'option': {
 			pattern: /\[[^\]]+\]/,
 			inside: {
+				'punctuation': /[\(\)\[\]{}&]/,
             	'option-name': {
             	    pattern: /[^\[\],=]+(?=[,=\]])/
             	},
@@ -1297,6 +1297,12 @@ if (typeof global !== 'undefined') {
             	}
 			}
 		},
+		'coordinate': {
+			pattern: /\([^\)]+\)/,
+			inside: {
+				'punctuation': /[\(\)]/,
+			}
+		}
 		'path-operation': {
 			pattern: /(node|coordinate|circle|rectangle|ellipse|edge|angle|grid|--cycle|--plot|--|to|\.\.|-\||\|-|child|bend|parabola|sin|cos|arc|plot)/,
 		}
