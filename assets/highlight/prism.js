@@ -1289,7 +1289,7 @@ if (typeof global !== 'undefined') {
 			pattern: /\[[^\]]+\]/,
 			inside: {
 				'punctuation': /[\[\]]/,
-            	'option': {
+            	'option-name': {
             	    pattern: /[^\[\],=]+(?=[,=\]])/,
             	    alias: 'keyword'
             	},
@@ -1313,7 +1313,7 @@ if (typeof global !== 'undefined') {
 			lookbehind: true,
 			inside: insideTikZ,
 			alias: ['environment', 'punctuation']
-		}
+		},
 		/*
 		 * equations can be between $$ $$ or $ $ or \( \) or \[ \]
 		 * (all are multiline)
