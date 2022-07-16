@@ -1277,8 +1277,8 @@ if (typeof global !== 'undefined') {
 			pattern: /(\\(?:begin|end)(?:\[[^\]]+\])?\{)[^}]+(?=\})/,
 			lookbehind: true
 		},
-		'begin-end': {
-			pattern: /(\\(begin|end))/
+		'environment-brace': {
+			pattern: /(\{|\})/
 		}
 	};
 
