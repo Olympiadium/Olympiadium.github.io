@@ -20,7 +20,6 @@ permalink: /mathematical-olympiads/geometry/olym-2g/
   <li><h4>근축과 근심</h4></li>
   <li><h4>아폴로니우스의 원</h4></li>
   <li><h4>구점원, 육점원, 팔점원</h4></li>
-  <li><h4>Mixtilinear Circle</h4></li>
 </ul>
 </div>
 <div class="6u$ 12u$(medium)">

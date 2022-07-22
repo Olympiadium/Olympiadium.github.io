@@ -17,3 +17,6 @@ permalink: /mathematical-olympiads/algebra/olym-7a/theorems-and-techniques/
 </ul>
 
 Comming Soon!
+
+### Klamkin's inequality
+### Newton's inequality

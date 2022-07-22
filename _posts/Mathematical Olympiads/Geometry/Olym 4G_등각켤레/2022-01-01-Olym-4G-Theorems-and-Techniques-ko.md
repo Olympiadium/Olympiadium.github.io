@@ -16,4 +16,6 @@ permalink: /mathematical-olympiads/geometry/olym-4g/theorems-and-techniques/
 	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-4g/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
+## 등각켤레의 정의와 성질
+
 ### Lemoine

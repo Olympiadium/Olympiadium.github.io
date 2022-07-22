@@ -23,3 +23,51 @@ permalink: /mathematical-olympiads/geometry/olym-2g/practice-problems/
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Let $ABC$ be a scalene triangle. The incircle of $ABC$ touches $\overline{BC}$ at $D$. Let $P$ be a point on $\overline{BC}$ satisfying $\angle BAP = \angle CAP$, and $M$ be the midpoint of $\overline{BC}$. Define $Q$ to be on $\overline{AM}$ such that $\overline{PQ} \perp \overline{AM}$. Prove that the circumcircle of $\triangle AQD$ is tangent to $\overline{BC}$. </blueboard>
+[USMCA 2019](https://artofproblemsolving.com/community/c833908h1834604){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>

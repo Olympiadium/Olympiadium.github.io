@@ -25,3 +25,59 @@ Solution Here.
 </details></pinkborder>
 
 
+### Example n. Title Here
+<skyblueboard> Show that there exist infinitely many composite positive integers $n$ such that $n$ divides $2^{\frac{n-1}{2}}+1$ </skyblueboard>
+[Kazakhstan](https://artofproblemsolving.com/community/q1h1405116){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
