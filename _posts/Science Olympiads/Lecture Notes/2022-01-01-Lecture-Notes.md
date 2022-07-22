@@ -21,5 +21,9 @@ permalink: /science-olympiads/lecture-notes/
 <li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley-physics" class="button fit big center"> Brain Valley Physics </a></li>
 <li><a href="{{ site.baseurl }}{{ page.permalink}}megastudy-earth-science" class="button fit big center"> Megastudy Earth Science </a></li>
 </ul>
+<ul class="actions fit big">
 <li><a href="{{ site.baseurl }}{{ page.permalink}}chemical-principles" class="button fit big center"> Chemical Principles - Atkins </a></li>
+</ul>
+<ul class="actions fit big">
+<li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley" class="button fit big center"> Brain Valley </a></li>
 </ul>
