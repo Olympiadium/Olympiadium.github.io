@@ -32,3 +32,58 @@ Solution Here.
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> The distinct prime factors of an integer are its prime factors listed without repetition. For example, the distinct prime factors of $40$ are $2$ and $5$.
+
+Let $A=2^k - 2$ and $B= 2^k \cdot A$, where $k$ is an integer ($k \ge 2$).
+Show that, for every integer $k$ greater than or equal to $2$,
+
+$A$ and $B$ have the same set of distinct prime factors.
+
+$A+1$ and $B+1$ have the same set of distinct prime factors. </skyblueboard>
+[BAMO 2016](https://artofproblemsolving.com/community/c6h1203225){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>

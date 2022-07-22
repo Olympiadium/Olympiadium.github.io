@@ -64,3 +64,52 @@ Solution Here.
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+
+### Example n. Title Here
+<skyblueboard> 세 정수 $a, b, c$에 대하여 $\frac{a}{b}+\frac{b}{c}+\frac{c}{a}$가 정수이면 $abc$가 완전세제곱수임을 보여라. </skyblueboard>
+[BAMO 2018](https://artofproblemsolving.com/community/c291h1904123){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>

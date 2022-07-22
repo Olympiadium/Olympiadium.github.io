@@ -25,3 +25,43 @@ Solution Here.
 </details></pinkborder>
 
 
+### Example n. Title Here
+<skyblueboard> Let $k$ be a positive integer. Prove that there exist integers $x$ and $y$, neither of which is divisible by $3$, such that $x^2+2y^2 = 3^k$. </skyblueboard>
+[BAMO 2015](https://artofproblemsolving.com/community/c6h1202009){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
