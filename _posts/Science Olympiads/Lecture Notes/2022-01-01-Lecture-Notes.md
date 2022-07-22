@@ -25,5 +25,5 @@ permalink: /science-olympiads/lecture-notes/
 <li><a href="{{ site.baseurl }}{{ page.permalink}}chemical-principles" class="button fit big center"> Chemical Principles - Atkins </a></li>
 </ul>
 <ul class="actions fit big">
-<li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley" class="button fit big center"> Brain Valley </a></li>
+<li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley-biology" class="button fit big center"> Brain Valley Biology </a></li>
 </ul>
