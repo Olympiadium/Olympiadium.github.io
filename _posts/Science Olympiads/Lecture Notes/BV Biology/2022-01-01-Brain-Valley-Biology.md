@@ -18,6 +18,6 @@ permalink: /science-olympiads/lecture-notes/brain-valley-biology/
 {% capture topic_name %}{{ topic | first }}{% endcapture %}
 {% assign page_topic = site.data.brain_valley_biology_topic_list[topic_name] %}
   <ul class="actions fit big">
-  <li><a href="{{ site.baseurl }}{{ page.permalink}}chapter-{{ forloop.index | plus:-1 }}" class="button fit big">{{ forloop.index }}강. {{ page_topic.name }}</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink}}chapter-{{ forloop.index }}" class="button fit big">{{ forloop.index }}강. {{ page_topic.name }}</a></li>
   </ul>
 {% endfor %}
