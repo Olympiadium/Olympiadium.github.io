@@ -1,18 +1,18 @@
 Topic1:
-  name: Getting Started
+  name: TeX 시작하기
 Topic2:
-  name: Fonts and Spacing
+  name: 글꼴 및 간격 조정
 Topic3:
-  name: Page Layout
+  name: 페이지 레이아웃
 Topic4:
-  name: Basic Elements
+  name: 기본 요소
 Topic5:
-  name: Technical Elements
+  name: 기술적 요소
 Topic6:
-  name: Creating Graphics
+  name: 그림 그리기
 Topic7:
-  name: Special Packages
+  name: 특별한 패키지
 Topic8:
-  name: Programming
+  name: 프로그래밍
 Topic9:
-  name: About TeX
+  name: LaTeX3

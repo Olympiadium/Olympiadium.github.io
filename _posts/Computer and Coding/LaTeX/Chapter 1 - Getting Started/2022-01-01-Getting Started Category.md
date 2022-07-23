@@ -5,7 +5,7 @@ date: 2021-09-10
 mathjax: true
 permalink: /computer-and-coding/latex/chapter-1
 ---
-# Chapter 1. Getting Started
+# Chapter 1. TeX 시작하기
 <ul class="breadcrumb">
 	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
 	<li><a href="{{ site.homeurl }}computer-and-coding/">Computer and Coding</a></li> 
