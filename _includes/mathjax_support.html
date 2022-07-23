@@ -26,7 +26,10 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 <script>
 MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    autoload: expandable({
+      textmacros: ['text']
+    }
   },
 };
 </script>
