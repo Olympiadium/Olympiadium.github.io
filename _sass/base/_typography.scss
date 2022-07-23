@@ -304,6 +304,11 @@
 		position: relative;
 		top: -0.5em;
 	}
+	msup {
+		font-size: 1em;
+		position: relative;
+		top: -0.3em;
+	}
 
 	blockquote {
 		border-left: solid (_size(border-width) * 4) _palette(border);
