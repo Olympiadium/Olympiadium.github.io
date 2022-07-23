@@ -26,7 +26,11 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 <script>
 MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    macros: {
+      footnotesize: ['SetSize', .8],
+      small: ['SetSize', .9]
+    }
   },
   svg: {
     fontCache: 'global'
