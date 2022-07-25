@@ -8,7 +8,7 @@ permalink: /mathematical-olympiads/algebra/olym-5a/
 ---
 <h1>Olym 5A. 평균 부등식과 코시 부등식</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
 	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
 	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
 	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-5a/">Olym 5A</a></li>
@@ -24,10 +24,10 @@ permalink: /mathematical-olympiads/algebra/olym-5a/
 </div>
 <div class="6u$ 12u$(medium)">
 <ul class="actions vertical">
-  <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}theorems-and-techniques" class="button fit mid">이론 및 기술</a></li>
-  <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}exercise-problems" class="button fit mid">연습문제</a></li>
-  <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}practice-problems" class="button fit mid">실전문제</a></li>
-  <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}olym-handouts" class="button fit mid">Olym 통신강좌</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}theorems-and-techniques" class="button fit mid">이론 및 기술</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}exercise-problems" class="button fit mid">연습문제</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}practice-problems" class="button fit mid">실전문제</a></li>
+  <li><a href="{{ site.baseurl }}{{ page.permalink }}olym-handouts" class="button fit mid">Olym 통신강좌</a></li>
 </ul>
 </div>
 </div>

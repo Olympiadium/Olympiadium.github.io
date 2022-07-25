@@ -16,7 +16,7 @@
 title: Olympiadium
 email: lysnaya1@gmail.com
 description: This is a test version.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: " " # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 homeurl: "https://olympiadium.github.io/"
 
