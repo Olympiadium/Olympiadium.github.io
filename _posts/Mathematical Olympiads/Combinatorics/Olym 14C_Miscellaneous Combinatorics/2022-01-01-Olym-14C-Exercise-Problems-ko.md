@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-14c/exercise-problems/
 # Olym 14C. Miscellaneous Combinatorics <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-14c/">Olym 14C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-14c/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-14c/">Olym 14C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-14c/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here

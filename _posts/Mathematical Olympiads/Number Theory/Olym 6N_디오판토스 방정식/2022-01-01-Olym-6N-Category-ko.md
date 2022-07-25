@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/number-theory/olym-6n/
 ---
 <h1>Olym 6N. 디오판토스 방정식 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-6n/">Olym 6N</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-6n/">Olym 6N</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

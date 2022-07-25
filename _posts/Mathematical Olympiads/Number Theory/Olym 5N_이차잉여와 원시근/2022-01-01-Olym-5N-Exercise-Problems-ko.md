@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-5n/exercise-problems/
 # Olym 5N. 이차잉여와 원시근 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-5n/">Olym 5N</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-5n/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-5n/">Olym 5N</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-5n/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here

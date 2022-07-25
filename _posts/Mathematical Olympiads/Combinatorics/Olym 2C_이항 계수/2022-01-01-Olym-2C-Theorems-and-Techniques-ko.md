@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-2c/theorems-and-techniques
 # Olym 2C. 이항 계수 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-2c/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-2c/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 이항계수의 정의와 성질

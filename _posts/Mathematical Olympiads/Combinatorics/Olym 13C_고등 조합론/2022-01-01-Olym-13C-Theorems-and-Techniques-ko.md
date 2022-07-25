@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-13c/theorems-and-technique
 # Olym 13C. 고등 조합론 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-13c/">Olym 13C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-13c/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-13c/">Olym 13C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-13c/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 Comming Soon!

@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-1n/exercise-problems/
 # Olym 1N. 약수와 배수 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-1n/">Olym 1N</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-1n/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-1n/">Olym 1N</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-1n/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example 1. Classical Divisibility

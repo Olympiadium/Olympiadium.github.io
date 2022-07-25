@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/combinatorics/olym-14c/
 ---
 <h1>Olym 14C. Miscellaneous Combinatorics </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-14c/">Olym 14C</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-14c/">Olym 14C</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

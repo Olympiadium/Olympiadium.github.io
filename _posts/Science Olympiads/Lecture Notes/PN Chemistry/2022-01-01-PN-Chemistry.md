@@ -8,10 +8,10 @@ permalink: /science-olympiads/lecture-notes/private-note-chemistry/
 ---
 <h1>Private Note Chemistry</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/private-note-chemistry/">PN Chemistry</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/private-note-chemistry/">PN Chemistry</a></li>
 </ul>
 
 {% for topic in site.data.pn_chemistry_topic_list %}

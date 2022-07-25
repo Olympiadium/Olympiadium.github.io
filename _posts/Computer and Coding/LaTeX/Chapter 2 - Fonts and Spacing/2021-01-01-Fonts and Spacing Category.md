@@ -7,10 +7,10 @@ permalink: /computer-and-coding/latex/chapter-2
 ---
 # Chapter 2. 글꼴 및 간격 조정
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}computer-and-coding/">Computer and Coding</a></li> 
-	<li><a href="{{ site.url }}computer-and-coding/latex/">LaTeX</a></li>
-	<li><a href="{{ site.url }}computer-and-coding/latex/chapter-2">Chapter 2</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/computer-and-coding/">Computer and Coding</a></li> 
+	<li><a href="{{ site.baseurl }}/computer-and-coding/latex/">LaTeX</a></li>
+	<li><a href="{{ site.baseurl }}/computer-and-coding/latex/chapter-2">Chapter 2</a></li>
 </ul>
 
 ### 글꼴

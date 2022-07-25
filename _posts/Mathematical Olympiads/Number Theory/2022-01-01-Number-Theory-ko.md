@@ -8,9 +8,9 @@ permalink: /mathematical-olympiads/number-theory/
 ---
 <h1>Number Theory Content</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li>
 </ul>
 {% for topic in site.data.number-theory_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}

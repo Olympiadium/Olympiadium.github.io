@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-9n/theorems-and-techniques
 # Olym 9N. 고등 정수론 II <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-9n/">Olym 9N</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-9n/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-9n/">Olym 9N</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-9n/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 펠 방정식

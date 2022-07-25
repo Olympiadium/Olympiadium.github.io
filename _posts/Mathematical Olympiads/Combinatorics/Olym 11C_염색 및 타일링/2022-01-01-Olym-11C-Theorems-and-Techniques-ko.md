@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-11c/theorems-and-technique
 # Olym 11C. 염색 및 타일링 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-11c/">Olym 11C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-11c/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-11c/">Olym 11C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-11c/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 Comming Soon!

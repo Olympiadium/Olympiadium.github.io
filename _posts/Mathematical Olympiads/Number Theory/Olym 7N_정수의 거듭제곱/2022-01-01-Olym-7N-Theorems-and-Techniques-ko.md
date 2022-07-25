@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-7n/theorems-and-techniques
 # Olym 7N. 정수의 거듭제곱 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-7n/">Olym 7N</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-7n/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-7n/">Olym 7N</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-7n/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 페르마 두 제곱수 정리 Fermats' Chritsmas Theorem

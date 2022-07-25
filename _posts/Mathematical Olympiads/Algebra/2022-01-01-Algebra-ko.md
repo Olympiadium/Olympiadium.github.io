@@ -8,9 +8,9 @@ permalink: /mathematical-olympiads/algebra/
 ---
 <h1>Algebra Content</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/">Algebra</a></li>
 </ul>
 {% for topic in site.data.algebra_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}

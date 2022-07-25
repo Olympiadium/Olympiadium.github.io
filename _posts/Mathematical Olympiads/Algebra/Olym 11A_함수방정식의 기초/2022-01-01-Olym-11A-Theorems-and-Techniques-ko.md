@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/algebra/olym-11a/theorems-and-techniques/
 # Olym 11A. 함수방정식의 기초 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-11a/">Olym 11A</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-11a/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-11a/">Olym 11A</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-11a/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 함수의 정의와 기본 성질

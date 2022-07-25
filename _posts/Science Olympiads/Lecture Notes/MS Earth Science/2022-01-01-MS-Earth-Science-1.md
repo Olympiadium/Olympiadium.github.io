@@ -9,18 +9,18 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 # 1강. 판 구조론의 정립
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a></li>
 </ul>
 
 ## 대륙 이동설
 1912년 베게너가 주장
 #### 증거
 <yellowboard>
-<span class="image right"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/evidence.svg"></span>
+<span class="image right"><img src="{{ site.baseurl }}/{{ site.baseurl }}/assets/images/posts/evidence.svg"></span>
 <ul class="inbox">
 <li>해안선 모양의 유사성</li>
 <li>지질 구조의 연속성</li>
@@ -46,7 +46,7 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 <greenborder>
 (초)음파를 이용하여 수심을 측정하는 방법. $$d=\frac{1}{2}vt$$ $d$는 수심, $v$는 (초)음파의 속력, $t$는 왕복시간 <br>
 일반적으로 물 속에서 초음파의 속력은 약 $1500m/s$이다. </greenborder>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/해저지형.png" width="80%" class="center">
+<img src="{{ site.baseurl }}/{{ site.baseurl }}/assets/images/posts/해저지형.png" width="80%" class="center">
 
 #### 해양저 확장설의 증거
 <yellowboard>

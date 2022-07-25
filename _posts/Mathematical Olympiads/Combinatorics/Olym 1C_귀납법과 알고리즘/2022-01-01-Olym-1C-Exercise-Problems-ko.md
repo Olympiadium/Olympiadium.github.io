@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-1c/exercise-problems/
 # Olym 1C. 귀납법과 알고리즘 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-1c/">Olym 1C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-1c/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-1c/">Olym 1C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-1c/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here

@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-6n/practice-problems/
 # Olym 6N. 디오판토스 방정식 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-6n/">Olym 6N</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-6n/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-6n/">Olym 6N</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/number-theory/olym-6n/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

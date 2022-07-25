@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-15c/practice-problems/
 # Olym 15C. 조합 Finals <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-15c/">Olym 15C</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-15c/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-15c/">Olym 15C</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/combinatorics/olym-15c/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

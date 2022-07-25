@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/algebra/olym-8a/exercise-problems/
 # Olym 8A. 다변수 부등식 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-8a/">Olym 8A</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-8a/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-8a/">Olym 8A</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-8a/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here

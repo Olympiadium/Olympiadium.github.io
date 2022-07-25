@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/algebra/olym-14a/theorems-and-techniques/
 # Olym 14A. 대수 Finals <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-14a/">Olym 14A</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-14a/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-14a/">Olym 14A</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-14a/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 Comming Soon!

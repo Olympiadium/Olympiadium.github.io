@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/geometry/olym-6g/practice-problems/
 # Olym 6G. 기하학의 점 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-6g/">Olym 6G</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-6g/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-6g/">Olym 6G</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-6g/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

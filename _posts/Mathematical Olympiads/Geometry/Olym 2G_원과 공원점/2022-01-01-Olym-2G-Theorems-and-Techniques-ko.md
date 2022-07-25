@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 # Olym 2G. 원과 공원점 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-2g/">Olym 2G</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-2g/">Olym 2G</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 방멱 정리(PoP)
@@ -22,8 +22,8 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 
 <i>Diagram.</i>
 <center>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 2G/방멱정리1.png"  width="30%">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/posts/Olym 2G/방멱정리2.png"  width="40%">
+    <img src="{{ site.baseurl }}/{{ site.baseurl }}/images/posts/Olym 2G/방멱정리1.png"  width="30%">
+    <img src="{{ site.baseurl }}/{{ site.baseurl }}/images/posts/Olym 2G/방멱정리2.png"  width="40%">
 </center>
 
 <yellowboard>중심이 $O$, 반지름이 $R$인 원 $\omega$에 대한 점 $P$의 방멱값은 $$\operatorname{Pow}_\omega(P)=OP^2-R^2$$으로 정의한다. </yellowboard>

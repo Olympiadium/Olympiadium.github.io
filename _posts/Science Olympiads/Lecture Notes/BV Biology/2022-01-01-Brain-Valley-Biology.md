@@ -8,10 +8,10 @@ permalink: /science-olympiads/lecture-notes/brain-valley-biology/
 ---
 <h1>Brain Valley Biology</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
-	<li><a href="{{ site.url }}science-olympiads/lecture-notes/brain-valley-biology/">Brain Valley Biology</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/brain-valley-biology/">Brain Valley Biology</a></li>
 </ul>
 
 {% for topic in site.data.brain_valley_biology_topic_list %}

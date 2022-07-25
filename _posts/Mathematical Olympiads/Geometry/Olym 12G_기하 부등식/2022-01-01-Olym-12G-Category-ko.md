@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/geometry/olym-12g/
 ---
 <h1>Olym 12G. 기하 부등식 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-12g/">Olym 12G</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-12g/">Olym 12G</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

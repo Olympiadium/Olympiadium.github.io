@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/geometry/olym-12g/practice-problems/
 # Olym 12G. 기하 부등식 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.url }}">Olympiadium</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-12g/">Olym 12G</a></li> 
-	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-12g/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.baseurl }}/">Olympiadium</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-12g/">Olym 12G</a></li> 
+	<li><a href="{{ site.baseurl }}/mathematical-olympiads/geometry/olym-12g/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here
