@@ -5,7 +5,7 @@
 		<div class="inner">
 
 			<!-- Logo -->
-			<a href="{{ site.baseurl }}/" class="logo">
+			<a href="{{ site.url }}{{ site.baseurl }}/" class="logo">
 				<span class="symbol">
 
 					{% if site.font-awesome-icon-logo %}
@@ -14,7 +14,7 @@
 
 					{% else %}
 
-					<img src="{{ site.baseurl }}/{{ site.logo-image-url }}" alt="" />
+					<img src="{{ site.url }}{{ site.baseurl }}/{{ site.logo-image-url }}" alt="" />
 
 					{% endif %}
 
