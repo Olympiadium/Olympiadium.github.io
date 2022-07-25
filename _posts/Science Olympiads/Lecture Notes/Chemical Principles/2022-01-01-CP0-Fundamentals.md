@@ -16,10 +16,12 @@ permalink: /science-olympiads/lecture-notes/chemical-principles/chapter-0/
 	<li><a href="{{ site.baseurl }}/science-olympiads/lecture-notes/chemical-principles/chapter-0/">0강</a></li>
 </ul>
 
-### Matter and Energy
-
+## Matter and Energy
+#### 접두사
+#### 단위의 환산
 #### 유효숫자 계산법
+#### 정확도와 정밀도
 #### 에너지 보존
 
-### Elements and Atoms
+## Elements and Atoms
 
