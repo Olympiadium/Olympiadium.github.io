@@ -8,6 +8,8 @@
     {% include article_header.html %}
     
     <div class="post">
+      <span class="post-title"></span>
+      <span class="post-date"></span>
       {% if page.tags %}
       {% for tag in page.tags %}
           <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{}</a>
