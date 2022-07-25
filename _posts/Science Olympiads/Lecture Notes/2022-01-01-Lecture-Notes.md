@@ -14,16 +14,16 @@ permalink: /science-olympiads/lecture-notes/
 </ul>
 
 <ul class="actions fit big">
-<li><a href="{{ site.baseurl }}{{ page.permalink}}private-note-chemistry" class="button fit big center"> Private Note Chemistry </a></li>
-<li><a href="{{ site.baseurl }}{{ page.permalink}}megastudy-biology" class="button fit big center"> Megastudy Biology </a></li>
+<li><a href="{{ page.url}}private-note-chemistry" class="button fit big center"> Private Note Chemistry </a></li>
+<li><a href="{{ page.url}}megastudy-biology" class="button fit big center"> Megastudy Biology </a></li>
 </ul>
 <ul class="actions fit big">
-<li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley-physics" class="button fit big center"> Brain Valley Physics </a></li>
-<li><a href="{{ site.baseurl }}{{ page.permalink}}megastudy-earth-science" class="button fit big center"> Megastudy Earth Science </a></li>
+<li><a href="{{ page.url}}brain-valley-physics" class="button fit big center"> Brain Valley Physics </a></li>
+<li><a href="{{ page.url}}megastudy-earth-science" class="button fit big center"> Megastudy Earth Science </a></li>
 </ul>
 <ul class="actions fit big">
-<li><a href="{{ site.baseurl }}{{ page.permalink}}chemical-principles" class="button fit big center"> Chemical Principles - Atkins </a></li>
+<li><a href="{{ page.url}}chemical-principles" class="button fit big center"> Chemical Principles - Atkins </a></li>
 </ul>
 <ul class="actions fit big">
-<li><a href="{{ site.baseurl }}{{ page.permalink}}brain-valley-biology" class="button fit big center"> Brain Valley Biology </a></li>
+<li><a href="{{ page.url}}brain-valley-biology" class="button fit big center"> Brain Valley Biology </a></li>
 </ul>

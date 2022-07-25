@@ -18,6 +18,6 @@ permalink: /science-olympiads/lecture-notes/private-note-chemistry/
 {% capture topic_name %}{{ topic | first }}{% endcapture %}
 {% assign page_topic = site.data.pn_chemistry_topic_list[topic_name] %}
   <ul class="actions fit big">
-  <li><a href="{{ site.baseurl }}{{ page.permalink}}chapter-{{ forloop.index | plus:0 }}" class="button fit big">{{ forloop.index | plus:0 }}강. {{ page_topic.name }}</a></li>
+  <li><a href="{{ page.url}}chapter-{{ forloop.index | plus:0 }}" class="button fit big">{{ forloop.index | plus:0 }}강. {{ page_topic.name }}</a></li>
   </ul>
 {% endfor %}
