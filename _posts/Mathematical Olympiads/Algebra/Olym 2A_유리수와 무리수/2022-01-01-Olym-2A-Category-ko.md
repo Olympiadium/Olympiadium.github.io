@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/algebra/olym-2a/
 ---
 <h1>Olym 2A. 유리수와 무리수 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-2a/">Olym 2A</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-2a/">Olym 2A</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

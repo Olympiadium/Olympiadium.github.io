@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/combinatorics/olym-7c/
 ---
 <h1>Olym 7C. 그래프 이론 기술 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-7c/">Olym 7C</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-7c/">Olym 7C</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

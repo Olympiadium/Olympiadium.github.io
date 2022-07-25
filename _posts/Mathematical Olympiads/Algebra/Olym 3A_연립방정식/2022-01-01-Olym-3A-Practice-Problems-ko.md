@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/algebra/olym-3a/practice-problems/
 # Olym 3A. 연립방정식 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-3a/">Olym 3A</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-3a/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-3a/">Olym 3A</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-3a/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

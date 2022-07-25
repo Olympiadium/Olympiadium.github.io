@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/number-theory/olym-7n/
 ---
 <h1>Olym 7N. 정수의 거듭제곱 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-7n/">Olym 7N</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-7n/">Olym 7N</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

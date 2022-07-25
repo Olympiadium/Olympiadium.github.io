@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-12n/theorems-and-technique
 # Olym 12N. 정수 수열 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/">Olym 12N</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-12n/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-12n/">Olym 12N</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-12n/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 Comming Soon!

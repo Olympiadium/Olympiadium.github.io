@@ -8,9 +8,9 @@ permalink: /mathematical-olympiads/combinatorics/
 ---
 <h1>Combinatorics Content</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li>
 </ul>
 {% for topic in site.data.combinatorics_topic_list %}
 {% capture topic_name %}{{ topic | first }}{% endcapture %}

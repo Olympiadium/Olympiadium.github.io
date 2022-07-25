@@ -9,8 +9,8 @@ permalink: /templates/
 # Olym n. Template <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}templates/">Templates</a></li>
 </ul>
 
 ## Section
@@ -36,8 +36,8 @@ permalink: /templates/
 # Olym n. Template <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}templates/">Templates</a></li>
 </ul>
 
 ### Example n. Title Here
@@ -70,8 +70,8 @@ Solution Here.
 # Olym n. Template <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}templates/">Templates</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}templates/">Templates</a></li>
 </ul>
 
 ### Problem n. Title Here

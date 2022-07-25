@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/number-theory/olym-10n/
 ---
 <h1>Olym 10N. 정수적 함수 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-10n/">Olym 10N</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-10n/">Olym 10N</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

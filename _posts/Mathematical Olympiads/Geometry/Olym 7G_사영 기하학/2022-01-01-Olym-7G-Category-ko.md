@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/geometry/olym-7g/
 ---
 <h1>Olym 7G. 사영 기하학 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-7g/">Olym 7G</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-7g/">Olym 7G</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

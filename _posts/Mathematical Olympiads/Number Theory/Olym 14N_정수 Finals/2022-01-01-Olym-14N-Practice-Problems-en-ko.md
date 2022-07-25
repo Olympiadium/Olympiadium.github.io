@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-14n/practice-problems/
 # Olym 14N. 정수 Finals <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-14n/">Olym 14N</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-14n/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-14n/">Olym 14N</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-14n/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

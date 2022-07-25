@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-2n/theorems-and-techniques
 # Olym 2N. 소수와 합성수 <br> <ssup> - 이론 및 기술</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-2n/">Olym 2N</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-2n/theorems-and-techniques/">이론 및 기술</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-2n/">Olym 2N</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-2n/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
 ## 소수와 합성수의 정의와 기본 성질

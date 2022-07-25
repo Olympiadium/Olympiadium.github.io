@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-13c/practice-problems/
 # Olym 13C. 고등 조합론 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-13c/">Olym 13C</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-13c/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-13c/">Olym 13C</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-13c/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

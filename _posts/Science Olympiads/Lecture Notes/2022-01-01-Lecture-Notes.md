@@ -8,9 +8,9 @@ permalink: /science-olympiads/lecture-notes/
 ---
 <h1>Lecture Notes</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li>
 </ul>
 
 <ul class="actions fit big">

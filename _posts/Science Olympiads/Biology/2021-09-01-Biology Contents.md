@@ -7,7 +7,7 @@ permalink: /science-olympiads/biology/
 ---
 <h1>Biology Contents</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/biology/">Biology</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/biology/">Biology</a></li>
 </ul>

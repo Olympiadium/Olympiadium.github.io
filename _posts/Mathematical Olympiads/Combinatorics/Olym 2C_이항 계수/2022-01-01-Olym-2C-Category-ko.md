@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/combinatorics/olym-2c/
 ---
 <h1>Olym 2C. 이항 계수 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

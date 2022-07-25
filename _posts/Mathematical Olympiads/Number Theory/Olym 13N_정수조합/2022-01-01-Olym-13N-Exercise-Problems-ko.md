@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/number-theory/olym-13n/exercise-problems/
 # Olym 13N. 정수조합 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/">Olym 13N</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/number-theory/olym-13n/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/">Number Theory</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-13n/">Olym 13N</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/number-theory/olym-13n/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here

@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/combinatorics/olym-2c/practice-problems/
 # Olym 2C. 이항 계수 <br> <ssup> - 실전문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/combinatorics/olym-2c/practice-problems/">실전문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/">Combinatorics</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-2c/">Olym 2C</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/combinatorics/olym-2c/practice-problems/">실전문제</a></li>
 </ul>
 
 ### Problem n. Title Here

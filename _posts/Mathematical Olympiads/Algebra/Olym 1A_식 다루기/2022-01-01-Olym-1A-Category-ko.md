@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/algebra/olym-1a/
 ---
 <h1>Olym 1A. 식 다루기</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-1a/">Olym 1A</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-1a/">Olym 1A</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

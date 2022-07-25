@@ -9,11 +9,11 @@ permalink: /science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/
 # 1강. 판 구조론의 정립
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/megastudy-earth-science/">MS Earth Science</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/megastudy-earth-science/chapter-1/">1강</a></li>
 </ul>
 
 ## 대륙 이동설

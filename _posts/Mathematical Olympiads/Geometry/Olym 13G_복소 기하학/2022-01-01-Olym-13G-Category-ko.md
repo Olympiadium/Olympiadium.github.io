@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/geometry/olym-13g/
 ---
 <h1>Olym 13G. 복소 기하학 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/">Geometry</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/geometry/olym-13g/">Olym 13G</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/geometry/">Geometry</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/geometry/olym-13g/">Olym 13G</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

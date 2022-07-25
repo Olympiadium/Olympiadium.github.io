@@ -8,10 +8,10 @@ permalink: /mathematical-olympiads/algebra/olym-9a/
 ---
 <h1>Olym 9A. 집합과 수열 </h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-9a/">Olym 9A</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-9a/">Olym 9A</a></li>
 </ul>
 <div class="row">
 <div class="6u 12u$(medium)">

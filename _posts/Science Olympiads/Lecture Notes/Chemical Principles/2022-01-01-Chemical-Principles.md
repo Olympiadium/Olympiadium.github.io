@@ -8,10 +8,10 @@ permalink: /science-olympiads/lecture-notes/chemical-principles/
 ---
 <h1>Private Note Chemistry</h1>
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/">Science Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
-	<li><a href="{{ site.homeurl }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/">Science Olympiads</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/">Lecture Notes</a></li> 
+	<li><a href="{{ site.url }}science-olympiads/lecture-notes/chemical-principles/">Chemical Principles</a></li>
 </ul>
 
 {% for topic in site.data.chemical_principles_topic_list %}

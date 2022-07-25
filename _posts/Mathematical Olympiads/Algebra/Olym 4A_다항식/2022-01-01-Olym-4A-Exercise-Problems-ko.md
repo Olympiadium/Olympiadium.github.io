@@ -9,11 +9,11 @@ permalink: /mathematical-olympiads/algebra/olym-4a/exercise-problems/
 # Olym 4A. 다항식 <br> <ssup> - 연습문제</ssup>
 
 <ul class="breadcrumb">
-	<li><a href="{{ site.homeurl }}">Olympiadium</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/">Algebra</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-4a/">Olym 4A</a></li> 
-	<li><a href="{{ site.homeurl }}mathematical-olympiads/algebra/olym-4a/exercise-problems/">연습문제</a></li>
+	<li><a href="{{ site.url }}">Olympiadium</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/">Mathematical Olympiads</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/">Algebra</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-4a/">Olym 4A</a></li> 
+	<li><a href="{{ site.url }}mathematical-olympiads/algebra/olym-4a/exercise-problems/">연습문제</a></li>
 </ul>
 
 ### Example n. Title Here
