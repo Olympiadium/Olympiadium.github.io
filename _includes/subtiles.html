@@ -6,9 +6,9 @@
           {% if page_subcategory.parent-category == page.category %}
           <article class="style{{ page_subcategory.color | plus:0}}">
 		  <span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/pic05.jpg" alt="" />
+			<img src="{{ site.baseurl }}/images/pic05.jpg" alt="" />
 		</span>
-		<a href="{{ site.url }}{{ site.baseurl }}/{{ page.category }}/{{ page_subcategory.name | slugify }}">
+		<a href="{{ site.baseurl }}/{{ page.category }}/{{ page_subcategory.name | slugify }}">
 			<h0>{{ page_subcategory.name }}</h0>
 		</a>
 	  </article>
