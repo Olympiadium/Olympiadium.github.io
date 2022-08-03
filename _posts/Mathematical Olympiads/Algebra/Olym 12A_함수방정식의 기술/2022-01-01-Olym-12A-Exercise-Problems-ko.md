@@ -58,3 +58,36 @@ Solution Here.
 <summary><b>Solution 2</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> 다음 조건을 만족하는 함수 $f: \mathbb{R} \rightarrow \mathbb{R}$을 모두 구하여라. (단, $\mathbb{R}$은 실수 전체의 집합)
+  <center><ssbr/> 모든 실수 $x, y$에 대하여 $f(x^3)+f(y^3)=(x+y)\left(f(x^2)-f(xy)+f(y^2)\right)$ </center> </skyblueboard>
+[Albania TST 2012](https://artofproblemsolving.com/community/c6h534834){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Example n. Title Here
+<skyblueboard> Problem Here </skyblueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>

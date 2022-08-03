@@ -49,16 +49,17 @@ Solution Here.
 </details></pinkborder>
 
 ### Example n. Title Here
-<skyblueboard> Problem Here </skyblueboard>
-[Source Here](Link Here){:target="blank"}
+<skyblueboard> $p+2$와 $p^2+2p-8$이 모두 소수가 되도록 하는 소수 $p$를 모두 구하여라. </skyblueboard>
+[Albania 2012](https://artofproblemsolving.com/community/c6h472768){:target="blank"}
+<!--grade: 2, difficulty: 2-->
 <pinkborder><details>
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
 
 ### Example n. Title Here
-<skyblueboard> Problem Here </skyblueboard>
-[Source Here](Link Here){:target="blank"}
+<skyblueboard> $2^p+p^2$이 소수가 되도록 하는 소수 $p$를 모두 구하여라. </skyblueboard>
+[Albania TST 2011](https://artofproblemsolving.com/community/c6h408613){:target="blank"}
 <pinkborder><details>
 <summary><b>Solution</b></summary>
 Solution Here. 
