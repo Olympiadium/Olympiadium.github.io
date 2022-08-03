@@ -39,6 +39,10 @@ Line break with class = "<mark>large</mark>" or "<mark>big</mark>"<br class="lar
 Line break with class = "<mark>huge</mark>"<br class="huge">
 Finish.
 
+<h3>Asymptotes</h3>
+
+<h3>TikZ Figures</h3>
+
 <h3>Blockquote</h3>
 Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod.
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>

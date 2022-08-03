@@ -17,7 +17,6 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 </ul>
 
 ## 각의 표현
-<!--기하 문제들 중에는 그림이 한 가지로 정해지는 경우도 있지만, 그렇지 않은 경우도 있다. 하나의 문제에 대하여 가능한 그림이 여러가지라면, 가능한 모든 경우에 대하여 증명을 해주어야만 점수를 모두 받을 수 있고, 방향각을 이용하여 여러 경우를 한 번에 다루는 방법을 배워보자. -->
 ### 방향각(Directed Angle)
 <yellowboard><b>Definition 1.1.</b> 평행하지 않은 두 직선 $\ell, m$에 대해서 방향각 $\measuredangle(\ell, m)$은 $\ell$에서 $m$까지 <span style="color:red">반시계 방향</span>으로 측정된 각도를 의미한다. </yellowboard>
 <center>
@@ -29,7 +28,6 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <p>$$-70^\circ=110^\circ=290^\circ=\ldots$$</p>
 라 할 수 있다. 
 
-<!--이제 방향각의 기본적인 성질에 대하여 알아보자. -->
 <orangeboard><b>Proposition 1.2.</b> 임의의 두 직선 $\ell, m$에 대하여 $\measuredangle(\ell, m)=-\measuredangle(m, \ell)$이다. </orangeboard>
 
 <yellowboard><b>Definition 1.3.</b> 세 점 $A, O, B$에 대하여 $$\measuredangle AOB \overset{\rm def}= \measuredangle(\overleftrightarrow{AO}, \overleftrightarrow{BO})$$로 정의한다. </yellowboard>

@@ -32,7 +32,7 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 
 ## 근축과 근심
 <yellowboard> 두 원 $\omega_1$과 $\omega_2$에 대하여 $\operatorname{Pow}_{\omega_1}(P)=\operatorname{Pow}_{\omega_2}(P)$를 만족하는 점 $P$의 집합을 원 $\omega_1, \omega_2$에 대한 <span style="color:blue">근축(radical axis)</span>라 정의한다. </yellowboard>
-<orangeboard> 근축은 O_1O_2에 수직이다. </orangeboard>
+<orangeboard> 근축은 $O_1O_2$에 수직이다. </orangeboard>
 
 ### 오일러 정리
 ### 수심의 방멱값
