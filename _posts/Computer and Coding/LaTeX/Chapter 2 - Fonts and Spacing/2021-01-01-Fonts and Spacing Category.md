@@ -14,13 +14,12 @@ permalink: /computer-and-coding/latex/chapter-2
 </ul>
 
 ### 글꼴
-1. [글꼴]({{site.url}}computer-and-coding/latex/chapter-2/fonts)
-1. [특수 문자 입력]({{site.url}}computer-and-coding/latex/chapter-2/fonts)
-1. [색상]({{site.url}}computer-and-coding/latex/chapter-2/colors)
-1. [하이픈 넣기]({{site.url}}computer-and-coding/latex/chapter-2/hyphenation
-)
+1. [글꼴](fonts)
+1. [특수 문자 입력](special-fonts)
+1. [색상](colors)
+1. [하이픈 넣기](hyphenation)
 
 ### 간격 조정
-1. [길이]({{site.url}}computer-and-coding/latex/chapter-2/lengths)
-1. [띄어쓰기]({{site.url}}computer-and-coding/latex/chapter-2/spacing)
-1. [간격 미세 조정]({{site.url}}computer-and-coding/latex/chapter-2/fine-tuning-space)
+1. [길이]({{site.url}}/computer-and-coding/latex/chapter-2/lengths)
+1. [띄어쓰기]({{site.url}}/computer-and-coding/latex/chapter-2/spacing)
+1. [간격 미세 조정]({{site.url}}/computer-and-coding/latex/chapter-2/fine-tuning-space)
