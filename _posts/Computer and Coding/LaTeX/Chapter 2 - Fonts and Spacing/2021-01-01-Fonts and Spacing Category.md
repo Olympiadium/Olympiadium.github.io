@@ -14,10 +14,10 @@ permalink: /computer-and-coding/latex/chapter-2
 </ul>
 
 ### 글꼴
-1. [글꼴](/fonts)
-1. [특수 문자 입력](/special-fonts)
-1. [색상](/colors)
-1. [하이픈 넣기](/hyphenation)
+1. [글꼴](./fonts)
+1. [특수 문자 입력](./special-fonts)
+1. [색상](./colors)
+1. [하이픈 넣기](./hyphenation)
 
 ### 간격 조정
 1. [길이]({{site.url}}/computer-and-coding/latex/chapter-2/lengths)
