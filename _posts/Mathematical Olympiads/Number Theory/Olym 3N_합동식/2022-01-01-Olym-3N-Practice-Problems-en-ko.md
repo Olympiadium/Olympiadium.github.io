@@ -23,3 +23,43 @@ permalink: /mathematical-olympiads/number-theory/olym-3n/practice-problems/
 <summary><b>Solution</b></summary>
 Solution Here. 
 </details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> $2^n+5^n-n$이 1000의 배수가 되도록 하는 가장 작은 양의 정수 $n$을 구하여라. </blueboard>
+[AIME 2021 P](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
+
+### Problem n. Title Here
+<blueboard> Problem Here </blueboard>
+[Source Here](Link Here){:target="blank"}
+<pinkborder><details>
+<summary><b>Solution</b></summary>
+Solution Here. 
+</details></pinkborder>
