@@ -131,7 +131,9 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 <!--그림-->
 <!--증명-->
 
-#### 심슨 정리의 응용
+### 사인 정리
+
+### 코사인 정리
 
 ### Phantom Point
 
