@@ -140,5 +140,5 @@ permalink: /mathematical-olympiads/geometry/olym-1g/theorems-and-techniques/
 ## 대표 Configurations
 #### Three Tangents
 #### Right Angles on Incircle Chord
-### Steiner-Lehmus Theorem
+#### Steiner-Lehmus Theorem
 #### $60^\circ$ 삼각형
