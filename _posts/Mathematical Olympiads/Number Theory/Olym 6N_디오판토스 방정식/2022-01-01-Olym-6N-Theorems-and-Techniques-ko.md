@@ -19,13 +19,16 @@ permalink: /mathematical-olympiads/number-theory/olym-6n/theorems-and-techniques
 ## 일차 디오판토스 방정식의 해법
 
 ## 부정방정식 기본 기술
-- 대칭성 WLOG
 
 ### 인수분해
 
 ### 크기 비교
 
+### 기우성
+
 ### Modular 분석
+
+### 대칭성 WLOG
 
 ## 지수 디오판토스 방정식
 

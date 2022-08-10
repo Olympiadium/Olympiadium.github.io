@@ -22,8 +22,8 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 
 <i>Diagram.</i>
 <center>
-    <img src="{{ site.baseurl }}/{{ site.baseurl }}/images/posts/Olym 2G/방멱정리1.png"  width="30%">
-    <img src="{{ site.baseurl }}/{{ site.baseurl }}/images/posts/Olym 2G/방멱정리2.png"  width="40%">
+    <img src="{{ site.baseurl }}/images/posts/Mathematical Olympiads/Olym 2G/방멱정리1.png"  width="30%">
+    <img src="{{ site.baseurl }}/images/posts/Mathematical Olympiads/Olym 2G/방멱정리2.png"  width="40%">
 </center>
 
 <yellowboard>중심이 $O$, 반지름이 $R$인 원 $\omega$에 대한 점 $P$의 방멱값은 $$\operatorname{Pow}_\omega(P)=OP^2-R^2$$으로 정의한다. </yellowboard>
@@ -58,7 +58,7 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 ## 오일러 직선
 <greenboard><b>Theorem 2.n. </b>삼각형 $ABC$의 외심을 $O$, 무게중심을 $G$, 수심을 $H$라고 할 때, $O, G, H$는 한 직선 위에 놓이는데, 이 직선을 <span style="color:blue">오일러 직선</span>이라 한다. </greenboard>
 
-구점원의 중심과 오일러 직선
+<!--구점원의 중심과 오일러 직선-->
 
 ## 아폴로니우스의 원
 
