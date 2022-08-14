@@ -38,6 +38,7 @@ permalink: /mathematical-olympiads/geometry/olym-2g/theorems-and-techniques/
 ### 수심의 방멱값
 
 ### 내접원
+
 ### 방접원
 
 ### 외접사각형

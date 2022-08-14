@@ -16,4 +16,4 @@ permalink: /mathematical-olympiads/algebra/olym-9a/theorems-and-techniques/
 	<li><a href="{{ site.baseurl }}/mathematical-olympiads/algebra/olym-9a/theorems-and-techniques/">이론 및 기술</a></li>
 </ul>
 
-Comming Soon!
+### Beatty Sequence
